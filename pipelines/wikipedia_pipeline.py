@@ -9,7 +9,8 @@ from io import StringIO
 from pipelines.geocoding import get_stadium_location
 from azure.storage.blob import  BlobClient
 
-
+from dotenv import load_dotenv 
+load_dotenv()
 
 
 def get_wikipedia_page(url: str):
@@ -241,19 +242,20 @@ def write_wikipedia_data(**kwargs):
         os.makedirs(data_dir, exist_ok=True)
         
         # Save both CSV and JSON formats
-        csv_path = os.path.join(data_dir, f"cleaned_stadiums_data_{current_time}.csv")
-        json_path = os.path.join(data_dir, f"cleaned_stadiums_data_{current_time}.json")
+        # csv_path = os.path.join(data_dir, f"cleaned_stadiums_data_{current_time}.csv")
+        # json_path = os.path.join(data_dir, f"cleaned_stadiums_data_{current_time}.json")
         
         # df.to_csv(csv_path, index=False)
         # df.to_json(json_path, orient='records', indent=2)
         
         # Save to Azure Blob Storage
         # Convert DataFrame to CSV string and upload to Azure Blob Storage
+
         csv_buffer = StringIO()  
         df.to_csv(csv_buffer, index=False)
         csv_data = csv_buffer.getvalue()
-
-        sas_url= f'https://footballstorage.blob.core.windows.net/footballde/Data/cleaned_stadiums_data_{current_time}.csv?sp=racwd&st=2025-05-11T16:05:57Z&se=2025-05-14T00:05:57Z&spr=https&sv=2024-11-04&sr=c&sig=nf1Es9dGyxp%2FV93kQdddEqBMMmVB%2Bny%2F6JvvHUw20WI%3D'
+        sas_key = os.environ["AZURE_SAS_KEY"]
+        sas_url= f'https://footballstorage.blob.core.windows.net/footballde/Data/cleaned_stadiums_data_{current_time}.csv' + sas_key
     
         blob_client = BlobClient.from_blob_url(sas_url)
         blob_client.upload_blob(csv_data, overwrite=True)
@@ -263,6 +265,7 @@ def write_wikipedia_data(**kwargs):
         print(f"Stadiums with locations found: {df['location'].notna().sum()}")
         
         return "Done"
+    
     except Exception as e:
         print(f"Error in write_wikipedia_data: {e}")
         raise
