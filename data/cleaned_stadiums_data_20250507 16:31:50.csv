@@ -1,0 +1,383 @@
+stadiums,capacity,region,country,city,original_stadium_name,location,lat,lon
+Rungrado 1st of May Stadium,114000,East Asia,North Korea,Pyongyang,Rungrado 1st of May Stadium,"[39.0496732, 125.7753215]",39.0496732,125.7753215
+Michigan Stadium,107601,North America,United States,Ann Arbor - Michigan,Michigan Stadium,"[42.2658749, -83.7486841]",42.2658749,-83.7486841
+Ohio Stadium,102780,North America,United States,Columbus - Ohio,Ohio Stadium,"[40.0016458, -83.0197374]",40.0016458,-83.0197374
+Melbourne Cricket Ground,100024,Oceania,Australia,Melbourne,Melbourne Cricket Ground,"[-37.819909, 144.983225]",-37.819909,144.983225
+Camp Nou,99354,Europe,Spain,Barcelona - Catalonia,Camp Nou,"[41.3808046, 2.1158872]",41.3808046,2.1158872
+FNB Stadium,94736,Africa,South Africa,Johannesburg,FNB Stadium,"[-26.2347063, 27.9826439]",-26.2347063,27.9826439
+New Administrative Capital Stadium,93940,Africa,Egypt,New Administrative Capital,New Administrative Capital Stadium,"[29.8921738, 31.673227]",29.8921738,31.673227
+Rose Bowl Stadium,92800,North America,United States,Pasadena - California,Rose Bowl Stadium,"[34.1613492, -118.1676674]",34.1613492,-118.1676674
+Cotton Bowl Stadium,92100,North America,United States,Dallas,Cotton Bowl Stadium,"[32.7796119, -96.7596025]",32.7796119,-96.7596025
+Wembley Stadium,90000,Europe,England,London - England,Wembley Stadium,"[51.5560695, -0.2796034]",51.5560695,-0.2796034
+Lusail Stadium,88966,West Asia,Qatar,Lusail,Lusail Stadium,"[25.4208329, 51.4904784]",25.4208329,51.4904784
+Estadio Azteca,87523,North America,Mexico,Mexico City,Estadio Azteca,"[19.3029794, -99.15047]",19.3029794,-99.15047
+Bukit Jalil National Stadium,87411,Southeast Asia,Malaysia,Kuala Lumpur,Bukit Jalil National Stadium,"[3.0546755, 101.691369]",3.0546755,101.691369
+Borg El-Arab Stadium,86000,Africa,Egypt,Alexandria,Borg El-Arab Stadium,"[30.9998511, 29.7296488]",30.9998511,29.7296488
+Estadio Santiago Bernabéu,85000,Europe,Spain,Madrid,Estadio Santiago Bernabéu,"[40.4530225, -3.687422]",40.4530225,-3.687422
+Estadio Mâs Monumental,84567,South America,Argentina,Buenos Aires,Estadio Mâs Monumental,"[-34.5452933, -58.4497385]",-34.5452933,-58.4497385
+Stadium Australia,83500,Oceania,Australia,Sydney,Stadium Australia,"[-33.8471082, 151.0633848]",-33.8471082,151.0633848
+MetLife Stadium,82500,North America,United States,East Rutherford - New Jersey,MetLife Stadium,"[40.813507, -74.0743442]",40.813507,-74.0743442
+Croke Park,82300,Europe,Ireland,Dublin,Croke Park,"[53.3603576, -6.2509812]",53.3603576,-6.2509812
+Jakarta International Stadium,82000,Southeast Asia,Indonesia,Jakarta,Jakarta International Stadium,"[-6.1250747, 106.860201]",-6.1250747,106.860201
+Lambeau Field,81441,North America,United States,Green Bay - Wisconsin,Lambeau Field,"[44.5009705, -88.0619681]",44.5009705,-88.0619681
+Signal Iduna Park,81365,Europe,Germany,Dortmund,Signal Iduna Park,"[51.4924922, 7.4518549]",51.4924922,7.4518549
+Stade de France,81338,Europe,France,Saint-Denis,Stade de France,"[48.9244726, 2.3601325]",48.9244726,2.3601325
+Grand Sports Arena of the Luzhniki Olympic Complex,81000,Europe,Russia,Moscow,Grand Sports Arena of the Luzhniki Olympic Complex,"[55.7157445, 37.5537673]",55.7157445,37.5537673
+Shah Alam Stadium,80372,Southeast Asia,Malaysia,Shah Alam - Selangor,Shah Alam Stadium,"[3.0821312, 101.5451144]",3.0821312,101.5451144
+Estadio Monumental,80093,South America,Peru,Lima,Estadio Monumental,"[-12.0556474, -76.9353339]",-12.0556474,-76.9353339
+Stadio Giuseppe Meazza,80018,Europe,Italy,Milan - Lombardy,Stadio Giuseppe Meazza,"[45.4782003, 9.123964]",45.4782003,9.123964
+Guangdong Olympic Stadium,80012,East Asia,China,Guangzhou,Guangdong Olympic Stadium,"[23.1380362, 113.4034296]",23.1380362,113.4034296
+Hangzhou Olympic Sports Expo Centre Stadium,80000,East Asia,China,Hangzhou,Hangzhou Olympic Sports Expo Centre Stadium,"[30.2317101, 120.2254884]",30.2317101,120.2254884
+AT&T Stadium,80000,North America,United States,Arlington - Texas,AT&T Stadium,"[32.7478502, -97.0928337]",32.7478502,-97.0928337
+Stade des Martyrs,80000,Africa,DR Congo,Kinshasa,Stade des Martyrs,"[-5.9280631, 22.309603]",-5.9280631,22.309603
+Beijing National Stadium,80000,East Asia,China,Beijing,Beijing National Stadium,"[40.0160281, 116.3713841]",40.0160281,116.3713841
+Maracanã,78838,South America,Brazil,Rio de Janeiro - Rio de Janeiro,Maracanã,"[-22.9121619, -43.2311861]",-22.9121619,-43.2311861
+Los Angeles Memorial Coliseum,78467,North America,United States,Los Angeles - California,Los Angeles Memorial Coliseum,"[34.0139159, -118.2877996]",34.0139159,-118.2877996
+Azadi Stadium,78116,West Asia,Iran,Tehran,Azadi Stadium,"[35.7244962, 51.2755487]",35.7244962,51.2755487
+Stadion Utama Gelora Bung Karno,77193,Southeast Asia,Indonesia,Jakarta,Stadion Utama Gelora Bung Karno,"[-6.218536, 106.8026353]",-6.218536,106.8026353
+Caesar's Superdome,76468,North America,United States,New Orleans - Louisiana,Caesar's Superdome,"[29.9759983, -90.0782127]",29.9759983,-90.0782127
+Arrowhead Stadium,76412,North America,United States,Kansas City - Missouri,Arrowhead Stadium,"[39.0489357, -94.4839993]",39.0489357,-94.4839993
+Empower Field,76125,North America,United States,Denver,Empower Field,"[39.743952, -105.0192228]",39.743952,-105.0192228
+Atatürk Olimpiyat Stadyumu,76092,Europe,Turkey,Istanbul,Atatürk Olimpiyat Stadyumu,"[41.0744732, 28.7656611]",41.0744732,28.7656611
+Old Trafford,76000,Europe,England,Manchester,Old Trafford,"[53.4631095, -2.2913865]",53.4631095,-2.2913865
+Allianz Arena,75024,Europe,Germany,Munich,Allianz Arena,"[48.2187901, 11.6236227]",48.2187901,11.6236227
+Naghsh-e-Jahan Stadium,75000,West Asia,Iran,Isfahan,Naghsh-e-Jahan Stadium,"[32.7424558, 51.686181]",32.7424558,51.686181
+Bank of America Stadium,74867,North America,United States,Charlotte - North Carolina,Bank of America Stadium,"[35.225774, -80.8528276]",35.225774,-80.8528276
+Principality Stadium,74500,Europe,Wales,Cardiff,Principality Stadium,"[51.4782484, -3.1826256]",51.4782484,-3.1826256
+Olympiastadion,74475,Europe,Germany,Berlin,Olympiastadion,"[52.5145846, 13.2398144]",52.5145846,13.2398144
+Cairo International Stadium,74100,Africa,Egypt,Cairo,Cairo International Stadium,"[30.0690313, 31.3122096]",30.0690313,31.3122096
+FirstEnergy Stadium,73200,North America,United States,Cleveland,FirstEnergy Stadium,"[41.5060559, -81.6997118]",41.5060559,-81.6997118
+Estádio Nacional Mané Garrincha,72788,South America,Brazil,Brasília - Distrito Federal,Estádio Nacional Mané Garrincha,"[-15.7837498, -47.8990287]",-15.7837498,-47.8990287
+Stadio Olimpico,72698,Europe,Italy,Rome - Lazio,Stadio Olimpico,"[41.9339423, 12.4547705]",41.9339423,12.4547705
+Nissan Stadium,72327,East Asia,Japan,Yokohama - Kanagawa,Nissan Stadium,"[35.5099882, 139.6063825]",35.5099882,139.6063825
+NRG Stadium,72220,North America,United States,Houston - Texas,NRG Stadium,"[29.6848581, -95.4108015]",29.6848581,-95.4108015
+Shanghai Stadium,72000,East Asia,China,Shanghai,Shanghai Stadium,"[31.1833432, 121.4373709]",31.1833432,121.4373709
+M&T Bank Stadium,71008,North America,United States,Baltimore,M&T Bank Stadium,"[39.2779734, -76.6226651]",39.2779734,-76.6226651
+Mercedes-Benz Stadium,71000,North America,United States,Atlanta - Georgia,Mercedes-Benz Stadium,"[33.7554123, -84.4008493]",33.7554123,-84.4008493
+Riyadh Air Metropolitano,70692,Europe,Spain,Madrid,Riyadh Air Metropolitano,"[40.436053, -3.5997158]",40.436053,-3.5997158
+Olympic National Sports Complex Stadium,70000,Europe,Ukraine,Kyiv,Olympic National Sports Complex Stadium,"[50.4333967, 30.5230174]",50.4333967,30.5230174
+SoFi Stadium,70000,North America,United States,Inglewood - California,SoFi Stadium,"[33.9534073, -118.3390098]",33.9534073,-118.3390098
+Seoul Olympic Stadium,69950,East Asia,South Korea,Seoul,Seoul Olympic Stadium,"[37.5158632, 127.0727891]",37.5158632,127.0727891
+Bakı Olimpiya stadionu,69870,West Asia,Azerbaijan,Baku,Bakı Olimpiya stadionu,"[40.429982, 49.919531]",40.429982,49.919531
+Olympic Stadium,69618,Europe,Greece,Marousi,Olympic Stadium,"[38.0325514, 23.7944433]",38.0325514,23.7944433
+Olympiastadion München,69250,Europe,Germany,Munich,Olympiastadion München,"[48.1731314, 11.5464786]",48.1731314,11.5464786
+Lumen Field,69000,North America,United States,Seattle - Washington,Lumen Field,"[47.5953459, -122.3316443]",47.5953459,-122.3316443
+Estadio Olímpico Universitario,68954,North America,Mexico,Mexico City,Estadio Olímpico Universitario,"[19.3316881, -99.1922864]",19.3316881,-99.1922864
+Gillette Stadium,68756,North America,United States,Foxborough - Massachusetts,Gillette Stadium,"[42.0908879, -71.2641731]",42.0908879,-71.2641731
+King Abdullah Sports City Stadium,68560,West Asia,Saudi Arabia,Jeddah,King Abdullah Sports City Stadium,"[26.3790481, 43.9477172]",26.3790481,43.9477172
+Lincoln Financial Field,68532,North America,United States,Philadelphia,Lincoln Financial Field,"[39.9009099, -75.1674892]",39.9009099,-75.1674892
+Levi's Stadium,68500,North America,United States,Santa Clara - California,Levi's Stadium,"[37.4029867, -121.9696489]",37.4029867,-121.9696489
+Acrisure Stadium,68400,North America,United States,Pittsburgh,Acrisure Stadium,"[40.4467166, -80.0157199]",40.4467166,-80.0157199
+Gazprom Arena,68134,Europe,Russia,Saint Petersburg,Gazprom Arena,"[59.9723766, 30.2210608]",59.9723766,30.2210608
+Salt Lake Stadium,68000,South Asia,India,Kolkata,Salt Lake Stadium,"[22.5690604, 88.4090201]",22.5690604,88.4090201
+National Stadium,68000,East Asia,Japan,Tokyo,National Stadium,"[35.6778596, 139.7135142]",35.6778596,139.7135142
+TIAA Bank Field,67814,North America,United States,Jacksonville - Florida,TIAA Bank Field,"[30.3321838, -81.655651]",30.3321838,-81.655651
+Orange Vélodrome,67394,Europe,France,Marseille,Orange Vélodrome,"[43.269835, 5.3959117]",43.269835,5.3959117
+Puskás Aréna,67215,Europe,Hungary,Budapest,Puskás Aréna,"[47.5031089, 19.0980509]",47.5031089,19.0980509
+Scottish Gas Murrayfield Stadium,67144,Europe,Scotland,Edinburgh,Scottish Gas Murrayfield Stadium,"[55.9423132, -3.2408951]",55.9423132,-3.2408951
+Stade Mohammed V,67000,Africa,Morocco,Casablanca,Stade Mohammed V,"[33.5828249, -7.6468329]",33.5828249,-7.6468329
+Lucas Oil Stadium,67000,North America,United States,Indianapolis - Indiana,Lucas Oil Stadium,"[39.7590621, -86.1638376]",39.7590621,-86.1638376
+MorumBIS,66975,South America,Brazil,São Paulo - São Paulo,MorumBIS,"[-23.6001016, -46.7201264]",-23.6001016,-46.7201264
+The Dome,66965,North America,United States,St. Louis,The Dome,"[42.7786911, -73.1701063]",42.7786911,-73.1701063
+Yadegar-e-Emam Stadium,66833,West Asia,Iran,Tabriz,Yadegar-e-Emam Stadium,"[38.0738612, 46.2978789]",38.0738612,46.2978789
+Seoul World Cup Stadium,66704,East Asia,South Korea,Seoul,Seoul World Cup Stadium,"[37.5683021, 126.8972477]",37.5683021,126.8972477
+US Bank Stadium,66655,North America,United States,Minneapolis,US Bank Stadium,"[44.9736154, -93.2574663]",44.9736154,-93.2574663
+Daegu Stadium,66422,East Asia,South Korea,Daegu,Daegu Stadium,"[35.8297517, 128.6901254]",35.8297517,128.6901254
+Workers' Stadium,66161,East Asia,China,Beijing,Workers' Stadium,"[39.9323548, 116.4442038]",39.9323548,116.4442038
+London Stadium,66000,Europe,England,London,London Stadium,"[51.5386206, -0.0166238]",51.5386206,-0.0166238
+Raymond James Stadium,65847,North America,United States,Tampa - Florida,Raymond James Stadium,"[27.9759793, -82.5033545]",27.9759793,-82.5033545
+Hard Rock Stadium,65326,North America,United States,Miami Gardens - Florida,Hard Rock Stadium,"[25.9579031, -80.2388497]",25.9579031,-80.2388497
+Olympic Stadium,65255,North America,Canada,Montreal - Quebec,Olympic Stadium,"[45.5577983, -73.5516458]",45.5577983,-73.5516458
+Basra International Stadium,65227,West Asia,Iraq,Basra,Basra International Stadium,"[30.4399273, 47.7798634]",30.4399273,47.7798634
+Camping World Stadium,65000,North America,United States,Orlando - Florida,Camping World Stadium,"[28.5390623, -81.4027486]",28.5390623,-81.4027486
+Alamodome,65000,North America,United States,San Antonio,Alamodome,"[29.4168923, -98.4788949]",29.4168923,-98.4788949
+Ford Field,65000,North America,United States,Detroit,Ford Field,"[42.3399567, -83.0456166]",42.3399567,-83.0456166
+Stade Ibn Battuta,65000,Africa,Morocco,Tangier,Stade Ibn Battuta,"[35.7412689, -5.8580825]",35.7412689,-5.8580825
+Estádio do Sport Lisboa e Benfica,64642,Europe,Portugal,Lisbon,Estádio do Sport Lisboa e Benfica,"[38.7526893, -9.1846899]",38.7526893,-9.1846899
+Stade du 5 Juillet,64200,Africa,Algeria,Algiers,Stade du 5 Juillet,"[36.7595143, 2.9952724]",36.7595143,2.9952724
+Castelão,63903,South America,Brazil,Fortaleza - Ceará,Castelão,"[-3.806742, -38.5216794]",-3.806742,-38.5216794
+Saitama Stadium 2002,63700,East Asia,Japan,Saitama,Saitama Stadium 2002,"[35.90308, 139.7168256]",35.90308,139.7168256
+Ellis Park Stadium,62567,Africa,South Africa,Johannesburg - Gauteng,Ellis Park Stadium,"[-26.1974789, 28.0607682]",-26.1974789,28.0607682
+Tottenham Hotspur Stadium,62303,Europe,England,London,Tottenham Hotspur Stadium,"[51.604157, -0.0662604]",51.604157,-0.0662604
+VELTINS-Arena,62271,Europe,Germany,Gelsenkirchen,VELTINS-Arena,"[51.5545938, 7.0676001]",51.5545938,7.0676001
+Yizhong Sports Centre Stadium,62000,East Asia,China,Qingdao,Yizhong Sports Centre Stadium,"[36.0663249, 120.3777659]",36.0663249,120.3777659
+Estádio Governador Magalhães Pinto,61846,South America,Brazil,Belo Horizonte - Minas Gerais,Estádio Governador Magalhães Pinto,"[-19.8659115, -43.9710434]",-19.8659115,-43.9710434
+King Fahd International Stadium,61781,West Asia,Saudi Arabia,Riyadh,King Fahd International Stadium,"[24.7885806, 46.8391449]",24.7885806,46.8391449
+Soldier Field,61500,North America,United States,Chicago,Soldier Field,"[41.8624515, -87.6167151]",41.8624515,-87.6167151
+Nanjing Olympic Sports Centre Stadium,61443,East Asia,China,Nanjing,Nanjing Olympic Sports Centre Stadium,"[32.0106825, 118.7197543]",32.0106825,118.7197543
+Anfield,61276,Europe,England,Liverpool - England,Anfield,"[53.4309164, -2.9609314]",53.4309164,-2.9609314
+Estadio Benito Villamarín,60720,Europe,Spain,Seville,Estadio Benito Villamarín,"[37.3565354, -5.9817566]",37.3565354,-5.9817566
+Abuja Stadium,60491,Africa,Nigeria,Abuja,Abuja Stadium,"[9.0643305, 7.4892974]",9.0643305,7.4892974
+MHPArena,60469,Europe,Germany,Stuttgart,MHPArena,"[48.8911701, 9.1824202]",48.8911701,9.1824202
+Celtic Park,60411,Europe,Scotland,Glasgow,Celtic Park,"[55.8501815, -4.2068227]",55.8501815,-4.2068227
+Estadio de la UNSA,60370,South America,Peru,Arequipa,Estadio de la UNSA,"[-16.4073043, -71.5204685]",-16.4073043,-71.5204685
+Emirates Stadium,60338,Europe,England,London,Emirates Stadium,"[51.5550403, -0.1083997]",51.5550403,-0.1083997
+Shenzhen Universiade Sports Centre Stadium,60334,East Asia,China,Shenzhen,Shenzhen Universiade Sports Centre Stadium,"[22.6970397, 114.2123372]",22.6970397,114.2123372
+Estadio Centenario,60235,South America,Uruguay,Montevideo,Estadio Centenario,"[-34.8945393, -56.1526841]",-34.8945393,-56.1526841
+Estádio José do Rego Maciel,60044,South America,Brazil,Recife,Estádio José do Rego Maciel,"[-8.0268093, -34.8911967]",-8.0268093,-34.8911967
+Stade Léopold Sédar Senghor,60000,Africa,Senegal,Dakar,Stade Léopold Sédar Senghor,"[14.7467716, -17.451914]",14.7467716,-17.451914
+Al-Bayt Stadium,60000,West Asia,Qatar,Al-Khor,Al-Bayt Stadium,"[25.6521339, 51.4878055]",25.6521339,51.4878055
+Benjamin Mkapa National Stadium,60000,Africa,Tanzania,Dar es-Salaam,Benjamin Mkapa National Stadium,"[-6.8535747, 39.2732935]",-6.8535747,39.2732935
+Hefei Olympic Sports Centre Stadium,60000,East Asia,China,Hefei,Hefei Olympic Sports Centre Stadium,"[31.797877, 117.222612]",31.797877,117.222612
+Jaber al-Ahmad International Stadium,60000,West Asia,Kuwait,Kuwait City,Jaber al-Ahmad International Stadium,"[29.2714649, 47.9187755]",29.2714649,47.9187755
+Hammadi Agrebi Stadium,60000,Africa,Tunisia,Tunis,Hammadi Agrebi Stadium,"[36.7477717, 10.27314]",36.7477717,10.27314
+Jawaharlal Nehru Stadium,60000,South Asia,India,New Delhi,Jawaharlal Nehru Stadium,"[28.583377, 77.2335404]",28.583377,77.2335404
+Mogadishu Stadium,60000,Africa,Somalia,Mogadishu,Mogadishu Stadium,"[2.0674672, 45.3354647]",2.0674672,45.3354647
+National Heroes Stadium,60000,Africa,Zambia,Lusaka,National Heroes Stadium,"[-15.3695067, 28.273742]",-15.3695067,28.273742
+Autzen Stadium,60000,North America,United States,Eugene - Oregon,Autzen Stadium,"[44.0582178, -123.0684379]",44.0582178,-123.0684379
+Odi Stadium,60000,Africa,South Africa,Mabopane - Gauteng,Odi Stadium,"[-25.5216914, 28.0405651]",-25.5216914,28.0405651
+Morodok Techo National Stadium,60000,Southeast Asia,Cambodia,Phnom Penh,Morodok Techo National Stadium,"[11.6829771, 104.8763078]",11.6829771,104.8763078
+Shenyang Olympic Sports Centre Stadium,60000,East Asia,China,Shenyang,Shenyang Olympic Sports Centre Stadium,"[41.7391127, 123.457442]",41.7391127,123.457442
+Optus Stadium,60000,Oceania,Australia,Perth - Western Australia,Optus Stadium,"[-31.9510448, 115.8890756]",-31.9510448,115.8890756
+National Sports Stadium,60000,Africa,Zimbabwe,Harare,National Sports Stadium,"[-17.8214149, 30.9950735]",-17.8214149,30.9950735
+Estadio Monumental Isidro Romero Carbo,59283,South America,Ecuador,Guayaquil,Estadio Monumental Isidro Romero Carbo,"[-2.1858223, -79.92497]",-2.1858223,-79.92497
+Groupama Stadium,59186,Europe,France,Décines-Charpieu,Groupama Stadium,"[45.7653624, 4.9820543]",45.7653624,4.9820543
+Chongqing Olympic Sports Centre Stadium,58680,East Asia,China,Chongqing,Chongqing Olympic Sports Centre Stadium,"[29.5286397, 106.5021603]",29.5286397,106.5021603
+Kazimierz Górski National Stadium,58580,Europe,Poland,Warsaw,Kazimierz Górski National Stadium,"[52.2337172, 21.0714322]",52.2337172,21.0714322
+Stadio San Nicola,58270,Europe,Italy,Bari - Apulia,Stadio San Nicola,"[41.0847276, 16.8400849]",41.0847276,16.8400849
+Commanders Field,58000,North America,United States,Landover - Maryland,Commanders Field,"[38.9253129, -76.8815433]",38.9253129,-76.8815433
+Deutsche Bank Park,58000,Europe,Germany,Frankfurt,Deutsche Bank Park,"[50.0686103, 8.6454154]",50.0686103,8.6454154
+Estadio La Cartuja de Sevilla,57619,Europe,Spain,Seville,Estadio La Cartuja de Sevilla,"[37.4172352, -6.0046134]",37.4172352,-6.0046134
+Carter–Finley Stadium,57583,North America,United States,Raleigh - North Carolina,Carter–Finley Stadium,"[35.8008464, -78.7196045]",35.8008464,-78.7196045
+La Bombonera,57200,South America,Argentina,Buenos Aires,La Bombonera,"[-34.6355171, -58.3649163]",-34.6355171,-58.3649163
+Volksparkstadion,57030,Europe,Germany,Hamburg,Volksparkstadion,"[53.5871535, 9.8987056]",53.5871535,9.8987056
+Estadio Mario Alberto Kempes,57000,South America,Argentina,Córdoba,Estadio Mario Alberto Kempes,"[-31.3688468, -64.2461451]",-31.3688468,-64.2461451
+Jinan Olympic Sports Centre Stadium,56808,East Asia,China,Jinan,Jinan Olympic Sports Centre Stadium,"[36.6563763, 117.1102322]",36.6563763,117.1102322
+Estadio Jalisco,56713,North America,Mexico,Guadalajara - Jalisco,Estadio Jalisco,"[20.7047701, -103.3276846]",20.7047701,-103.3276846
+Commonwealth Stadium,56302,North America,Canada,Edmonton - Alberta,Commonwealth Stadium,"[53.5596586, -113.4764233]",53.5596586,-113.4764233
+Dodger Stadium,56000,North America,United States,Los Angeles,Dodger Stadium,"[34.0736255, -118.2398452]",34.0736255,-118.2398452
+19 May 1956 Stadium,56000,Africa,Algeria,Annaba,19 May 1956 Stadium,"[36.8858551, 7.7339276]",36.8858551,7.7339276
+Estadi Olímpic Lluís Companys,55926,Europe,Spain,Barcelona - Catalonia,Estadi Olímpic Lluís Companys,"[41.36472, 2.1556451]",41.36472,2.1556451
+El Cilindro,55880,South America,Argentina,Avellaneda,El Cilindro,"[-34.6675758, -58.3685308]",-34.6675758,-58.3685308
+Arena do Grêmio,55662,South America,Brazil,Porto Alegre - Rio Grande do Sul,Arena do Grêmio,"[-29.9740429, -51.1951073]",-29.9740429,-51.1951073
+Arena Națională,55634,Europe,Romania,Bucharest,Arena Națională,"[44.4372494, 26.1524758]",44.4372494,26.1524758
+Stadion Rajko Mitić,55538,Europe,Serbia,Belgrade,Stadion Rajko Mitić,"[44.7832202, 20.4646751]",44.7832202,20.4646751
+Stadion Śląski,55211,Europe,Poland,Chorzów,Stadion Śląski,"[50.2882457, 18.9734993]",50.2882457,18.9734993
+Etihad Stadium,55097,Europe,England,Manchester - North West England,Etihad Stadium,"[53.483091, -2.200252]",53.483091,-2.200252
+Moi International Sports Centre,55000,Africa,Kenya,Nairobi,Moi International Sports Centre,"[-1.2275475, 36.890182]",-1.2275475,36.890182
+Mestalla,55000,Europe,Spain,Valencia,Mestalla,"[39.4745279, -0.3581566]",39.4745279,-0.3581566
+National Stadium,55000,Southeast Asia,Singapore,Singapore,National Stadium,"[1.3044909, 103.8743437]",1.3044909,103.8743437
+National Stadium,55000,East Asia,Taiwan,Kaohsiung,National Stadium,"[22.7028534, 120.2936331]",22.7028534,120.2936331
+He Long Stadium,55000,East Asia,China,Changsha,He Long Stadium,"[28.181759, 112.9773897]",28.181759,112.9773897
+Cape Town Stadium,55000,Africa,South Africa,Cape Town - Western Cape,Cape Town Stadium,"[-33.9034601, 18.4111458]",-33.9034601,18.4111458
+Plovdiv Stadium,55000,Europe,Bulgaria,Plovdiv,Plovdiv Stadium,"[42.1497674, 24.7199114]",42.1497674,24.7199114
+Bobby Dodd Stadium,55000,North America,United States,Atlanta,Bobby Dodd Stadium,"[33.772476, -84.3929589]",33.772476,-84.3929589
+Johan Cruijff Arena,54990,Europe,Netherlands,Amsterdam,Johan Cruijff Arena,"[52.314353, 4.9428431]",52.314353,4.9428431
+Tianhe Stadium,54856,East Asia,China,Guangzhou,Tianhe Stadium,"[23.1405033, 113.3193597]",23.1405033,113.3193597
+Stadio Diego Armando Maradona,54726,Europe,Italy,Naples,Stadio Diego Armando Maradona,"[40.8279773, 14.192889]",40.8279773,14.192889
+Tianjin Olympic Sports Centre Stadium,54696,East Asia,China,Tianjin,Tianjin Olympic Sports Centre Stadium,"[39.3032619, 117.4163641]",39.3032619,117.4163641
+MERKUR SPIEL-ARENA,54600,Europe,Germany,Düsseldorf,MERKUR SPIEL-ARENA,"[51.261629, 6.7331516]",51.261629,6.7331516
+Boris Paitchadze Dinamo Arena,54549,West Asia,Georgia,Tbilisi,Boris Paitchadze Dinamo Arena,"[41.7230285, 44.7897943]",41.7230285,44.7897943
+Wuhan Sports Centre Stadium,54357,East Asia,China,Wuhan,Wuhan Sports Centre Stadium,"[30.5024679, 114.1661281]",30.5024679,114.1661281
+BC Place Stadium,54320,North America,Canada,Vancouver - British Columbia,BC Place Stadium,"[49.2766905, -123.1120062]",49.2766905,-123.1120062
+Yankee Stadium,54251,North America,United States,New York City,Yankee Stadium,"[40.8295828, -73.9265212]",40.8295828,-73.9265212
+Hrazdan Stadium,54208,West Asia,Armenia,Yerevan,Hrazdan Stadium,"[40.1803671, 44.4946703]",40.1803671,44.4946703
+BORUSSIA-PARK,54057,Europe,Germany,Mönchengladbach,BORUSSIA-PARK,"[51.1746249, 6.3854094]",51.1746249,6.3854094
+Moses Mabhida Stadium,54000,Africa,South Africa,Durban - KwaZulu-Natal,Moses Mabhida Stadium,"[-29.8290201, 31.0313741]",-29.8290201,31.0313741
+RAMS Park,53978,Europe,Turkey,Istanbul,RAMS Park,"[41.103369, 28.9909522]",41.103369,28.9909522
+Busan Asiad Main Stadium,53864,East Asia,South Korea,Busan,Busan Asiad Main Stadium,"[35.1900767, 129.0595481]",35.1900767,129.0595481
+Estádio Estadual Jornalista Edgar Augusto Proença,53645,South America,Brazil,Belém,Estádio Estadual Jornalista Edgar Augusto Proença,"[-1.3811727, -48.4439318]",-1.3811727,-48.4439318
+Estadio Único Diego Armando Maradona,53600,South America,Argentina,La Plata,Estadio Único Diego Armando Maradona,"[-34.9138408, -57.9890476]",-34.9138408,-57.9890476
+Adelaide Oval,53500,Oceania,Australia,Adelaide - South Australia,Adelaide Oval,"[-34.9155596, 138.5962772]",-34.9155596,138.5962772
+Docklands Stadium,53359,Oceania,Australia,Melbourne - Victoria,Docklands Stadium,"[-37.816529, 144.947517]",-37.816529,144.947517
+Estádio Municipal João Havelange,53350,South America,Brazil,Uberlândia - Minas Gerais,Estádio Municipal João Havelange,"[-18.9188041, -48.2767837]",-18.9188041,-48.2767837
+San Mamés,53332,Europe,Spain,Bilbao,San Mamés,"[43.264204, -2.9493915]",43.264204,-2.9493915
+Aleppo International Stadium,53200,West Asia,Syria,Aleppo,Aleppo International Stadium,"[36.1849318, 37.1176418]",36.1849318,37.1176418
+Estadio Nacional,53086,South America,Peru,Lima,Estadio Nacional,"[-12.0673803, -77.033783]",-12.0673803,-77.033783
+Huanglong Stadium,52672,East Asia,China,Hangzhou,Huanglong Stadium,"[30.2489634, 120.2052342]",30.2489634,120.2052342
+Suncorp Stadium,52500,Oceania,Australia,Brisbane - Queensland,Suncorp Stadium,"[-27.4648603, 153.0096055]",-27.4648603,153.0096055
+St. James' Park,52405,Europe,England,Newcastle upon Tyne - North East,St. James' Park,"[54.9754693, -1.6218737]",54.9754693,-1.6218737
+Kings Park Stadium,52000,Africa,South Africa,Durban - KwaZulu-Natal,Kings Park Stadium,"[-29.8248051, 31.0289735]",-29.8248051,31.0289735
+Newlands Stadium,51900,Africa,South Africa,Cape Town - Western Cape,Newlands Stadium,"[-33.9705226, 18.4685626]",-33.9705226,18.4685626
+Hampden Park,51866,Europe,Scotland,Glasgow,Hampden Park,"[55.826014, -4.2519271]",55.826014,-4.2519271
+Estadio Monumental de Maturín,51796,South America,Venezuela,Maturín,Estadio Monumental de Maturín,"[9.7422774, -63.1888854]",9.7422774,-63.1888854
+Loftus Versfeld Stadium,51762,Africa,South Africa,Pretoria - Gauteng,Loftus Versfeld Stadium,"[-25.7532347, 28.2229327]",-25.7532347,28.2229327
+Aviva Stadium,51700,Europe,Ireland,Dublin,Aviva Stadium,"[53.3352254, -6.2281851]",53.3352254,-6.2281851
+Guiyang Olympic Sports Centre Stadium,51638,East Asia,China,Guiyang,Guiyang Olympic Sports Centre Stadium,"[26.6206664, 106.6058467]",26.6206664,106.6058467
+Hohhot City Stadium,51632,East Asia,China,Hohhot,Hohhot City Stadium,"[40.8511397, 111.6504625]",40.8511397,111.6504625
+Rajamangala National Stadium,51552,Southeast Asia,Thailand,Bangkok,Rajamangala National Stadium,"[13.7554291, 100.6221559]",13.7554291,100.6221559
+Donbas Arena,51504,Europe,Ukraine,Donetsk,Donbas Arena,"[48.0211038, 37.8090531]",48.0211038,37.8090531
+İzmir Atatürk Stadyumu,51295,West Asia,Turkey,İzmir,İzmir Atatürk Stadyumu,"[38.4349835, 27.1780113]",38.4349835,27.1780113
+Stadion Feijenoord,51117,Europe,Netherlands,Rotterdam,Stadion Feijenoord,"[51.8938646, 4.5232281]",51.8938646,4.5232281
+Estadio BBVA,51000,North America,Mexico,Monterrey,Estadio BBVA,"[25.6691103, -100.2443559]",25.6691103,-100.2443559
+Ghadir Stadium,51000,West Asia,Iran,Ahvaz,Ghadir Stadium,"[31.3230637, 48.67932]",31.3230637,48.67932
+Estádio José Pinheiro Borda,50942,South America,Brazil,Porto Alegre,Estádio José Pinheiro Borda,"[-30.0654898, -51.2349178]",-30.0654898,-51.2349178
+Ibrox Stadium,50817,Europe,Scotland,Glasgow,Ibrox Stadium,"[55.8532206, -4.3093239]",55.8532206,-4.3093239
+Shizuoka Stadium,50889,East Asia,Japan,Fukuroi - Shizuoka,Shizuoka Stadium,"[34.7434304, 137.9707289]",34.7434304,137.9707289
+Ernst-Happel-Stadion,50865,Europe,Austria,Vienna,Ernst-Happel-Stadion,"[48.2071894, 16.4209171]",48.2071894,16.4209171
+Huntington Bank Stadium,50805,North America,United States,Minneapolis,Huntington Bank Stadium,"[44.9765396, -93.2240767]",44.9765396,-93.2240767
+Hocine Ait Ahmed Stadium,50766,Africa,Algeria,Tizi Ouzou,Hocine Ait Ahmed Stadium,"[36.7286051, 4.0131105]",36.7286051,4.0131105
+Estadio Cuauhtémoc,50754,North America,Mexico,Puebla,Estadio Cuauhtémoc,"[19.0780538, -98.1643653]",19.0780538,-98.1643653
+Strawberry Arena,50653,Europe,Sweden,Solna,Strawberry Arena,"[59.3725039, 18.0016672]",59.3725039,18.0016672
+Ülker Stadyumu,50509,West Asia,Turkey,Istanbul,Ülker Stadyumu,"[40.9875806, 29.0369773]",40.9875806,29.0369773
+Stanford Stadium,50424,North America,United States,Palo Alto - California,Stanford Stadium,"[37.4345264, -122.1619867]",37.4345264,-122.1619867
+Stade Pierre-Mauroy,50186,Europe,France,Villeneuve-d'Ascq,Stade Pierre-Mauroy,"[50.6119044, 3.130508]",50.6119044,3.130508
+Stade Roi Baudouin,50122,Europe,Belgium,Brussels,Stade Roi Baudouin,"[50.8957221, 4.3341279]",50.8957221,4.3341279
+Shaanxi Province Stadium,50100,East Asia,China,Xi'an,Shaanxi Province Stadium,"[34.2340542, 108.9365826]",34.2340542,108.9365826
+Ajinomoto Stadium,50100,East Asia,Japan,Chofu - Tokyo,Ajinomoto Stadium,"[35.6641865, 139.5270752]",35.6641865,139.5270752
+Estádio José Alvalade,50095,Europe,Portugal,Lisbon,Estádio José Alvalade,"[38.7612164, -9.1607831]",38.7612164,-9.1607831
+Estádio do Dragão,50033,Europe,Portugal,Porto,Estádio do Dragão,"[41.1618235, -8.5837492]",41.1618235,-8.5837492
+Casa de Apostas Arena Fonte Nova,50025,South America,Brazil,Salvador - Bahia,Casa de Apostas Arena Fonte Nova,"[-12.9787926, -38.5035601]",-12.9787926,-38.5035601
+Stade Tata Raphaël,50000,Africa,DR Congo,Kinshasa,Stade Tata Raphaël,"[-4.3379266, 15.3226297]",-4.3379266,15.3226297
+Stade Olympique de Sousse,50000,Africa,Tunisia,Sousse,Stade Olympique de Sousse,"[35.8234702, 10.6135481]",35.8234702,10.6135481
+RheinEnergieSTADION,50000,Europe,Germany,Cologne,RheinEnergieSTADION,"[50.9335055, 6.8751167]",50.9335055,6.8751167
+Harbin Sports City Centre Stadium,50000,East Asia,China,Harbin,Harbin Sports City Centre Stadium,"[45.7593633, 126.6276177]",45.7593633,126.6276177
+Greenfield International Stadium,50000,South Asia,India,Trivandrum,Greenfield International Stadium,"[8.5714907, 76.8843638]",8.5714907,76.8843638
+EMS Stadium,50000,South Asia,India,Kozhikode,EMS Stadium,"[11.2563999, 75.7856251]",11.2563999,75.7856251
+KD Singh Babu Stadium,50000,South Asia,India,Lucknow,KD Singh Babu Stadium,"[26.8553535, 80.9376841]",26.8553535,80.9376841
+Eden Park,50000,Oceania,New Zealand,Auckland,Eden Park,"[-36.8750352, 174.7440567]",-36.8750352,174.7440567
+Estádio 11 de Novembro,50000,Africa,Angola,Luanda,Estádio 11 de Novembro,"[-8.969921, 13.2835311]",-8.969921,13.2835311
+Henan Provincial Stadium,50000,East Asia,China,Zhengzhou,Henan Provincial Stadium,"[34.8374127, 113.6228562]",34.8374127,113.6228562
+Jiangxi Olympic Sports Center,50000,East Asia,China,Nanchang,Jiangxi Olympic Sports Center,"[28.6472124, 116.0348483]",28.6472124,116.0348483
+Max-Morlock-Stadion,50000,Europe,Germany,Nuremberg,Max-Morlock-Stadion,"[49.4262569, 11.1256706]",49.4262569,11.1256706
+June 11 Stadium,50000,Africa,Libya,Tripoli,June 11 Stadium,"[32.8598956, 13.135806]",32.8598956,13.135806
+Xinjiang Sports Centre Stadium,50000,East Asia,China,Urumqi,Xinjiang Sports Centre Stadium,"[43.8244074, 87.6139038]",43.8244074,87.6139038
+Kim Il-sung Stadium,50000,East Asia,North Korea,Pyongyang,Kim Il-sung Stadium,"[39.0438585, 125.7577377]",39.0438585,125.7577377
+EDION Stadium Hiroshima,50000,East Asia,Japan,Hiroshima,EDION Stadium Hiroshima,"[34.4407675, 132.3932183]",34.4407675,132.3932183
+Pars Shiraz Stadium,50000,West Asia,Iran,Shiraz,Pars Shiraz Stadium,"[29.6060218, 52.5378041]",29.6060218,52.5378041
+Stade du 26 mars,50000,Africa,Mali,Bamako,Stade du 26 mars,"[12.6043766, -7.9217374]",12.6043766,-7.9217374
+Stade Abdoulaye Wade,50000,Africa,Senegal,Dakar,Stade Abdoulaye Wade,"[14.7327571, -17.2014923]",14.7327571,-17.2014923
+Sultan Mizan Zainal Abidin Stadium,50000,Southeast Asia,Malaysia,Kuala Terengganu,Sultan Mizan Zainal Abidin Stadium,"[5.3697135, 103.1056812]",5.3697135,103.1056812
+Estadio Akron,49850,North America,Mexico,Guadalajara,Estadio Akron,"[20.6818469, -103.4626718]",20.6818469,-103.4626718
+Levy Mwanawasa Stadium,49800,Africa,Zambia,Lusaka,Levy Mwanawasa Stadium,"[-12.9755312, 28.6112268]",-12.9755312,28.6112268
+Fritz-Walter-Stadion,49780,Europe,Germany,Kaiserslautern,Fritz-Walter-Stadion,"[49.4345765, 7.7766303]",49.4345765,7.7766303
+Estadio José Amalfitani,49540,South America,Argentina,Buenos Aires,Estadio José Amalfitani,"[-34.6353382, -58.5206788]",-34.6353382,-58.5206788
+Camille Chamoun Sports City Stadium,49500,West Asia,Lebanon,Beirut,Camille Chamoun Sports City Stadium,"[33.8670781, 35.4951176]",33.8670781,35.4951176
+Miyagi Stadium,49133,East Asia,Japan,Rifu - Miyagi,Miyagi Stadium,"[38.3353606, 140.9504567]",38.3353606,140.9504567
+Incheon Munhak Stadium,49084,East Asia,South Korea,Incheon,Incheon Munhak Stadium,"[37.4350773, 126.6907516]",37.4350773,126.6907516
+Heinz-von-Heiden-Arena,49000,Europe,Germany,Hanover,Heinz-von-Heiden-Arena,"[52.360026, 9.7310161]",52.360026,9.7310161
+Parc des Princes,48712,Europe,France,Paris,Parc des Princes,"[48.8413634, 2.2530693]",48.8413634,2.2530693
+Stadium of Light,48707,Europe,England,Sunderland - Tyne and Wear,Stadium of Light,"[54.9143953, -1.3882579]",54.9143953,-1.3882579
+Estadio Nacional,48665,South America,Chile,Santiago,Estadio Nacional,"[-33.4623809, -70.6062176]",-33.4623809,-70.6062176
+Nelson Mandela Bay Stadium,48459,Africa,South Africa,Port Elizabeth - Eastern Cape,Nelson Mandela Bay Stadium,"[-33.937792, 25.5994087]",-33.937792,25.5994087
+Estadio Tomás Adolfo Ducó,48314,South America,Argentina,Buenos Aires,Estadio Tomás Adolfo Ducó,"[-34.6434539, -58.3965026]",-34.6434539,-58.3965026
+Jinnah Sports Stadium,48200,South Asia,Pakistan,Islamabad,Jinnah Sports Stadium,"[33.7004059, 73.0928604]",33.7004059,73.0928604
+Estadio Libertadores de América,48069,South America,Argentina,Avellaneda,Estadio Libertadores de América,"[-34.6702227, -58.3710378]",-34.6702227,-58.3710378
+Free State Stadium,48000,Africa,South Africa,Bloemfontein - Free State,Free State Stadium,"[-29.1172351, 26.2087696]",-29.1172351,26.2087696
+Nagai Stadium,47816,East Asia,Japan,Osaka,Nagai Stadium,"[34.6153577, 135.5165441]",34.6153577,135.5165441
+Neo Química Arena,47605,South America,Brazil,São Paulo - São Paulo,Neo Química Arena,"[-23.5452934, -46.4742864]",-23.5452934,-46.4742864
+Rogers Centre,47568,North America,Canada,Toronto - Ontario,Rogers Centre,"[43.6416598, -79.3891976]",43.6416598,-79.3891976
+Estadio Monumental,47347,South America,Chile,Santiago,Estadio Monumental,"[-33.5064372, -70.6059468]",-33.5064372,-70.6059468
+Stadio Artemio Franchi,47282,Europe,Italy,Florence,Stadio Artemio Franchi,"[43.3216867, 11.326179]",43.3216867,11.326179
+Estadio Ciudad de Lanús – Néstor Díaz Pérez,47027,South America,Argentina,Lanús,Estadio Ciudad de Lanús – Néstor Díaz Pérez,"[-34.7176585, -58.3839562]",-34.7176585,-58.3839562
+Estadio Metropolitano Roberto Meléndez,46788,South America,Colombia,Barranquilla,Estadio Metropolitano Roberto Meléndez,"[10.9269548, -74.8005111]",10.9269548,-74.8005111
+Estádio Olímpico Nilton Santos,46831,South America,Brazil,Rio de Janeiro - Rio de Janeiro,Estádio Olímpico Nilton Santos,"[-22.893194, -43.2935691]",-22.893194,-43.2935691
+Itaipava Arena Pernambuco,46154,South America,Brazil,São Lourenço da Mata,Itaipava Arena Pernambuco,"[-8.0407296, -35.0082334]",-8.0407296,-35.0082334
+Arena MRV,46000,South America,Brazil,Belo Horizonte,Arena MRV,"[-19.9300116, -44.0138813]",-19.9300116,-44.0138813
+Estádio Paulo Constantino,45954,South America,Brazil,Presidente Prudente - São Paulo,Estádio Paulo Constantino,"[-22.098568, -51.4150621]",-22.098568,-51.4150621
+Estadio Atanasio Girardot,45739,South America,Colombia,Medellín,Estadio Atanasio Girardot,"[6.2568267, -75.5901467]",6.2568267,-75.5901467
+Estadio Ramón Sánchez Pizjuán,45500,Europe,Spain,Seville,Estadio Ramón Sánchez Pizjuán,"[37.3840876, -5.9706309]",37.3840876,-5.9706309
+Adrar Stadium,45480,Africa,Morocco,Agadir,Adrar Stadium,"[30.4274409, -9.540254]",30.4274409,-9.540254
+Lukoil Arena,45360,Europe,Russia,Moscow,Lukoil Arena,"[55.8175885, 37.4406099]",55.8175885,37.4406099
+Grand stade de Marrakech,45240,Africa,Morocco,Marrakesh,Grand stade de Marrakech,"[31.7069985, -7.9803776]",31.7069985,-7.9803776
+Mandela National Stadium,45202,Africa,Uganda,Kampala,Mandela National Stadium,"[0.347296, 32.6588544]",0.347296,32.6588544
+Tarczyński Arena Wrocław,45105,Europe,Poland,Wrocław,Tarczyński Arena Wrocław,"[51.1411861, 16.9438067]",51.1411861,16.9438067
+Kazan Arena,45105,Europe,Russia,Kazan,Kazan Arena,"[55.8234339, 49.1643628]",55.8234339,49.1643628
+Estadio Inca Garcilaso de la Vega,45056,South America,Peru,Cusco,Estadio Inca Garcilaso de la Vega,"[-13.5255188, -71.9664761]",-13.5255188,-71.9664761
+24 February 1956 Stadium,45000,Africa,Algeria,Sidi Bel Abbès,24 February 1956 Stadium,"[34.682268, -0.4357555]",34.682268,-0.4357555
+Estádio da Machava,45000,Africa,Mozambique,Maputo,Estádio da Machava,"[-25.9174099, 32.5263788]",-25.9174099,32.5263788
+Stadion Gelora Bung Tomo,45000,Southeast Asia,Indonesia,Surabaya - East Java,Stadion Gelora Bung Tomo,"[-7.2231559, 112.6227833]",-7.2231559,112.6227833
+Stadion Harapan Banga,45000,Southeast Asia,Indonesia,Banda Aceh - Aceh,Stadion Harapan Banga,"[5.5528455, 95.3192908]",5.5528455,95.3192908
+Estadio General Pablo Rojas,45000,South America,Paraguay,Asunción,Estadio General Pablo Rojas,"[-25.2999926, -57.6376558]",-25.2999926,-57.6376558
+Latakia Sports City Stadium,45000,West Asia,Syria,Latakia,Latakia Sports City Stadium,"[35.5200185, 35.7781044]",35.5200185,35.7781044
+Zibo Sports Centre Stadium,45000,East Asia,China,Zibo,Zibo Sports Centre Stadium,"[36.8132476, 117.9828384]",36.8132476,117.9828384
+Weifang Sports Centre Stadium,45000,East Asia,China,Weifang,Weifang Sports Centre Stadium,"[36.7290476, 119.0630983]",36.7290476,119.0630983
+Yantai Sports Park Stadium,45000,East Asia,China,Yantai,Yantai Sports Park Stadium,"[37.462892, 121.4535599]",37.462892,121.4535599
+Stadium Tuanku Abdul Rahman,45000,Southeast Asia,Malaysia,Seremban,Stadium Tuanku Abdul Rahman,"[2.7262398, 101.9826177]",2.7262398,101.9826177
+Stade du Complexe sportif de Fès,45000,Africa,Morocco,Fes,Stade du Complexe sportif de Fès,"[34.00272, -4.9689618]",34.00272,-4.9689618
+Lagos National Stadium,45000,Africa,Nigeria,Lagos,Lagos National Stadium,"[6.4971425, 3.364988]",6.4971425,3.364988
+Egyptian Army Stadium,45000,Africa,Egypt,Suez,Egyptian Army Stadium,"[29.974498, 32.537086]",29.974498,32.537086
+Toyota Stadium,45000,East Asia,Japan,Toyota City,Toyota Stadium,"[35.0845879, 137.1708735]",35.0845879,137.1708735
+Zayed Sports City Stadium,45000,West Asia,United Arab Emirates,Abu Dhabi,Zayed Sports City Stadium,"[24.4161286, 54.45363]",24.4161286,54.45363
+Red Bull Arena,44345,Europe,Germany,Leipzig,Red Bull Arena,"[51.3457078, 12.3482361]",51.3457078,12.3482361
+Estádio Governador Alberto Tavares Silva,44200,South America,Brazil,Teresina,Estádio Governador Alberto Tavares Silva,"[-5.1161379, -42.792872]",-5.1161379,-42.792872
+Estádio Universitário Pedro Pedrossian,44200,South America,Brazil,Campo Grande,Estádio Universitário Pedro Pedrossian,"[-20.4640173, -54.6162947]",-20.4640173,-54.6162947
+Ulsan Munsu Football Stadium,44102,East Asia,South Korea,Ulsan,Ulsan Munsu Football Stadium,"[35.535263, 129.2594949]",35.535263,129.2594949
+Arena Pantanal,44097,South America,Brazil,Cuiabá - Mato Grosso,Arena Pantanal,"[-15.6040649, -56.1222989]",-15.6040649,-56.1222989
+Arena da Amazônia,44000,South America,Brazil,Manaus - Amazonas,Arena da Amazônia,"[-3.0831132, -60.0280052]",-3.0831132,-60.0280052
+Suwon World Cup Stadium,43959,East Asia,South Korea,Suwon,Suwon World Cup Stadium,"[37.2864084, 127.036805]",37.2864084,127.036805
+Stadion Utama Riau,43923,Southeast Asia,Indonesia,Pekanbaru,Stadion Utama Riau,"[0.4836139, 101.3896017]",0.4836139,101.3896017
+Allianz Parque,43713,South America,Brazil,São Paulo - São Paulo,Allianz Parque,"[-23.5274971, -46.6785281]",-23.5274971,-46.6785281
+Shandong Provincial Stadium,43700,East Asia,China,Jinan,Shandong Provincial Stadium,"[36.6464766, 117.0057846]",36.6464766,117.0057846
+Polsat Plus Arena Gdańsk,43615,Europe,Poland,Gdańsk,Polsat Plus Arena Gdańsk,"[54.3899192, 18.6404]",54.3899192,18.6404
+Estadio Pedro Bidegain,43494,South America,Argentina,Buenos Aires,Estadio Pedro Bidegain,"[-34.6520908, -58.4401364]",-34.6520908,-58.4401364
+Stadion Miejski w Poznaniu,43269,Europe,Poland,Poznań,Stadion Miejski w Poznaniu,"[52.4082663, 16.9335199]",52.4082663,16.9335199
+Vasil Levski National Stadium,43230,Europe,Bulgaria,Sofia,Vasil Levski National Stadium,"[42.6875707, 23.3352431]",42.6875707,23.3352431
+Estadio Universidad San Marcos,43000,South America,Peru,Lima,Estadio Universidad San Marcos,"[-12.0621065, -77.0365256]",-12.0621065,-77.0365256
+Ullevi,43000,Europe,Sweden,Gothenburg,Ullevi,"[57.7059197, 11.9873276]",57.7059197,11.9873276
+Jinzhou Binhai Sports Centre Stadium,43000,East Asia,China,Jinzhou,Jinzhou Binhai Sports Centre Stadium,"[40.8723509, 121.0644041]",40.8723509,121.0644041
+Estadio General Santander,42901,South America,Colombia,Cúcuta,Estadio General Santander,"[7.8946627, -72.5018525]",7.8946627,-72.5018525
+Villa Park,42682,Europe,England,Birmingham,Villa Park,"[52.5091264, -1.8850354]",52.5091264,-1.8850354
+Perak Stadium,42500,Southeast Asia,Malaysia,Perak,Perak Stadium,"[4.6094268, 101.1035452]",4.6094268,101.1035452
+Jeonju World Cup Stadium,42477,East Asia,South Korea,Jeonju,Jeonju World Cup Stadium,"[35.8678074, 127.0645891]",35.8678074,127.0645891
+Ligga Arena,42372,South America,Brazil,Curitiba,Ligga Arena,"[-25.4483457, -49.2768771]",-25.4483457,-49.2768771
+Weserstadion,42358,Europe,Germany,Bremen,Weserstadion,"[53.0664479, 8.8376718]",53.0664479,8.8376718
+Denka Big Swan Stadium,42300,East Asia,Japan,Niigata - Niigata,Denka Big Swan Stadium,"[37.882576, 139.0591584]",37.882576,139.0591584
+Estadio Olimpico Metropolitano de Mérida,42200,South America,Venezuela,Mérida,Estadio Olimpico Metropolitano de Mérida,"[8.5558658, -71.2179965]",8.5558658,-71.2179965
+Daejeon World Cup Stadium,42176,East Asia,South Korea,Daejeon,Daejeon World Cup Stadium,"[36.3652534, 127.3251074]",36.3652534,127.3251074
+Matmut ATLANTIQUE,42115,Europe,France,Bordeaux,Matmut ATLANTIQUE,"[44.897357, -0.5616058]",44.897357,-0.5616058
+Helsingin Olympiastadion,42062,Europe,Finland,Helsinki,Helsingin Olympiastadion,"[60.1870012, 24.9272509]",60.1870012,24.9272509
+Estádio Serra Dourada,42000,South America,Brazil,Goiânia,Estádio Serra Dourada,"[-16.6990653, -49.2331878]",-16.6990653,-49.2331878
+Estadio Deportivo Cali,42000,South America,Colombia,Cali,Estadio Deportivo Cali,"[3.521681, -76.4170626]",3.521681,-76.4170626
+Estadio Modelo Alberto Spencer,42000,South America,Ecuador,Guayaquil,Estadio Modelo Alberto Spencer,"[-2.1789233, -79.8943538]",-2.1789233,-79.8943538
+Estádio do Zimpeto,42000,Africa,Mozambique,Maputo,Estádio do Zimpeto,"[-25.8276537, 32.5749811]",-25.8276537,32.5749811
+Chengdu Sports Centre Stadium,42000,East Asia,China,Chengdu,Chengdu Sports Centre Stadium,"[30.6598628, 104.0633717]",30.6598628,104.0633717
+Royal Bafokeng Stadium,42000,Africa,South Africa,Phokeng - North West,Royal Bafokeng Stadium,"[-25.5787763, 27.1609204]",-25.5787763,27.1609204
+Estadio Universitario,42000,North America,Mexico,San Nicolás de los Garza,Estadio Universitario,"[25.7226067, -100.3119863]",25.7226067,-100.3119863
+Estadio Brigadier General Estanislao López,42000,South America,Argentina,Santa Fe,Estadio Brigadier General Estanislao López,"[-31.6632166, -60.7252465]",-31.6632166,-60.7252465
+Estadio Marcelo Bielsa,42000,South America,Argentina,Rosario,Estadio Marcelo Bielsa,"[-32.9560673, -60.661413]",-32.9560673,-60.661413
+Stade Geoffroy-Guichard,41965,Europe,France,Saint-Étienne,Stade Geoffroy-Guichard,"[45.4607567, 4.3900932]",45.4607567,4.3900932
+Vodafone Park,41903,Europe,Turkey,Istanbul,Vodafone Park,"[41.006381, 28.9758715]",41.006381,28.9758715
+Peter Mokaba Stadium,41733,Africa,South Africa,Polokwane,Peter Mokaba Stadium,"[-23.9248058, 29.4679601]",-23.9248058,29.4679601
+Estadio Gigante de Arroyito,41654,South America,Argentina,Rosario,Estadio Gigante de Arroyito,"[-32.914023, -60.674499]",-32.914023,-60.674499
+Estadio Cachamay,41600,South America,Venezuela,Ciudad Guayana,Estadio Cachamay,"[8.3126855, -62.6963395]",8.3126855,-62.6963395
+Estadio de Liga Deportiva Universitaria,41596,South America,Ecuador,Quito,Estadio de Liga Deportiva Universitaria,"[-0.1077231, -78.4890768]",-0.1077231,-78.4890768
+Allianz Stadium,41507,Europe,Italy,Turin - Piedmont,Allianz Stadium,"[45.1095758, 7.6421338]",45.1095758,7.6421338
+Sapporo Dome,41484,East Asia,Japan,Sapporo,Sapporo Dome,"[43.0178018, 141.4087419]",43.0178018,141.4087419
+Stamford Bridge,41663,Europe,England,London,Stamford Bridge,"[51.4816869, -0.1910336]",51.4816869,-0.1910336
+Goyang Stadium,41311,East Asia,South Korea,Goyang,Goyang Stadium,"[37.6764849, 126.7431538]",37.6764849,126.7431538
+Estadio Hernando Siles,41143,South America,Bolivia,La Paz,Estadio Hernando Siles,"[-16.4994503, -68.1228532]",-16.4994503,-68.1228532
+Bingu National Stadium,41100,Africa,Malawi,Lilongwe,Bingu National Stadium,"[-13.9438618, 33.7531969]",-13.9438618,33.7531969
+Mbombela Stadium,40929,Africa,South Africa,Nelspruit - Mpumalanga,Mbombela Stadium,"[-25.4617294, 30.9296899]",-25.4617294,30.9296899
+Estadio José Pachencho Romero,40800,South America,Venezuela,Maracaibo,Estadio José Pachencho Romero,"[10.6740483, -71.644999]",10.6740483,-71.644999
+Stade Nelson Mandela,40784,Africa,Algeria,Algiers,Stade Nelson Mandela,"[36.6939428, 3.1220307]",36.6939428,3.1220307
+Kashima Football Stadium,40728,East Asia,Japan,Kashima - Ibaraki,Kashima Football Stadium,"[35.9920049, 140.6403679]",35.9920049,140.6403679
+Baba Yara Stadium,40528,Africa,Ghana,Kumasi,Baba Yara Stadium,"[6.68217, -1.6050642]",6.68217,-1.6050642
+Estádio Major Antônio Couto Pereira,40502,South America,Brazil,Curitiba - Paraná,Estádio Major Antônio Couto Pereira,"[-25.4214376, -49.2597567]",-25.4214376,-49.2597567
+Stage Front Stadium,40500,Europe,Spain,Barcelona,Stage Front Stadium,"[41.3478566, 2.0764584]",41.3478566,2.0764584
+Estadio Metropolitano de fútbol de Lara,40312,South America,Venezuela,Barquisimeto,Estadio Metropolitano de fútbol de Lara,"[10.0774374, -69.3222293]",10.0774374,-69.3222293
+Estadio Malvinas Argentinas,40268,South America,Argentina,Mendoza,Estadio Malvinas Argentinas,"[-32.8896213, -68.8799005]",-32.8896213,-68.8799005
+Stadion Lukas Enembe,40263,Southeast Asia,Indonesia,Nolokla,Stadion Lukas Enembe,"[-2.5789948, 140.5734834]",-2.5789948,140.5734834
+Gwangju World Cup Stadium,40245,East Asia,South Korea,Gwangju,Gwangju World Cup Stadium,"[35.1337706, 126.8750042]",35.1337706,126.8750042
+Sân vận động Quốc gia Mỹ Đình,40192,Southeast Asia,Vietnam,Hanoi,Sân vận động Quốc gia Mỹ Đình,"[21.0205027, 105.7639271]",21.0205027,105.7639271
+Goodison Park,40157,Europe,England,Liverpool - North West,Goodison Park,"[53.4386898, -2.9664193]",53.4386898,-2.9664193
+Estádio Governador João Castelo,40149,South America,Brazil,São Luís - Maranhão,Estádio Governador João Castelo,"[-2.548757, -44.2609513]",-2.548757,-44.2609513
+Miloud Hadefi Stadium,40143,Africa,Algeria,Oran,Miloud Hadefi Stadium,"[35.7285311, -0.5494978]",35.7285311,-0.5494978
+Estadio Campeón del Siglo,40005,South America,Uruguay,Montevideo,Estadio Campeón del Siglo,"[-34.7979283, -56.0662552]",-34.7979283,-56.0662552
+Metalist Stadium,40003,Europe,Ukraine,Kharkiv,Metalist Stadium,"[49.980863, 36.261576]",49.980863,36.261576
+Al-Janoub Stadium,40000,West Asia,Qatar,Al-Wakrah,Al-Janoub Stadium,"[25.1597079, 51.5742271]",25.1597079,51.5742271
+Al-Thumama Stadium,40000,West Asia,Qatar,Al-Thumama,Al-Thumama Stadium,"[25.2353106, 51.5329152]",25.2353106,51.5329152
+Ahmed Zabana Stadium,40000,Africa,Algeria,Oran,Ahmed Zabana Stadium,"[35.683357, -0.6365156]",35.683357,-0.6365156
+Stadion Batakan,40000,Southeast Asia,Indonesia,Balikpapan - East Kalimantan,Stadion Batakan,"[-1.2331501, 116.9433188]",-1.2331501,116.9433188
+Ali La Pointe Stadium,40000,Africa,Algeria,Algiers,Ali La Pointe Stadium,"[36.7729333, 3.0588445]",36.7729333,3.0588445
+Stadion Gelora Joko Samudro,40000,Southeast Asia,Indonesia,Gresik - East Java,Stadion Gelora Joko Samudro,"[-7.1855067, 112.6506165]",-7.1855067,112.6506165
+Fisht Olympic Stadium,40000,Europe,Russia,Sochi,Fisht Olympic Stadium,"[43.5854823, 39.723109]",43.5854823,39.723109
+Rentschler Field,40000,North America,United States,East Hartford - Connecticut,Rentschler Field,"[41.7596149, -72.6188369]",41.7596149,-72.6188369
+Jawaharlal Nehru Stadium,40000,South Asia,India,Kochi,Jawaharlal Nehru Stadium,"[28.583377, 77.2335404]",28.583377,77.2335404
+Hang Jebat Stadium,40000,Southeast Asia,Malaysia,Malacca,Hang Jebat Stadium,"[2.2885304, 102.2330317]",2.2885304,102.2330317
+Hong Kong Stadium,40000,East Asia,Hong Kong,So Kon Po,Hong Kong Stadium,"[22.2742423, 114.1881602]",22.2742423,114.1881602
+Stadium Negeri Pulau Pinang,40000,Southeast Asia,Malaysia,Batu Kawan,Stadium Negeri Pulau Pinang,"[5.2614822, 100.4363541]",5.2614822,100.4363541
+Accra Sports Stadium,40000,Africa,Ghana,Accra,Accra Sports Stadium,"[5.5515153, -0.1923351]",5.5515153,-0.1923351
+Sarawak Stadium,40000,Southeast Asia,Malaysia,Kuching,Sarawak Stadium,"[1.5885233, 110.3593436]",1.5885233,110.3593436
+Bogyoke Aung San Stadium,40000,Southeast Asia,Myanmar,Yangon,Bogyoke Aung San Stadium,"[16.7838408, 96.1606229]",16.7838408,96.1606229
+Resonac Dome Ōita,40000,East Asia,Japan,Ōita,Resonac Dome Ōita,"[33.2007823, 131.6574852]",33.2007823,131.6574852
+Stadium Darul Makmur,40000,Southeast Asia,Malaysia,Kuantan,Stadium Darul Makmur,"[3.8153888, 103.3236608]",3.8153888,103.3236608
+Khalifa International Stadium,40000,West Asia,Qatar,Doha,Khalifa International Stadium,"[25.263653, 51.4492245]",25.263653,51.4492245
+Stade de l’Amitié sino-gabonaise,40000,Africa,Gabon,Libreville,Stade de l’Amitié sino-gabonaise,"[0.5218802, 9.3929359]",0.5218802,9.3929359
+Peoples Football Stadium,40000,South Asia,Pakistan,Karachi,Peoples Football Stadium,"[24.8582424, 66.9875836]",24.8582424,66.9875836
+JRD Tata Sports Complex Stadium,40000,South Asia,India,Jamshedpur,JRD Tata Sports Complex Stadium,"[22.8060299, 86.1935297]",22.8060299,86.1935297
+Bao'an Stadium,40000,East Asia,China,Shenzhen,Bao'an Stadium,"[22.5609706, 113.8772183]",22.5609706,113.8772183
+Kunming Tuodong Sports Centre Stadium,40000,East Asia,China,Kunming,Kunming Tuodong Sports Centre Stadium,"[25.0363006, 102.7086139]",25.0363006,102.7086139
+Taizhou Sports Centre Stadium,40000,East Asia,China,Taizhou,Taizhou Sports Centre Stadium,"[28.6496194, 121.395379]",28.6496194,121.395379
+Wuhu Olympic Stadium,40000,East Asia,China,Wuhu,Wuhu Olympic Stadium,"[31.1800568, 118.2141777]",31.1800568,118.2141777
+Huizhou Olympic Stadium,40000,East Asia,China,Huizhou,Huizhou Olympic Stadium,"[23.035558, 114.4415201]",23.035558,114.4415201

@@ -1,0 +1,22 @@
+# Core dependencies
+apache-airflow==2.9.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+adlfs==2024.12.0
+azure-identity==1.15.0
+
+# Web scraping
+requests==2.31.0
+lxml==5.4.0
+
+# Data processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Geocoding
+geopy==2.3.0
+
+# Visualization (optional)
+matplotlib==3.8.2
+seaborn==0.13.0
+

@@ -1,0 +1,5350 @@
+[
+  {
+    "stadiums":"Rungrado 1st of May Stadium",
+    "capacity":114000,
+    "region":"East Asia",
+    "country":"North Korea",
+    "city":"Pyongyang",
+    "original_stadium_name":"Rungrado 1st of May Stadium",
+    "location":[
+      39.0496732,
+      125.7753215
+    ],
+    "lat":39.0496732,
+    "lon":125.7753215
+  },
+  {
+    "stadiums":"Michigan Stadium",
+    "capacity":107601,
+    "region":"North America",
+    "country":"United States",
+    "city":"Ann Arbor - Michigan",
+    "original_stadium_name":"Michigan Stadium",
+    "location":[
+      42.2658749,
+      -83.7486841
+    ],
+    "lat":42.2658749,
+    "lon":-83.7486841
+  },
+  {
+    "stadiums":"Ohio Stadium",
+    "capacity":102780,
+    "region":"North America",
+    "country":"United States",
+    "city":"Columbus - Ohio",
+    "original_stadium_name":"Ohio Stadium",
+    "location":[
+      40.0016458,
+      -83.0197374
+    ],
+    "lat":40.0016458,
+    "lon":-83.0197374
+  },
+  {
+    "stadiums":"Melbourne Cricket Ground",
+    "capacity":100024,
+    "region":"Oceania",
+    "country":"Australia",
+    "city":"Melbourne",
+    "original_stadium_name":"Melbourne Cricket Ground",
+    "location":[
+      -37.819909,
+      144.983225
+    ],
+    "lat":-37.819909,
+    "lon":144.983225
+  },
+  {
+    "stadiums":"Camp Nou",
+    "capacity":99354,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Barcelona - Catalonia",
+    "original_stadium_name":"Camp Nou",
+    "location":[
+      41.3808046,
+      2.1158872
+    ],
+    "lat":41.3808046,
+    "lon":2.1158872
+  },
+  {
+    "stadiums":"FNB Stadium",
+    "capacity":94736,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Johannesburg",
+    "original_stadium_name":"FNB Stadium",
+    "location":[
+      -26.2347063,
+      27.9826439
+    ],
+    "lat":-26.2347063,
+    "lon":27.9826439
+  },
+  {
+    "stadiums":"New Administrative Capital Stadium",
+    "capacity":93940,
+    "region":"Africa",
+    "country":"Egypt",
+    "city":"New Administrative Capital",
+    "original_stadium_name":"New Administrative Capital Stadium",
+    "location":[
+      29.8921738,
+      31.673227
+    ],
+    "lat":29.8921738,
+    "lon":31.673227
+  },
+  {
+    "stadiums":"Rose Bowl Stadium",
+    "capacity":92800,
+    "region":"North America",
+    "country":"United States",
+    "city":"Pasadena - California",
+    "original_stadium_name":"Rose Bowl Stadium",
+    "location":[
+      34.1613492,
+      -118.1676674
+    ],
+    "lat":34.1613492,
+    "lon":-118.1676674
+  },
+  {
+    "stadiums":"Cotton Bowl Stadium",
+    "capacity":92100,
+    "region":"North America",
+    "country":"United States",
+    "city":"Dallas",
+    "original_stadium_name":"Cotton Bowl Stadium",
+    "location":[
+      32.7796119,
+      -96.7596025
+    ],
+    "lat":32.7796119,
+    "lon":-96.7596025
+  },
+  {
+    "stadiums":"Wembley Stadium",
+    "capacity":90000,
+    "region":"Europe",
+    "country":"England",
+    "city":"London - England",
+    "original_stadium_name":"Wembley Stadium",
+    "location":[
+      51.5560695,
+      -0.2796034
+    ],
+    "lat":51.5560695,
+    "lon":-0.2796034
+  },
+  {
+    "stadiums":"Lusail Stadium",
+    "capacity":88966,
+    "region":"West Asia",
+    "country":"Qatar",
+    "city":"Lusail",
+    "original_stadium_name":"Lusail Stadium",
+    "location":[
+      25.4208329,
+      51.4904784
+    ],
+    "lat":25.4208329,
+    "lon":51.4904784
+  },
+  {
+    "stadiums":"Estadio Azteca",
+    "capacity":87523,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"Mexico City",
+    "original_stadium_name":"Estadio Azteca",
+    "location":[
+      19.3029794,
+      -99.15047
+    ],
+    "lat":19.3029794,
+    "lon":-99.15047
+  },
+  {
+    "stadiums":"Bukit Jalil National Stadium",
+    "capacity":87411,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Kuala Lumpur",
+    "original_stadium_name":"Bukit Jalil National Stadium",
+    "location":[
+      3.0546755,
+      101.691369
+    ],
+    "lat":3.0546755,
+    "lon":101.691369
+  },
+  {
+    "stadiums":"Borg El-Arab Stadium",
+    "capacity":86000,
+    "region":"Africa",
+    "country":"Egypt",
+    "city":"Alexandria",
+    "original_stadium_name":"Borg El-Arab Stadium",
+    "location":[
+      30.9998511,
+      29.7296488
+    ],
+    "lat":30.9998511,
+    "lon":29.7296488
+  },
+  {
+    "stadiums":"Estadio Santiago Bernab\u00e9u",
+    "capacity":85000,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Madrid",
+    "original_stadium_name":"Estadio Santiago Bernab\u00e9u",
+    "location":[
+      40.4530225,
+      -3.687422
+    ],
+    "lat":40.4530225,
+    "lon":-3.687422
+  },
+  {
+    "stadiums":"Estadio M\u00e2s Monumental",
+    "capacity":84567,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Buenos Aires",
+    "original_stadium_name":"Estadio M\u00e2s Monumental",
+    "location":[
+      -34.5452933,
+      -58.4497385
+    ],
+    "lat":-34.5452933,
+    "lon":-58.4497385
+  },
+  {
+    "stadiums":"Stadium Australia",
+    "capacity":83500,
+    "region":"Oceania",
+    "country":"Australia",
+    "city":"Sydney",
+    "original_stadium_name":"Stadium Australia",
+    "location":[
+      -33.8471082,
+      151.0633848
+    ],
+    "lat":-33.8471082,
+    "lon":151.0633848
+  },
+  {
+    "stadiums":"MetLife Stadium",
+    "capacity":82500,
+    "region":"North America",
+    "country":"United States",
+    "city":"East Rutherford - New Jersey",
+    "original_stadium_name":"MetLife Stadium",
+    "location":[
+      40.813507,
+      -74.0743442
+    ],
+    "lat":40.813507,
+    "lon":-74.0743442
+  },
+  {
+    "stadiums":"Croke Park",
+    "capacity":82300,
+    "region":"Europe",
+    "country":"Ireland",
+    "city":"Dublin",
+    "original_stadium_name":"Croke Park",
+    "location":[
+      53.3603576,
+      -6.2509812
+    ],
+    "lat":53.3603576,
+    "lon":-6.2509812
+  },
+  {
+    "stadiums":"Jakarta International Stadium",
+    "capacity":82000,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Jakarta",
+    "original_stadium_name":"Jakarta International Stadium",
+    "location":[
+      -6.1250747,
+      106.860201
+    ],
+    "lat":-6.1250747,
+    "lon":106.860201
+  },
+  {
+    "stadiums":"Lambeau Field",
+    "capacity":81441,
+    "region":"North America",
+    "country":"United States",
+    "city":"Green Bay - Wisconsin",
+    "original_stadium_name":"Lambeau Field",
+    "location":[
+      44.5009705,
+      -88.0619681
+    ],
+    "lat":44.5009705,
+    "lon":-88.0619681
+  },
+  {
+    "stadiums":"Signal Iduna Park",
+    "capacity":81365,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Dortmund",
+    "original_stadium_name":"Signal Iduna Park",
+    "location":[
+      51.4924922,
+      7.4518549
+    ],
+    "lat":51.4924922,
+    "lon":7.4518549
+  },
+  {
+    "stadiums":"Stade de France",
+    "capacity":81338,
+    "region":"Europe",
+    "country":"France",
+    "city":"Saint-Denis",
+    "original_stadium_name":"Stade de France",
+    "location":[
+      48.9244726,
+      2.3601325
+    ],
+    "lat":48.9244726,
+    "lon":2.3601325
+  },
+  {
+    "stadiums":"Grand Sports Arena of the Luzhniki Olympic Complex",
+    "capacity":81000,
+    "region":"Europe",
+    "country":"Russia",
+    "city":"Moscow",
+    "original_stadium_name":"Grand Sports Arena of the Luzhniki Olympic Complex",
+    "location":[
+      55.7157445,
+      37.5537673
+    ],
+    "lat":55.7157445,
+    "lon":37.5537673
+  },
+  {
+    "stadiums":"Shah Alam Stadium",
+    "capacity":80372,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Shah Alam - Selangor",
+    "original_stadium_name":"Shah Alam Stadium",
+    "location":[
+      3.0821312,
+      101.5451144
+    ],
+    "lat":3.0821312,
+    "lon":101.5451144
+  },
+  {
+    "stadiums":"Estadio Monumental",
+    "capacity":80093,
+    "region":"South America",
+    "country":"Peru",
+    "city":"Lima",
+    "original_stadium_name":"Estadio Monumental",
+    "location":[
+      -12.0556474,
+      -76.9353339
+    ],
+    "lat":-12.0556474,
+    "lon":-76.9353339
+  },
+  {
+    "stadiums":"Stadio Giuseppe Meazza",
+    "capacity":80018,
+    "region":"Europe",
+    "country":"Italy",
+    "city":"Milan - Lombardy",
+    "original_stadium_name":"Stadio Giuseppe Meazza",
+    "location":[
+      45.4782003,
+      9.123964
+    ],
+    "lat":45.4782003,
+    "lon":9.123964
+  },
+  {
+    "stadiums":"Guangdong Olympic Stadium",
+    "capacity":80012,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Guangzhou",
+    "original_stadium_name":"Guangdong Olympic Stadium",
+    "location":[
+      23.1380362,
+      113.4034296
+    ],
+    "lat":23.1380362,
+    "lon":113.4034296
+  },
+  {
+    "stadiums":"Hangzhou Olympic Sports Expo Centre Stadium",
+    "capacity":80000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Hangzhou",
+    "original_stadium_name":"Hangzhou Olympic Sports Expo Centre Stadium",
+    "location":[
+      30.2317101,
+      120.2254884
+    ],
+    "lat":30.2317101,
+    "lon":120.2254884
+  },
+  {
+    "stadiums":"AT&T Stadium",
+    "capacity":80000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Arlington - Texas",
+    "original_stadium_name":"AT&T Stadium",
+    "location":[
+      32.7478502,
+      -97.0928337
+    ],
+    "lat":32.7478502,
+    "lon":-97.0928337
+  },
+  {
+    "stadiums":"Stade des Martyrs",
+    "capacity":80000,
+    "region":"Africa",
+    "country":"DR Congo",
+    "city":"Kinshasa",
+    "original_stadium_name":"Stade des Martyrs",
+    "location":[
+      -5.9280631,
+      22.309603
+    ],
+    "lat":-5.9280631,
+    "lon":22.309603
+  },
+  {
+    "stadiums":"Beijing National Stadium",
+    "capacity":80000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Beijing",
+    "original_stadium_name":"Beijing National Stadium",
+    "location":[
+      40.0160281,
+      116.3713841
+    ],
+    "lat":40.0160281,
+    "lon":116.3713841
+  },
+  {
+    "stadiums":"Maracan\u00e3",
+    "capacity":78838,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Rio de Janeiro - Rio de Janeiro",
+    "original_stadium_name":"Maracan\u00e3",
+    "location":[
+      -22.9121619,
+      -43.2311861
+    ],
+    "lat":-22.9121619,
+    "lon":-43.2311861
+  },
+  {
+    "stadiums":"Los Angeles Memorial Coliseum",
+    "capacity":78467,
+    "region":"North America",
+    "country":"United States",
+    "city":"Los Angeles - California",
+    "original_stadium_name":"Los Angeles Memorial Coliseum",
+    "location":[
+      34.0139159,
+      -118.2877996
+    ],
+    "lat":34.0139159,
+    "lon":-118.2877996
+  },
+  {
+    "stadiums":"Azadi Stadium",
+    "capacity":78116,
+    "region":"West Asia",
+    "country":"Iran",
+    "city":"Tehran",
+    "original_stadium_name":"Azadi Stadium",
+    "location":[
+      35.7244962,
+      51.2755487
+    ],
+    "lat":35.7244962,
+    "lon":51.2755487
+  },
+  {
+    "stadiums":"Stadion Utama Gelora Bung Karno",
+    "capacity":77193,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Jakarta",
+    "original_stadium_name":"Stadion Utama Gelora Bung Karno",
+    "location":[
+      -6.218536,
+      106.8026353
+    ],
+    "lat":-6.218536,
+    "lon":106.8026353
+  },
+  {
+    "stadiums":"Caesar's Superdome",
+    "capacity":76468,
+    "region":"North America",
+    "country":"United States",
+    "city":"New Orleans - Louisiana",
+    "original_stadium_name":"Caesar's Superdome",
+    "location":[
+      29.9759983,
+      -90.0782127
+    ],
+    "lat":29.9759983,
+    "lon":-90.0782127
+  },
+  {
+    "stadiums":"Arrowhead Stadium",
+    "capacity":76412,
+    "region":"North America",
+    "country":"United States",
+    "city":"Kansas City - Missouri",
+    "original_stadium_name":"Arrowhead Stadium",
+    "location":[
+      39.0489357,
+      -94.4839993
+    ],
+    "lat":39.0489357,
+    "lon":-94.4839993
+  },
+  {
+    "stadiums":"Empower Field",
+    "capacity":76125,
+    "region":"North America",
+    "country":"United States",
+    "city":"Denver",
+    "original_stadium_name":"Empower Field",
+    "location":[
+      39.743952,
+      -105.0192228
+    ],
+    "lat":39.743952,
+    "lon":-105.0192228
+  },
+  {
+    "stadiums":"Atat\u00fcrk Olimpiyat Stadyumu",
+    "capacity":76092,
+    "region":"Europe",
+    "country":"Turkey",
+    "city":"Istanbul",
+    "original_stadium_name":"Atat\u00fcrk Olimpiyat Stadyumu",
+    "location":[
+      41.0744732,
+      28.7656611
+    ],
+    "lat":41.0744732,
+    "lon":28.7656611
+  },
+  {
+    "stadiums":"Old Trafford",
+    "capacity":76000,
+    "region":"Europe",
+    "country":"England",
+    "city":"Manchester",
+    "original_stadium_name":"Old Trafford",
+    "location":[
+      53.4631095,
+      -2.2913865
+    ],
+    "lat":53.4631095,
+    "lon":-2.2913865
+  },
+  {
+    "stadiums":"Allianz Arena",
+    "capacity":75024,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Munich",
+    "original_stadium_name":"Allianz Arena",
+    "location":[
+      48.2187901,
+      11.6236227
+    ],
+    "lat":48.2187901,
+    "lon":11.6236227
+  },
+  {
+    "stadiums":"Naghsh-e-Jahan Stadium",
+    "capacity":75000,
+    "region":"West Asia",
+    "country":"Iran",
+    "city":"Isfahan",
+    "original_stadium_name":"Naghsh-e-Jahan Stadium",
+    "location":[
+      32.7424558,
+      51.686181
+    ],
+    "lat":32.7424558,
+    "lon":51.686181
+  },
+  {
+    "stadiums":"Bank of America Stadium",
+    "capacity":74867,
+    "region":"North America",
+    "country":"United States",
+    "city":"Charlotte - North Carolina",
+    "original_stadium_name":"Bank of America Stadium",
+    "location":[
+      35.225774,
+      -80.8528276
+    ],
+    "lat":35.225774,
+    "lon":-80.8528276
+  },
+  {
+    "stadiums":"Principality Stadium",
+    "capacity":74500,
+    "region":"Europe",
+    "country":"Wales",
+    "city":"Cardiff",
+    "original_stadium_name":"Principality Stadium",
+    "location":[
+      51.4782484,
+      -3.1826256
+    ],
+    "lat":51.4782484,
+    "lon":-3.1826256
+  },
+  {
+    "stadiums":"Olympiastadion",
+    "capacity":74475,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Berlin",
+    "original_stadium_name":"Olympiastadion",
+    "location":[
+      52.5145846,
+      13.2398144
+    ],
+    "lat":52.5145846,
+    "lon":13.2398144
+  },
+  {
+    "stadiums":"Cairo International Stadium",
+    "capacity":74100,
+    "region":"Africa",
+    "country":"Egypt",
+    "city":"Cairo",
+    "original_stadium_name":"Cairo International Stadium",
+    "location":[
+      30.0690313,
+      31.3122096
+    ],
+    "lat":30.0690313,
+    "lon":31.3122096
+  },
+  {
+    "stadiums":"FirstEnergy Stadium",
+    "capacity":73200,
+    "region":"North America",
+    "country":"United States",
+    "city":"Cleveland",
+    "original_stadium_name":"FirstEnergy Stadium",
+    "location":[
+      41.5060559,
+      -81.6997118
+    ],
+    "lat":41.5060559,
+    "lon":-81.6997118
+  },
+  {
+    "stadiums":"Est\u00e1dio Nacional Man\u00e9 Garrincha",
+    "capacity":72788,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Bras\u00edlia - Distrito Federal",
+    "original_stadium_name":"Est\u00e1dio Nacional Man\u00e9 Garrincha",
+    "location":[
+      -15.7837498,
+      -47.8990287
+    ],
+    "lat":-15.7837498,
+    "lon":-47.8990287
+  },
+  {
+    "stadiums":"Stadio Olimpico",
+    "capacity":72698,
+    "region":"Europe",
+    "country":"Italy",
+    "city":"Rome - Lazio",
+    "original_stadium_name":"Stadio Olimpico",
+    "location":[
+      41.9339423,
+      12.4547705
+    ],
+    "lat":41.9339423,
+    "lon":12.4547705
+  },
+  {
+    "stadiums":"Nissan Stadium",
+    "capacity":72327,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Yokohama - Kanagawa",
+    "original_stadium_name":"Nissan Stadium",
+    "location":[
+      35.5099882,
+      139.6063825
+    ],
+    "lat":35.5099882,
+    "lon":139.6063825
+  },
+  {
+    "stadiums":"NRG Stadium",
+    "capacity":72220,
+    "region":"North America",
+    "country":"United States",
+    "city":"Houston - Texas",
+    "original_stadium_name":"NRG Stadium",
+    "location":[
+      29.6848581,
+      -95.4108015
+    ],
+    "lat":29.6848581,
+    "lon":-95.4108015
+  },
+  {
+    "stadiums":"Shanghai Stadium",
+    "capacity":72000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Shanghai",
+    "original_stadium_name":"Shanghai Stadium",
+    "location":[
+      31.1833432,
+      121.4373709
+    ],
+    "lat":31.1833432,
+    "lon":121.4373709
+  },
+  {
+    "stadiums":"M&T Bank Stadium",
+    "capacity":71008,
+    "region":"North America",
+    "country":"United States",
+    "city":"Baltimore",
+    "original_stadium_name":"M&T Bank Stadium",
+    "location":[
+      39.2779734,
+      -76.6226651
+    ],
+    "lat":39.2779734,
+    "lon":-76.6226651
+  },
+  {
+    "stadiums":"Mercedes-Benz Stadium",
+    "capacity":71000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Atlanta - Georgia",
+    "original_stadium_name":"Mercedes-Benz Stadium",
+    "location":[
+      33.7554123,
+      -84.4008493
+    ],
+    "lat":33.7554123,
+    "lon":-84.4008493
+  },
+  {
+    "stadiums":"Riyadh Air Metropolitano",
+    "capacity":70692,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Madrid",
+    "original_stadium_name":"Riyadh Air Metropolitano",
+    "location":[
+      40.436053,
+      -3.5997158
+    ],
+    "lat":40.436053,
+    "lon":-3.5997158
+  },
+  {
+    "stadiums":"Olympic National Sports Complex Stadium",
+    "capacity":70000,
+    "region":"Europe",
+    "country":"Ukraine",
+    "city":"Kyiv",
+    "original_stadium_name":"Olympic National Sports Complex Stadium",
+    "location":[
+      50.4333967,
+      30.5230174
+    ],
+    "lat":50.4333967,
+    "lon":30.5230174
+  },
+  {
+    "stadiums":"SoFi Stadium",
+    "capacity":70000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Inglewood - California",
+    "original_stadium_name":"SoFi Stadium",
+    "location":[
+      33.9534073,
+      -118.3390098
+    ],
+    "lat":33.9534073,
+    "lon":-118.3390098
+  },
+  {
+    "stadiums":"Seoul Olympic Stadium",
+    "capacity":69950,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Seoul",
+    "original_stadium_name":"Seoul Olympic Stadium",
+    "location":[
+      37.5158632,
+      127.0727891
+    ],
+    "lat":37.5158632,
+    "lon":127.0727891
+  },
+  {
+    "stadiums":"Bak\u0131 Olimpiya stadionu",
+    "capacity":69870,
+    "region":"West Asia",
+    "country":"Azerbaijan",
+    "city":"Baku",
+    "original_stadium_name":"Bak\u0131 Olimpiya stadionu",
+    "location":[
+      40.429982,
+      49.919531
+    ],
+    "lat":40.429982,
+    "lon":49.919531
+  },
+  {
+    "stadiums":"Olympic Stadium",
+    "capacity":69618,
+    "region":"Europe",
+    "country":"Greece",
+    "city":"Marousi",
+    "original_stadium_name":"Olympic Stadium",
+    "location":[
+      38.0325514,
+      23.7944433
+    ],
+    "lat":38.0325514,
+    "lon":23.7944433
+  },
+  {
+    "stadiums":"Olympiastadion M\u00fcnchen",
+    "capacity":69250,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Munich",
+    "original_stadium_name":"Olympiastadion M\u00fcnchen",
+    "location":[
+      48.1731314,
+      11.5464786
+    ],
+    "lat":48.1731314,
+    "lon":11.5464786
+  },
+  {
+    "stadiums":"Lumen Field",
+    "capacity":69000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Seattle - Washington",
+    "original_stadium_name":"Lumen Field",
+    "location":[
+      47.5953459,
+      -122.3316443
+    ],
+    "lat":47.5953459,
+    "lon":-122.3316443
+  },
+  {
+    "stadiums":"Estadio Ol\u00edmpico Universitario",
+    "capacity":68954,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"Mexico City",
+    "original_stadium_name":"Estadio Ol\u00edmpico Universitario",
+    "location":[
+      19.3316881,
+      -99.1922864
+    ],
+    "lat":19.3316881,
+    "lon":-99.1922864
+  },
+  {
+    "stadiums":"Gillette Stadium",
+    "capacity":68756,
+    "region":"North America",
+    "country":"United States",
+    "city":"Foxborough - Massachusetts",
+    "original_stadium_name":"Gillette Stadium",
+    "location":[
+      42.0908879,
+      -71.2641731
+    ],
+    "lat":42.0908879,
+    "lon":-71.2641731
+  },
+  {
+    "stadiums":"King Abdullah Sports City Stadium",
+    "capacity":68560,
+    "region":"West Asia",
+    "country":"Saudi Arabia",
+    "city":"Jeddah",
+    "original_stadium_name":"King Abdullah Sports City Stadium",
+    "location":[
+      26.3790481,
+      43.9477172
+    ],
+    "lat":26.3790481,
+    "lon":43.9477172
+  },
+  {
+    "stadiums":"Lincoln Financial Field",
+    "capacity":68532,
+    "region":"North America",
+    "country":"United States",
+    "city":"Philadelphia",
+    "original_stadium_name":"Lincoln Financial Field",
+    "location":[
+      39.9009099,
+      -75.1674892
+    ],
+    "lat":39.9009099,
+    "lon":-75.1674892
+  },
+  {
+    "stadiums":"Levi's Stadium",
+    "capacity":68500,
+    "region":"North America",
+    "country":"United States",
+    "city":"Santa Clara - California",
+    "original_stadium_name":"Levi's Stadium",
+    "location":[
+      37.4029867,
+      -121.9696489
+    ],
+    "lat":37.4029867,
+    "lon":-121.9696489
+  },
+  {
+    "stadiums":"Acrisure Stadium",
+    "capacity":68400,
+    "region":"North America",
+    "country":"United States",
+    "city":"Pittsburgh",
+    "original_stadium_name":"Acrisure Stadium",
+    "location":[
+      40.4467166,
+      -80.0157199
+    ],
+    "lat":40.4467166,
+    "lon":-80.0157199
+  },
+  {
+    "stadiums":"Gazprom Arena",
+    "capacity":68134,
+    "region":"Europe",
+    "country":"Russia",
+    "city":"Saint Petersburg",
+    "original_stadium_name":"Gazprom Arena",
+    "location":[
+      59.9723766,
+      30.2210608
+    ],
+    "lat":59.9723766,
+    "lon":30.2210608
+  },
+  {
+    "stadiums":"Salt Lake Stadium",
+    "capacity":68000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"Kolkata",
+    "original_stadium_name":"Salt Lake Stadium",
+    "location":[
+      22.5690604,
+      88.4090201
+    ],
+    "lat":22.5690604,
+    "lon":88.4090201
+  },
+  {
+    "stadiums":"National Stadium",
+    "capacity":68000,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Tokyo",
+    "original_stadium_name":"National Stadium",
+    "location":[
+      35.6778596,
+      139.7135142
+    ],
+    "lat":35.6778596,
+    "lon":139.7135142
+  },
+  {
+    "stadiums":"TIAA Bank Field",
+    "capacity":67814,
+    "region":"North America",
+    "country":"United States",
+    "city":"Jacksonville - Florida",
+    "original_stadium_name":"TIAA Bank Field",
+    "location":[
+      30.3321838,
+      -81.655651
+    ],
+    "lat":30.3321838,
+    "lon":-81.655651
+  },
+  {
+    "stadiums":"Orange V\u00e9lodrome",
+    "capacity":67394,
+    "region":"Europe",
+    "country":"France",
+    "city":"Marseille",
+    "original_stadium_name":"Orange V\u00e9lodrome",
+    "location":[
+      43.269835,
+      5.3959117
+    ],
+    "lat":43.269835,
+    "lon":5.3959117
+  },
+  {
+    "stadiums":"Pusk\u00e1s Ar\u00e9na",
+    "capacity":67215,
+    "region":"Europe",
+    "country":"Hungary",
+    "city":"Budapest",
+    "original_stadium_name":"Pusk\u00e1s Ar\u00e9na",
+    "location":[
+      47.5031089,
+      19.0980509
+    ],
+    "lat":47.5031089,
+    "lon":19.0980509
+  },
+  {
+    "stadiums":"Scottish Gas Murrayfield Stadium",
+    "capacity":67144,
+    "region":"Europe",
+    "country":"Scotland",
+    "city":"Edinburgh",
+    "original_stadium_name":"Scottish Gas Murrayfield Stadium",
+    "location":[
+      55.9423132,
+      -3.2408951
+    ],
+    "lat":55.9423132,
+    "lon":-3.2408951
+  },
+  {
+    "stadiums":"Stade Mohammed V",
+    "capacity":67000,
+    "region":"Africa",
+    "country":"Morocco",
+    "city":"Casablanca",
+    "original_stadium_name":"Stade Mohammed V",
+    "location":[
+      33.5828249,
+      -7.6468329
+    ],
+    "lat":33.5828249,
+    "lon":-7.6468329
+  },
+  {
+    "stadiums":"Lucas Oil Stadium",
+    "capacity":67000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Indianapolis - Indiana",
+    "original_stadium_name":"Lucas Oil Stadium",
+    "location":[
+      39.7590621,
+      -86.1638376
+    ],
+    "lat":39.7590621,
+    "lon":-86.1638376
+  },
+  {
+    "stadiums":"MorumBIS",
+    "capacity":66975,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"S\u00e3o Paulo - S\u00e3o Paulo",
+    "original_stadium_name":"MorumBIS",
+    "location":[
+      -23.6001016,
+      -46.7201264
+    ],
+    "lat":-23.6001016,
+    "lon":-46.7201264
+  },
+  {
+    "stadiums":"The Dome",
+    "capacity":66965,
+    "region":"North America",
+    "country":"United States",
+    "city":"St. Louis",
+    "original_stadium_name":"The Dome",
+    "location":[
+      42.7786911,
+      -73.1701063
+    ],
+    "lat":42.7786911,
+    "lon":-73.1701063
+  },
+  {
+    "stadiums":"Yadegar-e-Emam Stadium",
+    "capacity":66833,
+    "region":"West Asia",
+    "country":"Iran",
+    "city":"Tabriz",
+    "original_stadium_name":"Yadegar-e-Emam Stadium",
+    "location":[
+      38.0738612,
+      46.2978789
+    ],
+    "lat":38.0738612,
+    "lon":46.2978789
+  },
+  {
+    "stadiums":"Seoul World Cup Stadium",
+    "capacity":66704,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Seoul",
+    "original_stadium_name":"Seoul World Cup Stadium",
+    "location":[
+      37.5683021,
+      126.8972477
+    ],
+    "lat":37.5683021,
+    "lon":126.8972477
+  },
+  {
+    "stadiums":"US Bank Stadium",
+    "capacity":66655,
+    "region":"North America",
+    "country":"United States",
+    "city":"Minneapolis",
+    "original_stadium_name":"US Bank Stadium",
+    "location":[
+      44.9736154,
+      -93.2574663
+    ],
+    "lat":44.9736154,
+    "lon":-93.2574663
+  },
+  {
+    "stadiums":"Daegu Stadium",
+    "capacity":66422,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Daegu",
+    "original_stadium_name":"Daegu Stadium",
+    "location":[
+      35.8297517,
+      128.6901254
+    ],
+    "lat":35.8297517,
+    "lon":128.6901254
+  },
+  {
+    "stadiums":"Workers' Stadium",
+    "capacity":66161,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Beijing",
+    "original_stadium_name":"Workers' Stadium",
+    "location":[
+      39.9323548,
+      116.4442038
+    ],
+    "lat":39.9323548,
+    "lon":116.4442038
+  },
+  {
+    "stadiums":"London Stadium",
+    "capacity":66000,
+    "region":"Europe",
+    "country":"England",
+    "city":"London",
+    "original_stadium_name":"London Stadium",
+    "location":[
+      51.5386206,
+      -0.0166238
+    ],
+    "lat":51.5386206,
+    "lon":-0.0166238
+  },
+  {
+    "stadiums":"Raymond James Stadium",
+    "capacity":65847,
+    "region":"North America",
+    "country":"United States",
+    "city":"Tampa - Florida",
+    "original_stadium_name":"Raymond James Stadium",
+    "location":[
+      27.9759793,
+      -82.5033545
+    ],
+    "lat":27.9759793,
+    "lon":-82.5033545
+  },
+  {
+    "stadiums":"Hard Rock Stadium",
+    "capacity":65326,
+    "region":"North America",
+    "country":"United States",
+    "city":"Miami Gardens - Florida",
+    "original_stadium_name":"Hard Rock Stadium",
+    "location":[
+      25.9579031,
+      -80.2388497
+    ],
+    "lat":25.9579031,
+    "lon":-80.2388497
+  },
+  {
+    "stadiums":"Olympic Stadium",
+    "capacity":65255,
+    "region":"North America",
+    "country":"Canada",
+    "city":"Montreal - Quebec",
+    "original_stadium_name":"Olympic Stadium",
+    "location":[
+      45.5577983,
+      -73.5516458
+    ],
+    "lat":45.5577983,
+    "lon":-73.5516458
+  },
+  {
+    "stadiums":"Basra International Stadium",
+    "capacity":65227,
+    "region":"West Asia",
+    "country":"Iraq",
+    "city":"Basra",
+    "original_stadium_name":"Basra International Stadium",
+    "location":[
+      30.4399273,
+      47.7798634
+    ],
+    "lat":30.4399273,
+    "lon":47.7798634
+  },
+  {
+    "stadiums":"Camping World Stadium",
+    "capacity":65000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Orlando - Florida",
+    "original_stadium_name":"Camping World Stadium",
+    "location":[
+      28.5390623,
+      -81.4027486
+    ],
+    "lat":28.5390623,
+    "lon":-81.4027486
+  },
+  {
+    "stadiums":"Alamodome",
+    "capacity":65000,
+    "region":"North America",
+    "country":"United States",
+    "city":"San Antonio",
+    "original_stadium_name":"Alamodome",
+    "location":[
+      29.4168923,
+      -98.4788949
+    ],
+    "lat":29.4168923,
+    "lon":-98.4788949
+  },
+  {
+    "stadiums":"Ford Field",
+    "capacity":65000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Detroit",
+    "original_stadium_name":"Ford Field",
+    "location":[
+      42.3399567,
+      -83.0456166
+    ],
+    "lat":42.3399567,
+    "lon":-83.0456166
+  },
+  {
+    "stadiums":"Stade Ibn Battuta",
+    "capacity":65000,
+    "region":"Africa",
+    "country":"Morocco",
+    "city":"Tangier",
+    "original_stadium_name":"Stade Ibn Battuta",
+    "location":[
+      35.7412689,
+      -5.8580825
+    ],
+    "lat":35.7412689,
+    "lon":-5.8580825
+  },
+  {
+    "stadiums":"Est\u00e1dio do Sport Lisboa e Benfica",
+    "capacity":64642,
+    "region":"Europe",
+    "country":"Portugal",
+    "city":"Lisbon",
+    "original_stadium_name":"Est\u00e1dio do Sport Lisboa e Benfica",
+    "location":[
+      38.7526893,
+      -9.1846899
+    ],
+    "lat":38.7526893,
+    "lon":-9.1846899
+  },
+  {
+    "stadiums":"Stade du 5 Juillet",
+    "capacity":64200,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Algiers",
+    "original_stadium_name":"Stade du 5 Juillet",
+    "location":[
+      36.7595143,
+      2.9952724
+    ],
+    "lat":36.7595143,
+    "lon":2.9952724
+  },
+  {
+    "stadiums":"Castel\u00e3o",
+    "capacity":63903,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Fortaleza - Cear\u00e1",
+    "original_stadium_name":"Castel\u00e3o",
+    "location":[
+      -3.806742,
+      -38.5216794
+    ],
+    "lat":-3.806742,
+    "lon":-38.5216794
+  },
+  {
+    "stadiums":"Saitama Stadium 2002",
+    "capacity":63700,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Saitama",
+    "original_stadium_name":"Saitama Stadium 2002",
+    "location":[
+      35.90308,
+      139.7168256
+    ],
+    "lat":35.90308,
+    "lon":139.7168256
+  },
+  {
+    "stadiums":"Ellis Park Stadium",
+    "capacity":62567,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Johannesburg - Gauteng",
+    "original_stadium_name":"Ellis Park Stadium",
+    "location":[
+      -26.1974789,
+      28.0607682
+    ],
+    "lat":-26.1974789,
+    "lon":28.0607682
+  },
+  {
+    "stadiums":"Tottenham Hotspur Stadium",
+    "capacity":62303,
+    "region":"Europe",
+    "country":"England",
+    "city":"London",
+    "original_stadium_name":"Tottenham Hotspur Stadium",
+    "location":[
+      51.604157,
+      -0.0662604
+    ],
+    "lat":51.604157,
+    "lon":-0.0662604
+  },
+  {
+    "stadiums":"VELTINS-Arena",
+    "capacity":62271,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Gelsenkirchen",
+    "original_stadium_name":"VELTINS-Arena",
+    "location":[
+      51.5545938,
+      7.0676001
+    ],
+    "lat":51.5545938,
+    "lon":7.0676001
+  },
+  {
+    "stadiums":"Yizhong Sports Centre Stadium",
+    "capacity":62000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Qingdao",
+    "original_stadium_name":"Yizhong Sports Centre Stadium",
+    "location":[
+      36.0663249,
+      120.3777659
+    ],
+    "lat":36.0663249,
+    "lon":120.3777659
+  },
+  {
+    "stadiums":"Est\u00e1dio Governador Magalh\u00e3es Pinto",
+    "capacity":61846,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Belo Horizonte - Minas Gerais",
+    "original_stadium_name":"Est\u00e1dio Governador Magalh\u00e3es Pinto",
+    "location":[
+      -19.8659115,
+      -43.9710434
+    ],
+    "lat":-19.8659115,
+    "lon":-43.9710434
+  },
+  {
+    "stadiums":"King Fahd International Stadium",
+    "capacity":61781,
+    "region":"West Asia",
+    "country":"Saudi Arabia",
+    "city":"Riyadh",
+    "original_stadium_name":"King Fahd International Stadium",
+    "location":[
+      24.7885806,
+      46.8391449
+    ],
+    "lat":24.7885806,
+    "lon":46.8391449
+  },
+  {
+    "stadiums":"Soldier Field",
+    "capacity":61500,
+    "region":"North America",
+    "country":"United States",
+    "city":"Chicago",
+    "original_stadium_name":"Soldier Field",
+    "location":[
+      41.8624515,
+      -87.6167151
+    ],
+    "lat":41.8624515,
+    "lon":-87.6167151
+  },
+  {
+    "stadiums":"Nanjing Olympic Sports Centre Stadium",
+    "capacity":61443,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Nanjing",
+    "original_stadium_name":"Nanjing Olympic Sports Centre Stadium",
+    "location":[
+      32.0106825,
+      118.7197543
+    ],
+    "lat":32.0106825,
+    "lon":118.7197543
+  },
+  {
+    "stadiums":"Anfield",
+    "capacity":61276,
+    "region":"Europe",
+    "country":"England",
+    "city":"Liverpool - England",
+    "original_stadium_name":"Anfield",
+    "location":[
+      53.4309164,
+      -2.9609314
+    ],
+    "lat":53.4309164,
+    "lon":-2.9609314
+  },
+  {
+    "stadiums":"Estadio Benito Villamar\u00edn",
+    "capacity":60720,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Seville",
+    "original_stadium_name":"Estadio Benito Villamar\u00edn",
+    "location":[
+      37.3565354,
+      -5.9817566
+    ],
+    "lat":37.3565354,
+    "lon":-5.9817566
+  },
+  {
+    "stadiums":"Abuja Stadium",
+    "capacity":60491,
+    "region":"Africa",
+    "country":"Nigeria",
+    "city":"Abuja",
+    "original_stadium_name":"Abuja Stadium",
+    "location":[
+      9.0643305,
+      7.4892974
+    ],
+    "lat":9.0643305,
+    "lon":7.4892974
+  },
+  {
+    "stadiums":"MHPArena",
+    "capacity":60469,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Stuttgart",
+    "original_stadium_name":"MHPArena",
+    "location":[
+      48.8911701,
+      9.1824202
+    ],
+    "lat":48.8911701,
+    "lon":9.1824202
+  },
+  {
+    "stadiums":"Celtic Park",
+    "capacity":60411,
+    "region":"Europe",
+    "country":"Scotland",
+    "city":"Glasgow",
+    "original_stadium_name":"Celtic Park",
+    "location":[
+      55.8501815,
+      -4.2068227
+    ],
+    "lat":55.8501815,
+    "lon":-4.2068227
+  },
+  {
+    "stadiums":"Estadio de la UNSA",
+    "capacity":60370,
+    "region":"South America",
+    "country":"Peru",
+    "city":"Arequipa",
+    "original_stadium_name":"Estadio de la UNSA",
+    "location":[
+      -16.4073043,
+      -71.5204685
+    ],
+    "lat":-16.4073043,
+    "lon":-71.5204685
+  },
+  {
+    "stadiums":"Emirates Stadium",
+    "capacity":60338,
+    "region":"Europe",
+    "country":"England",
+    "city":"London",
+    "original_stadium_name":"Emirates Stadium",
+    "location":[
+      51.5550403,
+      -0.1083997
+    ],
+    "lat":51.5550403,
+    "lon":-0.1083997
+  },
+  {
+    "stadiums":"Shenzhen Universiade Sports Centre Stadium",
+    "capacity":60334,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Shenzhen",
+    "original_stadium_name":"Shenzhen Universiade Sports Centre Stadium",
+    "location":[
+      22.6970397,
+      114.2123372
+    ],
+    "lat":22.6970397,
+    "lon":114.2123372
+  },
+  {
+    "stadiums":"Estadio Centenario",
+    "capacity":60235,
+    "region":"South America",
+    "country":"Uruguay",
+    "city":"Montevideo",
+    "original_stadium_name":"Estadio Centenario",
+    "location":[
+      -34.8945393,
+      -56.1526841
+    ],
+    "lat":-34.8945393,
+    "lon":-56.1526841
+  },
+  {
+    "stadiums":"Est\u00e1dio Jos\u00e9 do Rego Maciel",
+    "capacity":60044,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Recife",
+    "original_stadium_name":"Est\u00e1dio Jos\u00e9 do Rego Maciel",
+    "location":[
+      -8.0268093,
+      -34.8911967
+    ],
+    "lat":-8.0268093,
+    "lon":-34.8911967
+  },
+  {
+    "stadiums":"Stade L\u00e9opold S\u00e9dar Senghor",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"Senegal",
+    "city":"Dakar",
+    "original_stadium_name":"Stade L\u00e9opold S\u00e9dar Senghor",
+    "location":[
+      14.7467716,
+      -17.451914
+    ],
+    "lat":14.7467716,
+    "lon":-17.451914
+  },
+  {
+    "stadiums":"Al-Bayt Stadium",
+    "capacity":60000,
+    "region":"West Asia",
+    "country":"Qatar",
+    "city":"Al-Khor",
+    "original_stadium_name":"Al-Bayt Stadium",
+    "location":[
+      25.6521339,
+      51.4878055
+    ],
+    "lat":25.6521339,
+    "lon":51.4878055
+  },
+  {
+    "stadiums":"Benjamin Mkapa National Stadium",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"Tanzania",
+    "city":"Dar es-Salaam",
+    "original_stadium_name":"Benjamin Mkapa National Stadium",
+    "location":[
+      -6.8535747,
+      39.2732935
+    ],
+    "lat":-6.8535747,
+    "lon":39.2732935
+  },
+  {
+    "stadiums":"Hefei Olympic Sports Centre Stadium",
+    "capacity":60000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Hefei",
+    "original_stadium_name":"Hefei Olympic Sports Centre Stadium",
+    "location":[
+      31.797877,
+      117.222612
+    ],
+    "lat":31.797877,
+    "lon":117.222612
+  },
+  {
+    "stadiums":"Jaber al-Ahmad International Stadium",
+    "capacity":60000,
+    "region":"West Asia",
+    "country":"Kuwait",
+    "city":"Kuwait City",
+    "original_stadium_name":"Jaber al-Ahmad International Stadium",
+    "location":[
+      29.2714649,
+      47.9187755
+    ],
+    "lat":29.2714649,
+    "lon":47.9187755
+  },
+  {
+    "stadiums":"Hammadi Agrebi Stadium",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"Tunisia",
+    "city":"Tunis",
+    "original_stadium_name":"Hammadi Agrebi Stadium",
+    "location":[
+      36.7477717,
+      10.27314
+    ],
+    "lat":36.7477717,
+    "lon":10.27314
+  },
+  {
+    "stadiums":"Jawaharlal Nehru Stadium",
+    "capacity":60000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"New Delhi",
+    "original_stadium_name":"Jawaharlal Nehru Stadium",
+    "location":[
+      28.583377,
+      77.2335404
+    ],
+    "lat":28.583377,
+    "lon":77.2335404
+  },
+  {
+    "stadiums":"Mogadishu Stadium",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"Somalia",
+    "city":"Mogadishu",
+    "original_stadium_name":"Mogadishu Stadium",
+    "location":[
+      2.0674672,
+      45.3354647
+    ],
+    "lat":2.0674672,
+    "lon":45.3354647
+  },
+  {
+    "stadiums":"National Heroes Stadium",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"Zambia",
+    "city":"Lusaka",
+    "original_stadium_name":"National Heroes Stadium",
+    "location":[
+      -15.3695067,
+      28.273742
+    ],
+    "lat":-15.3695067,
+    "lon":28.273742
+  },
+  {
+    "stadiums":"Autzen Stadium",
+    "capacity":60000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Eugene - Oregon",
+    "original_stadium_name":"Autzen Stadium",
+    "location":[
+      44.0582178,
+      -123.0684379
+    ],
+    "lat":44.0582178,
+    "lon":-123.0684379
+  },
+  {
+    "stadiums":"Odi Stadium",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Mabopane - Gauteng",
+    "original_stadium_name":"Odi Stadium",
+    "location":[
+      -25.5216914,
+      28.0405651
+    ],
+    "lat":-25.5216914,
+    "lon":28.0405651
+  },
+  {
+    "stadiums":"Morodok Techo National Stadium",
+    "capacity":60000,
+    "region":"Southeast Asia",
+    "country":"Cambodia",
+    "city":"Phnom Penh",
+    "original_stadium_name":"Morodok Techo National Stadium",
+    "location":[
+      11.6829771,
+      104.8763078
+    ],
+    "lat":11.6829771,
+    "lon":104.8763078
+  },
+  {
+    "stadiums":"Shenyang Olympic Sports Centre Stadium",
+    "capacity":60000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Shenyang",
+    "original_stadium_name":"Shenyang Olympic Sports Centre Stadium",
+    "location":[
+      41.7391127,
+      123.457442
+    ],
+    "lat":41.7391127,
+    "lon":123.457442
+  },
+  {
+    "stadiums":"Optus Stadium",
+    "capacity":60000,
+    "region":"Oceania",
+    "country":"Australia",
+    "city":"Perth - Western Australia",
+    "original_stadium_name":"Optus Stadium",
+    "location":[
+      -31.9510448,
+      115.8890756
+    ],
+    "lat":-31.9510448,
+    "lon":115.8890756
+  },
+  {
+    "stadiums":"National Sports Stadium",
+    "capacity":60000,
+    "region":"Africa",
+    "country":"Zimbabwe",
+    "city":"Harare",
+    "original_stadium_name":"National Sports Stadium",
+    "location":[
+      -17.8214149,
+      30.9950735
+    ],
+    "lat":-17.8214149,
+    "lon":30.9950735
+  },
+  {
+    "stadiums":"Estadio Monumental Isidro Romero Carbo",
+    "capacity":59283,
+    "region":"South America",
+    "country":"Ecuador",
+    "city":"Guayaquil",
+    "original_stadium_name":"Estadio Monumental Isidro Romero Carbo",
+    "location":[
+      -2.1858223,
+      -79.92497
+    ],
+    "lat":-2.1858223,
+    "lon":-79.92497
+  },
+  {
+    "stadiums":"Groupama Stadium",
+    "capacity":59186,
+    "region":"Europe",
+    "country":"France",
+    "city":"D\u00e9cines-Charpieu",
+    "original_stadium_name":"Groupama Stadium",
+    "location":[
+      45.7653624,
+      4.9820543
+    ],
+    "lat":45.7653624,
+    "lon":4.9820543
+  },
+  {
+    "stadiums":"Chongqing Olympic Sports Centre Stadium",
+    "capacity":58680,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Chongqing",
+    "original_stadium_name":"Chongqing Olympic Sports Centre Stadium",
+    "location":[
+      29.5286397,
+      106.5021603
+    ],
+    "lat":29.5286397,
+    "lon":106.5021603
+  },
+  {
+    "stadiums":"Kazimierz G\u00f3rski National Stadium",
+    "capacity":58580,
+    "region":"Europe",
+    "country":"Poland",
+    "city":"Warsaw",
+    "original_stadium_name":"Kazimierz G\u00f3rski National Stadium",
+    "location":[
+      52.2337172,
+      21.0714322
+    ],
+    "lat":52.2337172,
+    "lon":21.0714322
+  },
+  {
+    "stadiums":"Stadio San Nicola",
+    "capacity":58270,
+    "region":"Europe",
+    "country":"Italy",
+    "city":"Bari - Apulia",
+    "original_stadium_name":"Stadio San Nicola",
+    "location":[
+      41.0847276,
+      16.8400849
+    ],
+    "lat":41.0847276,
+    "lon":16.8400849
+  },
+  {
+    "stadiums":"Commanders Field",
+    "capacity":58000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Landover - Maryland",
+    "original_stadium_name":"Commanders Field",
+    "location":[
+      38.9253129,
+      -76.8815433
+    ],
+    "lat":38.9253129,
+    "lon":-76.8815433
+  },
+  {
+    "stadiums":"Deutsche Bank Park",
+    "capacity":58000,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Frankfurt",
+    "original_stadium_name":"Deutsche Bank Park",
+    "location":[
+      50.0686103,
+      8.6454154
+    ],
+    "lat":50.0686103,
+    "lon":8.6454154
+  },
+  {
+    "stadiums":"Estadio La Cartuja de Sevilla",
+    "capacity":57619,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Seville",
+    "original_stadium_name":"Estadio La Cartuja de Sevilla",
+    "location":[
+      37.4172352,
+      -6.0046134
+    ],
+    "lat":37.4172352,
+    "lon":-6.0046134
+  },
+  {
+    "stadiums":"Carter\u2013Finley Stadium",
+    "capacity":57583,
+    "region":"North America",
+    "country":"United States",
+    "city":"Raleigh - North Carolina",
+    "original_stadium_name":"Carter\u2013Finley Stadium",
+    "location":[
+      35.8008464,
+      -78.7196045
+    ],
+    "lat":35.8008464,
+    "lon":-78.7196045
+  },
+  {
+    "stadiums":"La Bombonera",
+    "capacity":57200,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Buenos Aires",
+    "original_stadium_name":"La Bombonera",
+    "location":[
+      -34.6355171,
+      -58.3649163
+    ],
+    "lat":-34.6355171,
+    "lon":-58.3649163
+  },
+  {
+    "stadiums":"Volksparkstadion",
+    "capacity":57030,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Hamburg",
+    "original_stadium_name":"Volksparkstadion",
+    "location":[
+      53.5871535,
+      9.8987056
+    ],
+    "lat":53.5871535,
+    "lon":9.8987056
+  },
+  {
+    "stadiums":"Estadio Mario Alberto Kempes",
+    "capacity":57000,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"C\u00f3rdoba",
+    "original_stadium_name":"Estadio Mario Alberto Kempes",
+    "location":[
+      -31.3688468,
+      -64.2461451
+    ],
+    "lat":-31.3688468,
+    "lon":-64.2461451
+  },
+  {
+    "stadiums":"Jinan Olympic Sports Centre Stadium",
+    "capacity":56808,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Jinan",
+    "original_stadium_name":"Jinan Olympic Sports Centre Stadium",
+    "location":[
+      36.6563763,
+      117.1102322
+    ],
+    "lat":36.6563763,
+    "lon":117.1102322
+  },
+  {
+    "stadiums":"Estadio Jalisco",
+    "capacity":56713,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"Guadalajara - Jalisco",
+    "original_stadium_name":"Estadio Jalisco",
+    "location":[
+      20.7047701,
+      -103.3276846
+    ],
+    "lat":20.7047701,
+    "lon":-103.3276846
+  },
+  {
+    "stadiums":"Commonwealth Stadium",
+    "capacity":56302,
+    "region":"North America",
+    "country":"Canada",
+    "city":"Edmonton - Alberta",
+    "original_stadium_name":"Commonwealth Stadium",
+    "location":[
+      53.5596586,
+      -113.4764233
+    ],
+    "lat":53.5596586,
+    "lon":-113.4764233
+  },
+  {
+    "stadiums":"Dodger Stadium",
+    "capacity":56000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Los Angeles",
+    "original_stadium_name":"Dodger Stadium",
+    "location":[
+      34.0736255,
+      -118.2398452
+    ],
+    "lat":34.0736255,
+    "lon":-118.2398452
+  },
+  {
+    "stadiums":"19 May 1956 Stadium",
+    "capacity":56000,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Annaba",
+    "original_stadium_name":"19 May 1956 Stadium",
+    "location":[
+      36.8858551,
+      7.7339276
+    ],
+    "lat":36.8858551,
+    "lon":7.7339276
+  },
+  {
+    "stadiums":"Estadi Ol\u00edmpic Llu\u00eds Companys",
+    "capacity":55926,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Barcelona - Catalonia",
+    "original_stadium_name":"Estadi Ol\u00edmpic Llu\u00eds Companys",
+    "location":[
+      41.36472,
+      2.1556451
+    ],
+    "lat":41.36472,
+    "lon":2.1556451
+  },
+  {
+    "stadiums":"El Cilindro",
+    "capacity":55880,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Avellaneda",
+    "original_stadium_name":"El Cilindro",
+    "location":[
+      -34.6675758,
+      -58.3685308
+    ],
+    "lat":-34.6675758,
+    "lon":-58.3685308
+  },
+  {
+    "stadiums":"Arena do Gr\u00eamio",
+    "capacity":55662,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Porto Alegre - Rio Grande do Sul",
+    "original_stadium_name":"Arena do Gr\u00eamio",
+    "location":[
+      -29.9740429,
+      -51.1951073
+    ],
+    "lat":-29.9740429,
+    "lon":-51.1951073
+  },
+  {
+    "stadiums":"Arena Na\u021bional\u0103",
+    "capacity":55634,
+    "region":"Europe",
+    "country":"Romania",
+    "city":"Bucharest",
+    "original_stadium_name":"Arena Na\u021bional\u0103",
+    "location":[
+      44.4372494,
+      26.1524758
+    ],
+    "lat":44.4372494,
+    "lon":26.1524758
+  },
+  {
+    "stadiums":"Stadion Rajko Miti\u0107",
+    "capacity":55538,
+    "region":"Europe",
+    "country":"Serbia",
+    "city":"Belgrade",
+    "original_stadium_name":"Stadion Rajko Miti\u0107",
+    "location":[
+      44.7832202,
+      20.4646751
+    ],
+    "lat":44.7832202,
+    "lon":20.4646751
+  },
+  {
+    "stadiums":"Stadion \u015al\u0105ski",
+    "capacity":55211,
+    "region":"Europe",
+    "country":"Poland",
+    "city":"Chorz\u00f3w",
+    "original_stadium_name":"Stadion \u015al\u0105ski",
+    "location":[
+      50.2882457,
+      18.9734993
+    ],
+    "lat":50.2882457,
+    "lon":18.9734993
+  },
+  {
+    "stadiums":"Etihad Stadium",
+    "capacity":55097,
+    "region":"Europe",
+    "country":"England",
+    "city":"Manchester - North West England",
+    "original_stadium_name":"Etihad Stadium",
+    "location":[
+      53.483091,
+      -2.200252
+    ],
+    "lat":53.483091,
+    "lon":-2.200252
+  },
+  {
+    "stadiums":"Moi International Sports Centre",
+    "capacity":55000,
+    "region":"Africa",
+    "country":"Kenya",
+    "city":"Nairobi",
+    "original_stadium_name":"Moi International Sports Centre",
+    "location":[
+      -1.2275475,
+      36.890182
+    ],
+    "lat":-1.2275475,
+    "lon":36.890182
+  },
+  {
+    "stadiums":"Mestalla",
+    "capacity":55000,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Valencia",
+    "original_stadium_name":"Mestalla",
+    "location":[
+      39.4745279,
+      -0.3581566
+    ],
+    "lat":39.4745279,
+    "lon":-0.3581566
+  },
+  {
+    "stadiums":"National Stadium",
+    "capacity":55000,
+    "region":"Southeast Asia",
+    "country":"Singapore",
+    "city":"Singapore",
+    "original_stadium_name":"National Stadium",
+    "location":[
+      1.3044909,
+      103.8743437
+    ],
+    "lat":1.3044909,
+    "lon":103.8743437
+  },
+  {
+    "stadiums":"National Stadium",
+    "capacity":55000,
+    "region":"East Asia",
+    "country":"Taiwan",
+    "city":"Kaohsiung",
+    "original_stadium_name":"National Stadium",
+    "location":[
+      22.7028534,
+      120.2936331
+    ],
+    "lat":22.7028534,
+    "lon":120.2936331
+  },
+  {
+    "stadiums":"He Long Stadium",
+    "capacity":55000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Changsha",
+    "original_stadium_name":"He Long Stadium",
+    "location":[
+      28.181759,
+      112.9773897
+    ],
+    "lat":28.181759,
+    "lon":112.9773897
+  },
+  {
+    "stadiums":"Cape Town Stadium",
+    "capacity":55000,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Cape Town - Western Cape",
+    "original_stadium_name":"Cape Town Stadium",
+    "location":[
+      -33.9034601,
+      18.4111458
+    ],
+    "lat":-33.9034601,
+    "lon":18.4111458
+  },
+  {
+    "stadiums":"Plovdiv Stadium",
+    "capacity":55000,
+    "region":"Europe",
+    "country":"Bulgaria",
+    "city":"Plovdiv",
+    "original_stadium_name":"Plovdiv Stadium",
+    "location":[
+      42.1497674,
+      24.7199114
+    ],
+    "lat":42.1497674,
+    "lon":24.7199114
+  },
+  {
+    "stadiums":"Bobby Dodd Stadium",
+    "capacity":55000,
+    "region":"North America",
+    "country":"United States",
+    "city":"Atlanta",
+    "original_stadium_name":"Bobby Dodd Stadium",
+    "location":[
+      33.772476,
+      -84.3929589
+    ],
+    "lat":33.772476,
+    "lon":-84.3929589
+  },
+  {
+    "stadiums":"Johan Cruijff Arena",
+    "capacity":54990,
+    "region":"Europe",
+    "country":"Netherlands",
+    "city":"Amsterdam",
+    "original_stadium_name":"Johan Cruijff Arena",
+    "location":[
+      52.314353,
+      4.9428431
+    ],
+    "lat":52.314353,
+    "lon":4.9428431
+  },
+  {
+    "stadiums":"Tianhe Stadium",
+    "capacity":54856,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Guangzhou",
+    "original_stadium_name":"Tianhe Stadium",
+    "location":[
+      23.1405033,
+      113.3193597
+    ],
+    "lat":23.1405033,
+    "lon":113.3193597
+  },
+  {
+    "stadiums":"Stadio Diego Armando Maradona",
+    "capacity":54726,
+    "region":"Europe",
+    "country":"Italy",
+    "city":"Naples",
+    "original_stadium_name":"Stadio Diego Armando Maradona",
+    "location":[
+      40.8279773,
+      14.192889
+    ],
+    "lat":40.8279773,
+    "lon":14.192889
+  },
+  {
+    "stadiums":"Tianjin Olympic Sports Centre Stadium",
+    "capacity":54696,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Tianjin",
+    "original_stadium_name":"Tianjin Olympic Sports Centre Stadium",
+    "location":[
+      39.3032619,
+      117.4163641
+    ],
+    "lat":39.3032619,
+    "lon":117.4163641
+  },
+  {
+    "stadiums":"MERKUR SPIEL-ARENA",
+    "capacity":54600,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"D\u00fcsseldorf",
+    "original_stadium_name":"MERKUR SPIEL-ARENA",
+    "location":[
+      51.261629,
+      6.7331516
+    ],
+    "lat":51.261629,
+    "lon":6.7331516
+  },
+  {
+    "stadiums":"Boris Paitchadze Dinamo Arena",
+    "capacity":54549,
+    "region":"West Asia",
+    "country":"Georgia",
+    "city":"Tbilisi",
+    "original_stadium_name":"Boris Paitchadze Dinamo Arena",
+    "location":[
+      41.7230285,
+      44.7897943
+    ],
+    "lat":41.7230285,
+    "lon":44.7897943
+  },
+  {
+    "stadiums":"Wuhan Sports Centre Stadium",
+    "capacity":54357,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Wuhan",
+    "original_stadium_name":"Wuhan Sports Centre Stadium",
+    "location":[
+      30.5024679,
+      114.1661281
+    ],
+    "lat":30.5024679,
+    "lon":114.1661281
+  },
+  {
+    "stadiums":"BC Place Stadium",
+    "capacity":54320,
+    "region":"North America",
+    "country":"Canada",
+    "city":"Vancouver - British Columbia",
+    "original_stadium_name":"BC Place Stadium",
+    "location":[
+      49.2766905,
+      -123.1120062
+    ],
+    "lat":49.2766905,
+    "lon":-123.1120062
+  },
+  {
+    "stadiums":"Yankee Stadium",
+    "capacity":54251,
+    "region":"North America",
+    "country":"United States",
+    "city":"New York City",
+    "original_stadium_name":"Yankee Stadium",
+    "location":[
+      40.8295828,
+      -73.9265212
+    ],
+    "lat":40.8295828,
+    "lon":-73.9265212
+  },
+  {
+    "stadiums":"Hrazdan Stadium",
+    "capacity":54208,
+    "region":"West Asia",
+    "country":"Armenia",
+    "city":"Yerevan",
+    "original_stadium_name":"Hrazdan Stadium",
+    "location":[
+      40.1803671,
+      44.4946703
+    ],
+    "lat":40.1803671,
+    "lon":44.4946703
+  },
+  {
+    "stadiums":"BORUSSIA-PARK",
+    "capacity":54057,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"M\u00f6nchengladbach",
+    "original_stadium_name":"BORUSSIA-PARK",
+    "location":[
+      51.1746249,
+      6.3854094
+    ],
+    "lat":51.1746249,
+    "lon":6.3854094
+  },
+  {
+    "stadiums":"Moses Mabhida Stadium",
+    "capacity":54000,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Durban - KwaZulu-Natal",
+    "original_stadium_name":"Moses Mabhida Stadium",
+    "location":[
+      -29.8290201,
+      31.0313741
+    ],
+    "lat":-29.8290201,
+    "lon":31.0313741
+  },
+  {
+    "stadiums":"RAMS Park",
+    "capacity":53978,
+    "region":"Europe",
+    "country":"Turkey",
+    "city":"Istanbul",
+    "original_stadium_name":"RAMS Park",
+    "location":[
+      41.103369,
+      28.9909522
+    ],
+    "lat":41.103369,
+    "lon":28.9909522
+  },
+  {
+    "stadiums":"Busan Asiad Main Stadium",
+    "capacity":53864,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Busan",
+    "original_stadium_name":"Busan Asiad Main Stadium",
+    "location":[
+      35.1900767,
+      129.0595481
+    ],
+    "lat":35.1900767,
+    "lon":129.0595481
+  },
+  {
+    "stadiums":"Est\u00e1dio Estadual Jornalista Edgar Augusto Proen\u00e7a",
+    "capacity":53645,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Bel\u00e9m",
+    "original_stadium_name":"Est\u00e1dio Estadual Jornalista Edgar Augusto Proen\u00e7a",
+    "location":[
+      -1.3811727,
+      -48.4439318
+    ],
+    "lat":-1.3811727,
+    "lon":-48.4439318
+  },
+  {
+    "stadiums":"Estadio \u00danico Diego Armando Maradona",
+    "capacity":53600,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"La Plata",
+    "original_stadium_name":"Estadio \u00danico Diego Armando Maradona",
+    "location":[
+      -34.9138408,
+      -57.9890476
+    ],
+    "lat":-34.9138408,
+    "lon":-57.9890476
+  },
+  {
+    "stadiums":"Adelaide Oval",
+    "capacity":53500,
+    "region":"Oceania",
+    "country":"Australia",
+    "city":"Adelaide - South Australia",
+    "original_stadium_name":"Adelaide Oval",
+    "location":[
+      -34.9155596,
+      138.5962772
+    ],
+    "lat":-34.9155596,
+    "lon":138.5962772
+  },
+  {
+    "stadiums":"Docklands Stadium",
+    "capacity":53359,
+    "region":"Oceania",
+    "country":"Australia",
+    "city":"Melbourne - Victoria",
+    "original_stadium_name":"Docklands Stadium",
+    "location":[
+      -37.816529,
+      144.947517
+    ],
+    "lat":-37.816529,
+    "lon":144.947517
+  },
+  {
+    "stadiums":"Est\u00e1dio Municipal Jo\u00e3o Havelange",
+    "capacity":53350,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Uberl\u00e2ndia - Minas Gerais",
+    "original_stadium_name":"Est\u00e1dio Municipal Jo\u00e3o Havelange",
+    "location":[
+      -18.9188041,
+      -48.2767837
+    ],
+    "lat":-18.9188041,
+    "lon":-48.2767837
+  },
+  {
+    "stadiums":"San Mam\u00e9s",
+    "capacity":53332,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Bilbao",
+    "original_stadium_name":"San Mam\u00e9s",
+    "location":[
+      43.264204,
+      -2.9493915
+    ],
+    "lat":43.264204,
+    "lon":-2.9493915
+  },
+  {
+    "stadiums":"Aleppo International Stadium",
+    "capacity":53200,
+    "region":"West Asia",
+    "country":"Syria",
+    "city":"Aleppo",
+    "original_stadium_name":"Aleppo International Stadium",
+    "location":[
+      36.1849318,
+      37.1176418
+    ],
+    "lat":36.1849318,
+    "lon":37.1176418
+  },
+  {
+    "stadiums":"Estadio Nacional",
+    "capacity":53086,
+    "region":"South America",
+    "country":"Peru",
+    "city":"Lima",
+    "original_stadium_name":"Estadio Nacional",
+    "location":[
+      -12.0673803,
+      -77.033783
+    ],
+    "lat":-12.0673803,
+    "lon":-77.033783
+  },
+  {
+    "stadiums":"Huanglong Stadium",
+    "capacity":52672,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Hangzhou",
+    "original_stadium_name":"Huanglong Stadium",
+    "location":[
+      30.2489634,
+      120.2052342
+    ],
+    "lat":30.2489634,
+    "lon":120.2052342
+  },
+  {
+    "stadiums":"Suncorp Stadium",
+    "capacity":52500,
+    "region":"Oceania",
+    "country":"Australia",
+    "city":"Brisbane - Queensland",
+    "original_stadium_name":"Suncorp Stadium",
+    "location":[
+      -27.4648603,
+      153.0096055
+    ],
+    "lat":-27.4648603,
+    "lon":153.0096055
+  },
+  {
+    "stadiums":"St. James' Park",
+    "capacity":52405,
+    "region":"Europe",
+    "country":"England",
+    "city":"Newcastle upon Tyne - North East",
+    "original_stadium_name":"St. James' Park",
+    "location":[
+      54.9754693,
+      -1.6218737
+    ],
+    "lat":54.9754693,
+    "lon":-1.6218737
+  },
+  {
+    "stadiums":"Kings Park Stadium",
+    "capacity":52000,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Durban - KwaZulu-Natal",
+    "original_stadium_name":"Kings Park Stadium",
+    "location":[
+      -29.8248051,
+      31.0289735
+    ],
+    "lat":-29.8248051,
+    "lon":31.0289735
+  },
+  {
+    "stadiums":"Newlands Stadium",
+    "capacity":51900,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Cape Town - Western Cape",
+    "original_stadium_name":"Newlands Stadium",
+    "location":[
+      -33.9705226,
+      18.4685626
+    ],
+    "lat":-33.9705226,
+    "lon":18.4685626
+  },
+  {
+    "stadiums":"Hampden Park",
+    "capacity":51866,
+    "region":"Europe",
+    "country":"Scotland",
+    "city":"Glasgow",
+    "original_stadium_name":"Hampden Park",
+    "location":[
+      55.826014,
+      -4.2519271
+    ],
+    "lat":55.826014,
+    "lon":-4.2519271
+  },
+  {
+    "stadiums":"Estadio Monumental de Matur\u00edn",
+    "capacity":51796,
+    "region":"South America",
+    "country":"Venezuela",
+    "city":"Matur\u00edn",
+    "original_stadium_name":"Estadio Monumental de Matur\u00edn",
+    "location":[
+      9.7422774,
+      -63.1888854
+    ],
+    "lat":9.7422774,
+    "lon":-63.1888854
+  },
+  {
+    "stadiums":"Loftus Versfeld Stadium",
+    "capacity":51762,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Pretoria - Gauteng",
+    "original_stadium_name":"Loftus Versfeld Stadium",
+    "location":[
+      -25.7532347,
+      28.2229327
+    ],
+    "lat":-25.7532347,
+    "lon":28.2229327
+  },
+  {
+    "stadiums":"Aviva Stadium",
+    "capacity":51700,
+    "region":"Europe",
+    "country":"Ireland",
+    "city":"Dublin",
+    "original_stadium_name":"Aviva Stadium",
+    "location":[
+      53.3352254,
+      -6.2281851
+    ],
+    "lat":53.3352254,
+    "lon":-6.2281851
+  },
+  {
+    "stadiums":"Guiyang Olympic Sports Centre Stadium",
+    "capacity":51638,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Guiyang",
+    "original_stadium_name":"Guiyang Olympic Sports Centre Stadium",
+    "location":[
+      26.6206664,
+      106.6058467
+    ],
+    "lat":26.6206664,
+    "lon":106.6058467
+  },
+  {
+    "stadiums":"Hohhot City Stadium",
+    "capacity":51632,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Hohhot",
+    "original_stadium_name":"Hohhot City Stadium",
+    "location":[
+      40.8511397,
+      111.6504625
+    ],
+    "lat":40.8511397,
+    "lon":111.6504625
+  },
+  {
+    "stadiums":"Rajamangala National Stadium",
+    "capacity":51552,
+    "region":"Southeast Asia",
+    "country":"Thailand",
+    "city":"Bangkok",
+    "original_stadium_name":"Rajamangala National Stadium",
+    "location":[
+      13.7554291,
+      100.6221559
+    ],
+    "lat":13.7554291,
+    "lon":100.6221559
+  },
+  {
+    "stadiums":"Donbas Arena",
+    "capacity":51504,
+    "region":"Europe",
+    "country":"Ukraine",
+    "city":"Donetsk",
+    "original_stadium_name":"Donbas Arena",
+    "location":[
+      48.0211038,
+      37.8090531
+    ],
+    "lat":48.0211038,
+    "lon":37.8090531
+  },
+  {
+    "stadiums":"\u0130zmir Atat\u00fcrk Stadyumu",
+    "capacity":51295,
+    "region":"West Asia",
+    "country":"Turkey",
+    "city":"\u0130zmir",
+    "original_stadium_name":"\u0130zmir Atat\u00fcrk Stadyumu",
+    "location":[
+      38.4349835,
+      27.1780113
+    ],
+    "lat":38.4349835,
+    "lon":27.1780113
+  },
+  {
+    "stadiums":"Stadion Feijenoord",
+    "capacity":51117,
+    "region":"Europe",
+    "country":"Netherlands",
+    "city":"Rotterdam",
+    "original_stadium_name":"Stadion Feijenoord",
+    "location":[
+      51.8938646,
+      4.5232281
+    ],
+    "lat":51.8938646,
+    "lon":4.5232281
+  },
+  {
+    "stadiums":"Estadio BBVA",
+    "capacity":51000,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"Monterrey",
+    "original_stadium_name":"Estadio BBVA",
+    "location":[
+      25.6691103,
+      -100.2443559
+    ],
+    "lat":25.6691103,
+    "lon":-100.2443559
+  },
+  {
+    "stadiums":"Ghadir Stadium",
+    "capacity":51000,
+    "region":"West Asia",
+    "country":"Iran",
+    "city":"Ahvaz",
+    "original_stadium_name":"Ghadir Stadium",
+    "location":[
+      31.3230637,
+      48.67932
+    ],
+    "lat":31.3230637,
+    "lon":48.67932
+  },
+  {
+    "stadiums":"Est\u00e1dio Jos\u00e9 Pinheiro Borda",
+    "capacity":50942,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Porto Alegre",
+    "original_stadium_name":"Est\u00e1dio Jos\u00e9 Pinheiro Borda",
+    "location":[
+      -30.0654898,
+      -51.2349178
+    ],
+    "lat":-30.0654898,
+    "lon":-51.2349178
+  },
+  {
+    "stadiums":"Ibrox Stadium",
+    "capacity":50817,
+    "region":"Europe",
+    "country":"Scotland",
+    "city":"Glasgow",
+    "original_stadium_name":"Ibrox Stadium",
+    "location":[
+      55.8532206,
+      -4.3093239
+    ],
+    "lat":55.8532206,
+    "lon":-4.3093239
+  },
+  {
+    "stadiums":"Shizuoka Stadium",
+    "capacity":50889,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Fukuroi - Shizuoka",
+    "original_stadium_name":"Shizuoka Stadium",
+    "location":[
+      34.7434304,
+      137.9707289
+    ],
+    "lat":34.7434304,
+    "lon":137.9707289
+  },
+  {
+    "stadiums":"Ernst-Happel-Stadion",
+    "capacity":50865,
+    "region":"Europe",
+    "country":"Austria",
+    "city":"Vienna",
+    "original_stadium_name":"Ernst-Happel-Stadion",
+    "location":[
+      48.2071894,
+      16.4209171
+    ],
+    "lat":48.2071894,
+    "lon":16.4209171
+  },
+  {
+    "stadiums":"Huntington Bank Stadium",
+    "capacity":50805,
+    "region":"North America",
+    "country":"United States",
+    "city":"Minneapolis",
+    "original_stadium_name":"Huntington Bank Stadium",
+    "location":[
+      44.9765396,
+      -93.2240767
+    ],
+    "lat":44.9765396,
+    "lon":-93.2240767
+  },
+  {
+    "stadiums":"Hocine Ait Ahmed Stadium",
+    "capacity":50766,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Tizi Ouzou",
+    "original_stadium_name":"Hocine Ait Ahmed Stadium",
+    "location":[
+      36.7286051,
+      4.0131105
+    ],
+    "lat":36.7286051,
+    "lon":4.0131105
+  },
+  {
+    "stadiums":"Estadio Cuauht\u00e9moc",
+    "capacity":50754,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"Puebla",
+    "original_stadium_name":"Estadio Cuauht\u00e9moc",
+    "location":[
+      19.0780538,
+      -98.1643653
+    ],
+    "lat":19.0780538,
+    "lon":-98.1643653
+  },
+  {
+    "stadiums":"Strawberry Arena",
+    "capacity":50653,
+    "region":"Europe",
+    "country":"Sweden",
+    "city":"Solna",
+    "original_stadium_name":"Strawberry Arena",
+    "location":[
+      59.3725039,
+      18.0016672
+    ],
+    "lat":59.3725039,
+    "lon":18.0016672
+  },
+  {
+    "stadiums":"\u00dclker Stadyumu",
+    "capacity":50509,
+    "region":"West Asia",
+    "country":"Turkey",
+    "city":"Istanbul",
+    "original_stadium_name":"\u00dclker Stadyumu",
+    "location":[
+      40.9875806,
+      29.0369773
+    ],
+    "lat":40.9875806,
+    "lon":29.0369773
+  },
+  {
+    "stadiums":"Stanford Stadium",
+    "capacity":50424,
+    "region":"North America",
+    "country":"United States",
+    "city":"Palo Alto - California",
+    "original_stadium_name":"Stanford Stadium",
+    "location":[
+      37.4345264,
+      -122.1619867
+    ],
+    "lat":37.4345264,
+    "lon":-122.1619867
+  },
+  {
+    "stadiums":"Stade Pierre-Mauroy",
+    "capacity":50186,
+    "region":"Europe",
+    "country":"France",
+    "city":"Villeneuve-d'Ascq",
+    "original_stadium_name":"Stade Pierre-Mauroy",
+    "location":[
+      50.6119044,
+      3.130508
+    ],
+    "lat":50.6119044,
+    "lon":3.130508
+  },
+  {
+    "stadiums":"Stade Roi Baudouin",
+    "capacity":50122,
+    "region":"Europe",
+    "country":"Belgium",
+    "city":"Brussels",
+    "original_stadium_name":"Stade Roi Baudouin",
+    "location":[
+      50.8957221,
+      4.3341279
+    ],
+    "lat":50.8957221,
+    "lon":4.3341279
+  },
+  {
+    "stadiums":"Shaanxi Province Stadium",
+    "capacity":50100,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Xi'an",
+    "original_stadium_name":"Shaanxi Province Stadium",
+    "location":[
+      34.2340542,
+      108.9365826
+    ],
+    "lat":34.2340542,
+    "lon":108.9365826
+  },
+  {
+    "stadiums":"Ajinomoto Stadium",
+    "capacity":50100,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Chofu - Tokyo",
+    "original_stadium_name":"Ajinomoto Stadium",
+    "location":[
+      35.6641865,
+      139.5270752
+    ],
+    "lat":35.6641865,
+    "lon":139.5270752
+  },
+  {
+    "stadiums":"Est\u00e1dio Jos\u00e9 Alvalade",
+    "capacity":50095,
+    "region":"Europe",
+    "country":"Portugal",
+    "city":"Lisbon",
+    "original_stadium_name":"Est\u00e1dio Jos\u00e9 Alvalade",
+    "location":[
+      38.7612164,
+      -9.1607831
+    ],
+    "lat":38.7612164,
+    "lon":-9.1607831
+  },
+  {
+    "stadiums":"Est\u00e1dio do Drag\u00e3o",
+    "capacity":50033,
+    "region":"Europe",
+    "country":"Portugal",
+    "city":"Porto",
+    "original_stadium_name":"Est\u00e1dio do Drag\u00e3o",
+    "location":[
+      41.1618235,
+      -8.5837492
+    ],
+    "lat":41.1618235,
+    "lon":-8.5837492
+  },
+  {
+    "stadiums":"Casa de Apostas Arena Fonte Nova",
+    "capacity":50025,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Salvador - Bahia",
+    "original_stadium_name":"Casa de Apostas Arena Fonte Nova",
+    "location":[
+      -12.9787926,
+      -38.5035601
+    ],
+    "lat":-12.9787926,
+    "lon":-38.5035601
+  },
+  {
+    "stadiums":"Stade Tata Rapha\u00ebl",
+    "capacity":50000,
+    "region":"Africa",
+    "country":"DR Congo",
+    "city":"Kinshasa",
+    "original_stadium_name":"Stade Tata Rapha\u00ebl",
+    "location":[
+      -4.3379266,
+      15.3226297
+    ],
+    "lat":-4.3379266,
+    "lon":15.3226297
+  },
+  {
+    "stadiums":"Stade Olympique de Sousse",
+    "capacity":50000,
+    "region":"Africa",
+    "country":"Tunisia",
+    "city":"Sousse",
+    "original_stadium_name":"Stade Olympique de Sousse",
+    "location":[
+      35.8234702,
+      10.6135481
+    ],
+    "lat":35.8234702,
+    "lon":10.6135481
+  },
+  {
+    "stadiums":"RheinEnergieSTADION",
+    "capacity":50000,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Cologne",
+    "original_stadium_name":"RheinEnergieSTADION",
+    "location":[
+      50.9335055,
+      6.8751167
+    ],
+    "lat":50.9335055,
+    "lon":6.8751167
+  },
+  {
+    "stadiums":"Harbin Sports City Centre Stadium",
+    "capacity":50000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Harbin",
+    "original_stadium_name":"Harbin Sports City Centre Stadium",
+    "location":[
+      45.7593633,
+      126.6276177
+    ],
+    "lat":45.7593633,
+    "lon":126.6276177
+  },
+  {
+    "stadiums":"Greenfield International Stadium",
+    "capacity":50000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"Trivandrum",
+    "original_stadium_name":"Greenfield International Stadium",
+    "location":[
+      8.5714907,
+      76.8843638
+    ],
+    "lat":8.5714907,
+    "lon":76.8843638
+  },
+  {
+    "stadiums":"EMS Stadium",
+    "capacity":50000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"Kozhikode",
+    "original_stadium_name":"EMS Stadium",
+    "location":[
+      11.2563999,
+      75.7856251
+    ],
+    "lat":11.2563999,
+    "lon":75.7856251
+  },
+  {
+    "stadiums":"KD Singh Babu Stadium",
+    "capacity":50000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"Lucknow",
+    "original_stadium_name":"KD Singh Babu Stadium",
+    "location":[
+      26.8553535,
+      80.9376841
+    ],
+    "lat":26.8553535,
+    "lon":80.9376841
+  },
+  {
+    "stadiums":"Eden Park",
+    "capacity":50000,
+    "region":"Oceania",
+    "country":"New Zealand",
+    "city":"Auckland",
+    "original_stadium_name":"Eden Park",
+    "location":[
+      -36.8750352,
+      174.7440567
+    ],
+    "lat":-36.8750352,
+    "lon":174.7440567
+  },
+  {
+    "stadiums":"Est\u00e1dio 11 de Novembro",
+    "capacity":50000,
+    "region":"Africa",
+    "country":"Angola",
+    "city":"Luanda",
+    "original_stadium_name":"Est\u00e1dio 11 de Novembro",
+    "location":[
+      -8.969921,
+      13.2835311
+    ],
+    "lat":-8.969921,
+    "lon":13.2835311
+  },
+  {
+    "stadiums":"Henan Provincial Stadium",
+    "capacity":50000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Zhengzhou",
+    "original_stadium_name":"Henan Provincial Stadium",
+    "location":[
+      34.8374127,
+      113.6228562
+    ],
+    "lat":34.8374127,
+    "lon":113.6228562
+  },
+  {
+    "stadiums":"Jiangxi Olympic Sports Center",
+    "capacity":50000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Nanchang",
+    "original_stadium_name":"Jiangxi Olympic Sports Center",
+    "location":[
+      28.6472124,
+      116.0348483
+    ],
+    "lat":28.6472124,
+    "lon":116.0348483
+  },
+  {
+    "stadiums":"Max-Morlock-Stadion",
+    "capacity":50000,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Nuremberg",
+    "original_stadium_name":"Max-Morlock-Stadion",
+    "location":[
+      49.4262569,
+      11.1256706
+    ],
+    "lat":49.4262569,
+    "lon":11.1256706
+  },
+  {
+    "stadiums":"June 11 Stadium",
+    "capacity":50000,
+    "region":"Africa",
+    "country":"Libya",
+    "city":"Tripoli",
+    "original_stadium_name":"June 11 Stadium",
+    "location":[
+      32.8598956,
+      13.135806
+    ],
+    "lat":32.8598956,
+    "lon":13.135806
+  },
+  {
+    "stadiums":"Xinjiang Sports Centre Stadium",
+    "capacity":50000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Urumqi",
+    "original_stadium_name":"Xinjiang Sports Centre Stadium",
+    "location":[
+      43.8244074,
+      87.6139038
+    ],
+    "lat":43.8244074,
+    "lon":87.6139038
+  },
+  {
+    "stadiums":"Kim Il-sung Stadium",
+    "capacity":50000,
+    "region":"East Asia",
+    "country":"North Korea",
+    "city":"Pyongyang",
+    "original_stadium_name":"Kim Il-sung Stadium",
+    "location":[
+      39.0438585,
+      125.7577377
+    ],
+    "lat":39.0438585,
+    "lon":125.7577377
+  },
+  {
+    "stadiums":"EDION Stadium Hiroshima",
+    "capacity":50000,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Hiroshima",
+    "original_stadium_name":"EDION Stadium Hiroshima",
+    "location":[
+      34.4407675,
+      132.3932183
+    ],
+    "lat":34.4407675,
+    "lon":132.3932183
+  },
+  {
+    "stadiums":"Pars Shiraz Stadium",
+    "capacity":50000,
+    "region":"West Asia",
+    "country":"Iran",
+    "city":"Shiraz",
+    "original_stadium_name":"Pars Shiraz Stadium",
+    "location":[
+      29.6060218,
+      52.5378041
+    ],
+    "lat":29.6060218,
+    "lon":52.5378041
+  },
+  {
+    "stadiums":"Stade du 26 mars",
+    "capacity":50000,
+    "region":"Africa",
+    "country":"Mali",
+    "city":"Bamako",
+    "original_stadium_name":"Stade du 26 mars",
+    "location":[
+      12.6043766,
+      -7.9217374
+    ],
+    "lat":12.6043766,
+    "lon":-7.9217374
+  },
+  {
+    "stadiums":"Stade Abdoulaye Wade",
+    "capacity":50000,
+    "region":"Africa",
+    "country":"Senegal",
+    "city":"Dakar",
+    "original_stadium_name":"Stade Abdoulaye Wade",
+    "location":[
+      14.7327571,
+      -17.2014923
+    ],
+    "lat":14.7327571,
+    "lon":-17.2014923
+  },
+  {
+    "stadiums":"Sultan Mizan Zainal Abidin Stadium",
+    "capacity":50000,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Kuala Terengganu",
+    "original_stadium_name":"Sultan Mizan Zainal Abidin Stadium",
+    "location":[
+      5.3697135,
+      103.1056812
+    ],
+    "lat":5.3697135,
+    "lon":103.1056812
+  },
+  {
+    "stadiums":"Estadio Akron",
+    "capacity":49850,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"Guadalajara",
+    "original_stadium_name":"Estadio Akron",
+    "location":[
+      20.6818469,
+      -103.4626718
+    ],
+    "lat":20.6818469,
+    "lon":-103.4626718
+  },
+  {
+    "stadiums":"Levy Mwanawasa Stadium",
+    "capacity":49800,
+    "region":"Africa",
+    "country":"Zambia",
+    "city":"Lusaka",
+    "original_stadium_name":"Levy Mwanawasa Stadium",
+    "location":[
+      -12.9755312,
+      28.6112268
+    ],
+    "lat":-12.9755312,
+    "lon":28.6112268
+  },
+  {
+    "stadiums":"Fritz-Walter-Stadion",
+    "capacity":49780,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Kaiserslautern",
+    "original_stadium_name":"Fritz-Walter-Stadion",
+    "location":[
+      49.4345765,
+      7.7766303
+    ],
+    "lat":49.4345765,
+    "lon":7.7766303
+  },
+  {
+    "stadiums":"Estadio Jos\u00e9 Amalfitani",
+    "capacity":49540,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Buenos Aires",
+    "original_stadium_name":"Estadio Jos\u00e9 Amalfitani",
+    "location":[
+      -34.6353382,
+      -58.5206788
+    ],
+    "lat":-34.6353382,
+    "lon":-58.5206788
+  },
+  {
+    "stadiums":"Camille Chamoun Sports City Stadium",
+    "capacity":49500,
+    "region":"West Asia",
+    "country":"Lebanon",
+    "city":"Beirut",
+    "original_stadium_name":"Camille Chamoun Sports City Stadium",
+    "location":[
+      33.8670781,
+      35.4951176
+    ],
+    "lat":33.8670781,
+    "lon":35.4951176
+  },
+  {
+    "stadiums":"Miyagi Stadium",
+    "capacity":49133,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Rifu - Miyagi",
+    "original_stadium_name":"Miyagi Stadium",
+    "location":[
+      38.3353606,
+      140.9504567
+    ],
+    "lat":38.3353606,
+    "lon":140.9504567
+  },
+  {
+    "stadiums":"Incheon Munhak Stadium",
+    "capacity":49084,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Incheon",
+    "original_stadium_name":"Incheon Munhak Stadium",
+    "location":[
+      37.4350773,
+      126.6907516
+    ],
+    "lat":37.4350773,
+    "lon":126.6907516
+  },
+  {
+    "stadiums":"Heinz-von-Heiden-Arena",
+    "capacity":49000,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Hanover",
+    "original_stadium_name":"Heinz-von-Heiden-Arena",
+    "location":[
+      52.360026,
+      9.7310161
+    ],
+    "lat":52.360026,
+    "lon":9.7310161
+  },
+  {
+    "stadiums":"Parc des Princes",
+    "capacity":48712,
+    "region":"Europe",
+    "country":"France",
+    "city":"Paris",
+    "original_stadium_name":"Parc des Princes",
+    "location":[
+      48.8413634,
+      2.2530693
+    ],
+    "lat":48.8413634,
+    "lon":2.2530693
+  },
+  {
+    "stadiums":"Stadium of Light",
+    "capacity":48707,
+    "region":"Europe",
+    "country":"England",
+    "city":"Sunderland - Tyne and Wear",
+    "original_stadium_name":"Stadium of Light",
+    "location":[
+      54.9143953,
+      -1.3882579
+    ],
+    "lat":54.9143953,
+    "lon":-1.3882579
+  },
+  {
+    "stadiums":"Estadio Nacional",
+    "capacity":48665,
+    "region":"South America",
+    "country":"Chile",
+    "city":"Santiago",
+    "original_stadium_name":"Estadio Nacional",
+    "location":[
+      -33.4623809,
+      -70.6062176
+    ],
+    "lat":-33.4623809,
+    "lon":-70.6062176
+  },
+  {
+    "stadiums":"Nelson Mandela Bay Stadium",
+    "capacity":48459,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Port Elizabeth - Eastern Cape",
+    "original_stadium_name":"Nelson Mandela Bay Stadium",
+    "location":[
+      -33.937792,
+      25.5994087
+    ],
+    "lat":-33.937792,
+    "lon":25.5994087
+  },
+  {
+    "stadiums":"Estadio Tom\u00e1s Adolfo Duc\u00f3",
+    "capacity":48314,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Buenos Aires",
+    "original_stadium_name":"Estadio Tom\u00e1s Adolfo Duc\u00f3",
+    "location":[
+      -34.6434539,
+      -58.3965026
+    ],
+    "lat":-34.6434539,
+    "lon":-58.3965026
+  },
+  {
+    "stadiums":"Jinnah Sports Stadium",
+    "capacity":48200,
+    "region":"South Asia",
+    "country":"Pakistan",
+    "city":"Islamabad",
+    "original_stadium_name":"Jinnah Sports Stadium",
+    "location":[
+      33.7004059,
+      73.0928604
+    ],
+    "lat":33.7004059,
+    "lon":73.0928604
+  },
+  {
+    "stadiums":"Estadio Libertadores de Am\u00e9rica",
+    "capacity":48069,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Avellaneda",
+    "original_stadium_name":"Estadio Libertadores de Am\u00e9rica",
+    "location":[
+      -34.6702227,
+      -58.3710378
+    ],
+    "lat":-34.6702227,
+    "lon":-58.3710378
+  },
+  {
+    "stadiums":"Free State Stadium",
+    "capacity":48000,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Bloemfontein - Free State",
+    "original_stadium_name":"Free State Stadium",
+    "location":[
+      -29.1172351,
+      26.2087696
+    ],
+    "lat":-29.1172351,
+    "lon":26.2087696
+  },
+  {
+    "stadiums":"Nagai Stadium",
+    "capacity":47816,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Osaka",
+    "original_stadium_name":"Nagai Stadium",
+    "location":[
+      34.6153577,
+      135.5165441
+    ],
+    "lat":34.6153577,
+    "lon":135.5165441
+  },
+  {
+    "stadiums":"Neo Qu\u00edmica Arena",
+    "capacity":47605,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"S\u00e3o Paulo - S\u00e3o Paulo",
+    "original_stadium_name":"Neo Qu\u00edmica Arena",
+    "location":[
+      -23.5452934,
+      -46.4742864
+    ],
+    "lat":-23.5452934,
+    "lon":-46.4742864
+  },
+  {
+    "stadiums":"Rogers Centre",
+    "capacity":47568,
+    "region":"North America",
+    "country":"Canada",
+    "city":"Toronto - Ontario",
+    "original_stadium_name":"Rogers Centre",
+    "location":[
+      43.6416598,
+      -79.3891976
+    ],
+    "lat":43.6416598,
+    "lon":-79.3891976
+  },
+  {
+    "stadiums":"Estadio Monumental",
+    "capacity":47347,
+    "region":"South America",
+    "country":"Chile",
+    "city":"Santiago",
+    "original_stadium_name":"Estadio Monumental",
+    "location":[
+      -33.5064372,
+      -70.6059468
+    ],
+    "lat":-33.5064372,
+    "lon":-70.6059468
+  },
+  {
+    "stadiums":"Stadio Artemio Franchi",
+    "capacity":47282,
+    "region":"Europe",
+    "country":"Italy",
+    "city":"Florence",
+    "original_stadium_name":"Stadio Artemio Franchi",
+    "location":[
+      43.3216867,
+      11.326179
+    ],
+    "lat":43.3216867,
+    "lon":11.326179
+  },
+  {
+    "stadiums":"Estadio Ciudad de Lan\u00fas \u2013 N\u00e9stor D\u00edaz P\u00e9rez",
+    "capacity":47027,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Lan\u00fas",
+    "original_stadium_name":"Estadio Ciudad de Lan\u00fas \u2013 N\u00e9stor D\u00edaz P\u00e9rez",
+    "location":[
+      -34.7176585,
+      -58.3839562
+    ],
+    "lat":-34.7176585,
+    "lon":-58.3839562
+  },
+  {
+    "stadiums":"Estadio Metropolitano Roberto Mel\u00e9ndez",
+    "capacity":46788,
+    "region":"South America",
+    "country":"Colombia",
+    "city":"Barranquilla",
+    "original_stadium_name":"Estadio Metropolitano Roberto Mel\u00e9ndez",
+    "location":[
+      10.9269548,
+      -74.8005111
+    ],
+    "lat":10.9269548,
+    "lon":-74.8005111
+  },
+  {
+    "stadiums":"Est\u00e1dio Ol\u00edmpico Nilton Santos",
+    "capacity":46831,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Rio de Janeiro - Rio de Janeiro",
+    "original_stadium_name":"Est\u00e1dio Ol\u00edmpico Nilton Santos",
+    "location":[
+      -22.893194,
+      -43.2935691
+    ],
+    "lat":-22.893194,
+    "lon":-43.2935691
+  },
+  {
+    "stadiums":"Itaipava Arena Pernambuco",
+    "capacity":46154,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"S\u00e3o Louren\u00e7o da Mata",
+    "original_stadium_name":"Itaipava Arena Pernambuco",
+    "location":[
+      -8.0407296,
+      -35.0082334
+    ],
+    "lat":-8.0407296,
+    "lon":-35.0082334
+  },
+  {
+    "stadiums":"Arena MRV",
+    "capacity":46000,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Belo Horizonte",
+    "original_stadium_name":"Arena MRV",
+    "location":[
+      -19.9300116,
+      -44.0138813
+    ],
+    "lat":-19.9300116,
+    "lon":-44.0138813
+  },
+  {
+    "stadiums":"Est\u00e1dio Paulo Constantino",
+    "capacity":45954,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Presidente Prudente - S\u00e3o Paulo",
+    "original_stadium_name":"Est\u00e1dio Paulo Constantino",
+    "location":[
+      -22.098568,
+      -51.4150621
+    ],
+    "lat":-22.098568,
+    "lon":-51.4150621
+  },
+  {
+    "stadiums":"Estadio Atanasio Girardot",
+    "capacity":45739,
+    "region":"South America",
+    "country":"Colombia",
+    "city":"Medell\u00edn",
+    "original_stadium_name":"Estadio Atanasio Girardot",
+    "location":[
+      6.2568267,
+      -75.5901467
+    ],
+    "lat":6.2568267,
+    "lon":-75.5901467
+  },
+  {
+    "stadiums":"Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+    "capacity":45500,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Seville",
+    "original_stadium_name":"Estadio Ram\u00f3n S\u00e1nchez Pizju\u00e1n",
+    "location":[
+      37.3840876,
+      -5.9706309
+    ],
+    "lat":37.3840876,
+    "lon":-5.9706309
+  },
+  {
+    "stadiums":"Adrar Stadium",
+    "capacity":45480,
+    "region":"Africa",
+    "country":"Morocco",
+    "city":"Agadir",
+    "original_stadium_name":"Adrar Stadium",
+    "location":[
+      30.4274409,
+      -9.540254
+    ],
+    "lat":30.4274409,
+    "lon":-9.540254
+  },
+  {
+    "stadiums":"Lukoil Arena",
+    "capacity":45360,
+    "region":"Europe",
+    "country":"Russia",
+    "city":"Moscow",
+    "original_stadium_name":"Lukoil Arena",
+    "location":[
+      55.8175885,
+      37.4406099
+    ],
+    "lat":55.8175885,
+    "lon":37.4406099
+  },
+  {
+    "stadiums":"Grand stade de Marrakech",
+    "capacity":45240,
+    "region":"Africa",
+    "country":"Morocco",
+    "city":"Marrakesh",
+    "original_stadium_name":"Grand stade de Marrakech",
+    "location":[
+      31.7069985,
+      -7.9803776
+    ],
+    "lat":31.7069985,
+    "lon":-7.9803776
+  },
+  {
+    "stadiums":"Mandela National Stadium",
+    "capacity":45202,
+    "region":"Africa",
+    "country":"Uganda",
+    "city":"Kampala",
+    "original_stadium_name":"Mandela National Stadium",
+    "location":[
+      0.347296,
+      32.6588544
+    ],
+    "lat":0.347296,
+    "lon":32.6588544
+  },
+  {
+    "stadiums":"Tarczy\u0144ski Arena Wroc\u0142aw",
+    "capacity":45105,
+    "region":"Europe",
+    "country":"Poland",
+    "city":"Wroc\u0142aw",
+    "original_stadium_name":"Tarczy\u0144ski Arena Wroc\u0142aw",
+    "location":[
+      51.1411861,
+      16.9438067
+    ],
+    "lat":51.1411861,
+    "lon":16.9438067
+  },
+  {
+    "stadiums":"Kazan Arena",
+    "capacity":45105,
+    "region":"Europe",
+    "country":"Russia",
+    "city":"Kazan",
+    "original_stadium_name":"Kazan Arena",
+    "location":[
+      55.8229887,
+      49.1634854
+    ],
+    "lat":55.8229887,
+    "lon":49.1634854
+  },
+  {
+    "stadiums":"Estadio Inca Garcilaso de la Vega",
+    "capacity":45056,
+    "region":"South America",
+    "country":"Peru",
+    "city":"Cusco",
+    "original_stadium_name":"Estadio Inca Garcilaso de la Vega",
+    "location":[
+      -13.5255188,
+      -71.9664761
+    ],
+    "lat":-13.5255188,
+    "lon":-71.9664761
+  },
+  {
+    "stadiums":"24 February 1956 Stadium",
+    "capacity":45000,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Sidi Bel Abb\u00e8s",
+    "original_stadium_name":"24 February 1956 Stadium",
+    "location":[
+      34.682268,
+      -0.4357555
+    ],
+    "lat":34.682268,
+    "lon":-0.4357555
+  },
+  {
+    "stadiums":"Est\u00e1dio da Machava",
+    "capacity":45000,
+    "region":"Africa",
+    "country":"Mozambique",
+    "city":"Maputo",
+    "original_stadium_name":"Est\u00e1dio da Machava",
+    "location":[
+      -25.9174099,
+      32.5263788
+    ],
+    "lat":-25.9174099,
+    "lon":32.5263788
+  },
+  {
+    "stadiums":"Stadion Gelora Bung Tomo",
+    "capacity":45000,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Surabaya - East Java",
+    "original_stadium_name":"Stadion Gelora Bung Tomo",
+    "location":[
+      -7.2231559,
+      112.6227833
+    ],
+    "lat":-7.2231559,
+    "lon":112.6227833
+  },
+  {
+    "stadiums":"Stadion Harapan Banga",
+    "capacity":45000,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Banda Aceh - Aceh",
+    "original_stadium_name":"Stadion Harapan Banga",
+    "location":[
+      5.5528455,
+      95.3192908
+    ],
+    "lat":5.5528455,
+    "lon":95.3192908
+  },
+  {
+    "stadiums":"Estadio General Pablo Rojas",
+    "capacity":45000,
+    "region":"South America",
+    "country":"Paraguay",
+    "city":"Asunci\u00f3n",
+    "original_stadium_name":"Estadio General Pablo Rojas",
+    "location":[
+      -25.2999926,
+      -57.6376558
+    ],
+    "lat":-25.2999926,
+    "lon":-57.6376558
+  },
+  {
+    "stadiums":"Latakia Sports City Stadium",
+    "capacity":45000,
+    "region":"West Asia",
+    "country":"Syria",
+    "city":"Latakia",
+    "original_stadium_name":"Latakia Sports City Stadium",
+    "location":[
+      35.5200185,
+      35.7781044
+    ],
+    "lat":35.5200185,
+    "lon":35.7781044
+  },
+  {
+    "stadiums":"Zibo Sports Centre Stadium",
+    "capacity":45000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Zibo",
+    "original_stadium_name":"Zibo Sports Centre Stadium",
+    "location":[
+      36.8132476,
+      117.9828384
+    ],
+    "lat":36.8132476,
+    "lon":117.9828384
+  },
+  {
+    "stadiums":"Weifang Sports Centre Stadium",
+    "capacity":45000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Weifang",
+    "original_stadium_name":"Weifang Sports Centre Stadium",
+    "location":[
+      36.7290476,
+      119.0630983
+    ],
+    "lat":36.7290476,
+    "lon":119.0630983
+  },
+  {
+    "stadiums":"Yantai Sports Park Stadium",
+    "capacity":45000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Yantai",
+    "original_stadium_name":"Yantai Sports Park Stadium",
+    "location":[
+      37.462892,
+      121.4535599
+    ],
+    "lat":37.462892,
+    "lon":121.4535599
+  },
+  {
+    "stadiums":"Stadium Tuanku Abdul Rahman",
+    "capacity":45000,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Seremban",
+    "original_stadium_name":"Stadium Tuanku Abdul Rahman",
+    "location":[
+      2.7262398,
+      101.9826177
+    ],
+    "lat":2.7262398,
+    "lon":101.9826177
+  },
+  {
+    "stadiums":"Stade du Complexe sportif de F\u00e8s",
+    "capacity":45000,
+    "region":"Africa",
+    "country":"Morocco",
+    "city":"Fes",
+    "original_stadium_name":"Stade du Complexe sportif de F\u00e8s",
+    "location":[
+      34.00272,
+      -4.9689618
+    ],
+    "lat":34.00272,
+    "lon":-4.9689618
+  },
+  {
+    "stadiums":"Lagos National Stadium",
+    "capacity":45000,
+    "region":"Africa",
+    "country":"Nigeria",
+    "city":"Lagos",
+    "original_stadium_name":"Lagos National Stadium",
+    "location":[
+      6.4971425,
+      3.364988
+    ],
+    "lat":6.4971425,
+    "lon":3.364988
+  },
+  {
+    "stadiums":"Egyptian Army Stadium",
+    "capacity":45000,
+    "region":"Africa",
+    "country":"Egypt",
+    "city":"Suez",
+    "original_stadium_name":"Egyptian Army Stadium",
+    "location":[
+      29.974498,
+      32.537086
+    ],
+    "lat":29.974498,
+    "lon":32.537086
+  },
+  {
+    "stadiums":"Toyota Stadium",
+    "capacity":45000,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Toyota City",
+    "original_stadium_name":"Toyota Stadium",
+    "location":[
+      35.0845879,
+      137.1708735
+    ],
+    "lat":35.0845879,
+    "lon":137.1708735
+  },
+  {
+    "stadiums":"Zayed Sports City Stadium",
+    "capacity":45000,
+    "region":"West Asia",
+    "country":"United Arab Emirates",
+    "city":"Abu Dhabi",
+    "original_stadium_name":"Zayed Sports City Stadium",
+    "location":[
+      24.4161286,
+      54.45363
+    ],
+    "lat":24.4161286,
+    "lon":54.45363
+  },
+  {
+    "stadiums":"Red Bull Arena",
+    "capacity":44345,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Leipzig",
+    "original_stadium_name":"Red Bull Arena",
+    "location":[
+      51.3457078,
+      12.3482361
+    ],
+    "lat":51.3457078,
+    "lon":12.3482361
+  },
+  {
+    "stadiums":"Est\u00e1dio Governador Alberto Tavares Silva",
+    "capacity":44200,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Teresina",
+    "original_stadium_name":"Est\u00e1dio Governador Alberto Tavares Silva",
+    "location":[
+      -5.1161379,
+      -42.792872
+    ],
+    "lat":-5.1161379,
+    "lon":-42.792872
+  },
+  {
+    "stadiums":"Est\u00e1dio Universit\u00e1rio Pedro Pedrossian",
+    "capacity":44200,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Campo Grande",
+    "original_stadium_name":"Est\u00e1dio Universit\u00e1rio Pedro Pedrossian",
+    "location":[
+      -20.4640173,
+      -54.6162947
+    ],
+    "lat":-20.4640173,
+    "lon":-54.6162947
+  },
+  {
+    "stadiums":"Ulsan Munsu Football Stadium",
+    "capacity":44102,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Ulsan",
+    "original_stadium_name":"Ulsan Munsu Football Stadium",
+    "location":[
+      35.535263,
+      129.2594949
+    ],
+    "lat":35.535263,
+    "lon":129.2594949
+  },
+  {
+    "stadiums":"Arena Pantanal",
+    "capacity":44097,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Cuiab\u00e1 - Mato Grosso",
+    "original_stadium_name":"Arena Pantanal",
+    "location":[
+      -15.6040649,
+      -56.1222989
+    ],
+    "lat":-15.6040649,
+    "lon":-56.1222989
+  },
+  {
+    "stadiums":"Arena da Amaz\u00f4nia",
+    "capacity":44000,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Manaus - Amazonas",
+    "original_stadium_name":"Arena da Amaz\u00f4nia",
+    "location":[
+      -3.0831132,
+      -60.0280052
+    ],
+    "lat":-3.0831132,
+    "lon":-60.0280052
+  },
+  {
+    "stadiums":"Suwon World Cup Stadium",
+    "capacity":43959,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Suwon",
+    "original_stadium_name":"Suwon World Cup Stadium",
+    "location":[
+      37.2864084,
+      127.036805
+    ],
+    "lat":37.2864084,
+    "lon":127.036805
+  },
+  {
+    "stadiums":"Stadion Utama Riau",
+    "capacity":43923,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Pekanbaru",
+    "original_stadium_name":"Stadion Utama Riau",
+    "location":[
+      0.4836139,
+      101.3896017
+    ],
+    "lat":0.4836139,
+    "lon":101.3896017
+  },
+  {
+    "stadiums":"Allianz Parque",
+    "capacity":43713,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"S\u00e3o Paulo - S\u00e3o Paulo",
+    "original_stadium_name":"Allianz Parque",
+    "location":[
+      -23.5274971,
+      -46.6785281
+    ],
+    "lat":-23.5274971,
+    "lon":-46.6785281
+  },
+  {
+    "stadiums":"Shandong Provincial Stadium",
+    "capacity":43700,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Jinan",
+    "original_stadium_name":"Shandong Provincial Stadium",
+    "location":[
+      36.6464766,
+      117.0057846
+    ],
+    "lat":36.6464766,
+    "lon":117.0057846
+  },
+  {
+    "stadiums":"Polsat Plus Arena Gda\u0144sk",
+    "capacity":43615,
+    "region":"Europe",
+    "country":"Poland",
+    "city":"Gda\u0144sk",
+    "original_stadium_name":"Polsat Plus Arena Gda\u0144sk",
+    "location":[
+      54.3899192,
+      18.6404
+    ],
+    "lat":54.3899192,
+    "lon":18.6404
+  },
+  {
+    "stadiums":"Estadio Pedro Bidegain",
+    "capacity":43494,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Buenos Aires",
+    "original_stadium_name":"Estadio Pedro Bidegain",
+    "location":[
+      -34.6520908,
+      -58.4401364
+    ],
+    "lat":-34.6520908,
+    "lon":-58.4401364
+  },
+  {
+    "stadiums":"Stadion Miejski w Poznaniu",
+    "capacity":43269,
+    "region":"Europe",
+    "country":"Poland",
+    "city":"Pozna\u0144",
+    "original_stadium_name":"Stadion Miejski w Poznaniu",
+    "location":[
+      52.4006632,
+      16.9197326
+    ],
+    "lat":52.4006632,
+    "lon":16.9197326
+  },
+  {
+    "stadiums":"Vasil Levski National Stadium",
+    "capacity":43230,
+    "region":"Europe",
+    "country":"Bulgaria",
+    "city":"Sofia",
+    "original_stadium_name":"Vasil Levski National Stadium",
+    "location":[
+      42.6875707,
+      23.3352431
+    ],
+    "lat":42.6875707,
+    "lon":23.3352431
+  },
+  {
+    "stadiums":"Estadio Universidad San Marcos",
+    "capacity":43000,
+    "region":"South America",
+    "country":"Peru",
+    "city":"Lima",
+    "original_stadium_name":"Estadio Universidad San Marcos",
+    "location":[
+      -12.0621065,
+      -77.0365256
+    ],
+    "lat":-12.0621065,
+    "lon":-77.0365256
+  },
+  {
+    "stadiums":"Ullevi",
+    "capacity":43000,
+    "region":"Europe",
+    "country":"Sweden",
+    "city":"Gothenburg",
+    "original_stadium_name":"Ullevi",
+    "location":[
+      57.7059197,
+      11.9873276
+    ],
+    "lat":57.7059197,
+    "lon":11.9873276
+  },
+  {
+    "stadiums":"Jinzhou Binhai Sports Centre Stadium",
+    "capacity":43000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Jinzhou",
+    "original_stadium_name":"Jinzhou Binhai Sports Centre Stadium",
+    "location":[
+      40.8723509,
+      121.0644041
+    ],
+    "lat":40.8723509,
+    "lon":121.0644041
+  },
+  {
+    "stadiums":"Estadio General Santander",
+    "capacity":42901,
+    "region":"South America",
+    "country":"Colombia",
+    "city":"C\u00facuta",
+    "original_stadium_name":"Estadio General Santander",
+    "location":[
+      7.8946627,
+      -72.5018525
+    ],
+    "lat":7.8946627,
+    "lon":-72.5018525
+  },
+  {
+    "stadiums":"Villa Park",
+    "capacity":42682,
+    "region":"Europe",
+    "country":"England",
+    "city":"Birmingham",
+    "original_stadium_name":"Villa Park",
+    "location":[
+      52.5091264,
+      -1.8850354
+    ],
+    "lat":52.5091264,
+    "lon":-1.8850354
+  },
+  {
+    "stadiums":"Perak Stadium",
+    "capacity":42500,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Perak",
+    "original_stadium_name":"Perak Stadium",
+    "location":[
+      4.6094268,
+      101.1035452
+    ],
+    "lat":4.6094268,
+    "lon":101.1035452
+  },
+  {
+    "stadiums":"Jeonju World Cup Stadium",
+    "capacity":42477,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Jeonju",
+    "original_stadium_name":"Jeonju World Cup Stadium",
+    "location":[
+      35.8678074,
+      127.0645891
+    ],
+    "lat":35.8678074,
+    "lon":127.0645891
+  },
+  {
+    "stadiums":"Ligga Arena",
+    "capacity":42372,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Curitiba",
+    "original_stadium_name":"Ligga Arena",
+    "location":[
+      -25.4483457,
+      -49.2768771
+    ],
+    "lat":-25.4483457,
+    "lon":-49.2768771
+  },
+  {
+    "stadiums":"Weserstadion",
+    "capacity":42358,
+    "region":"Europe",
+    "country":"Germany",
+    "city":"Bremen",
+    "original_stadium_name":"Weserstadion",
+    "location":[
+      53.0664479,
+      8.8376718
+    ],
+    "lat":53.0664479,
+    "lon":8.8376718
+  },
+  {
+    "stadiums":"Denka Big Swan Stadium",
+    "capacity":42300,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Niigata - Niigata",
+    "original_stadium_name":"Denka Big Swan Stadium",
+    "location":[
+      37.882576,
+      139.0591584
+    ],
+    "lat":37.882576,
+    "lon":139.0591584
+  },
+  {
+    "stadiums":"Estadio Olimpico Metropolitano de M\u00e9rida",
+    "capacity":42200,
+    "region":"South America",
+    "country":"Venezuela",
+    "city":"M\u00e9rida",
+    "original_stadium_name":"Estadio Olimpico Metropolitano de M\u00e9rida",
+    "location":[
+      8.5558658,
+      -71.2179965
+    ],
+    "lat":8.5558658,
+    "lon":-71.2179965
+  },
+  {
+    "stadiums":"Daejeon World Cup Stadium",
+    "capacity":42176,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Daejeon",
+    "original_stadium_name":"Daejeon World Cup Stadium",
+    "location":[
+      36.3652534,
+      127.3251074
+    ],
+    "lat":36.3652534,
+    "lon":127.3251074
+  },
+  {
+    "stadiums":"Matmut ATLANTIQUE",
+    "capacity":42115,
+    "region":"Europe",
+    "country":"France",
+    "city":"Bordeaux",
+    "original_stadium_name":"Matmut ATLANTIQUE",
+    "location":[
+      44.897357,
+      -0.5616058
+    ],
+    "lat":44.897357,
+    "lon":-0.5616058
+  },
+  {
+    "stadiums":"Helsingin Olympiastadion",
+    "capacity":42062,
+    "region":"Europe",
+    "country":"Finland",
+    "city":"Helsinki",
+    "original_stadium_name":"Helsingin Olympiastadion",
+    "location":[
+      60.1870012,
+      24.9272509
+    ],
+    "lat":60.1870012,
+    "lon":24.9272509
+  },
+  {
+    "stadiums":"Est\u00e1dio Serra Dourada",
+    "capacity":42000,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Goi\u00e2nia",
+    "original_stadium_name":"Est\u00e1dio Serra Dourada",
+    "location":[
+      -16.6990653,
+      -49.2331878
+    ],
+    "lat":-16.6990653,
+    "lon":-49.2331878
+  },
+  {
+    "stadiums":"Estadio Deportivo Cali",
+    "capacity":42000,
+    "region":"South America",
+    "country":"Colombia",
+    "city":"Cali",
+    "original_stadium_name":"Estadio Deportivo Cali",
+    "location":[
+      3.521681,
+      -76.4170626
+    ],
+    "lat":3.521681,
+    "lon":-76.4170626
+  },
+  {
+    "stadiums":"Estadio Modelo Alberto Spencer",
+    "capacity":42000,
+    "region":"South America",
+    "country":"Ecuador",
+    "city":"Guayaquil",
+    "original_stadium_name":"Estadio Modelo Alberto Spencer",
+    "location":[
+      -2.1789233,
+      -79.8943538
+    ],
+    "lat":-2.1789233,
+    "lon":-79.8943538
+  },
+  {
+    "stadiums":"Est\u00e1dio do Zimpeto",
+    "capacity":42000,
+    "region":"Africa",
+    "country":"Mozambique",
+    "city":"Maputo",
+    "original_stadium_name":"Est\u00e1dio do Zimpeto",
+    "location":[
+      -25.8276537,
+      32.5749811
+    ],
+    "lat":-25.8276537,
+    "lon":32.5749811
+  },
+  {
+    "stadiums":"Chengdu Sports Centre Stadium",
+    "capacity":42000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Chengdu",
+    "original_stadium_name":"Chengdu Sports Centre Stadium",
+    "location":[
+      30.6598628,
+      104.0633717
+    ],
+    "lat":30.6598628,
+    "lon":104.0633717
+  },
+  {
+    "stadiums":"Royal Bafokeng Stadium",
+    "capacity":42000,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Phokeng - North West",
+    "original_stadium_name":"Royal Bafokeng Stadium",
+    "location":[
+      -25.5787763,
+      27.1609204
+    ],
+    "lat":-25.5787763,
+    "lon":27.1609204
+  },
+  {
+    "stadiums":"Estadio Universitario",
+    "capacity":42000,
+    "region":"North America",
+    "country":"Mexico",
+    "city":"San Nicol\u00e1s de los Garza",
+    "original_stadium_name":"Estadio Universitario",
+    "location":[
+      25.7226067,
+      -100.3119863
+    ],
+    "lat":25.7226067,
+    "lon":-100.3119863
+  },
+  {
+    "stadiums":"Estadio Brigadier General Estanislao L\u00f3pez",
+    "capacity":42000,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Santa Fe",
+    "original_stadium_name":"Estadio Brigadier General Estanislao L\u00f3pez",
+    "location":[
+      -31.6632166,
+      -60.7252465
+    ],
+    "lat":-31.6632166,
+    "lon":-60.7252465
+  },
+  {
+    "stadiums":"Estadio Marcelo Bielsa",
+    "capacity":42000,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Rosario",
+    "original_stadium_name":"Estadio Marcelo Bielsa",
+    "location":[
+      -32.9560673,
+      -60.661413
+    ],
+    "lat":-32.9560673,
+    "lon":-60.661413
+  },
+  {
+    "stadiums":"Stade Geoffroy-Guichard",
+    "capacity":41965,
+    "region":"Europe",
+    "country":"France",
+    "city":"Saint-\u00c9tienne",
+    "original_stadium_name":"Stade Geoffroy-Guichard",
+    "location":[
+      45.4607567,
+      4.3900932
+    ],
+    "lat":45.4607567,
+    "lon":4.3900932
+  },
+  {
+    "stadiums":"Vodafone Park",
+    "capacity":41903,
+    "region":"Europe",
+    "country":"Turkey",
+    "city":"Istanbul",
+    "original_stadium_name":"Vodafone Park",
+    "location":[
+      41.006381,
+      28.9758715
+    ],
+    "lat":41.006381,
+    "lon":28.9758715
+  },
+  {
+    "stadiums":"Peter Mokaba Stadium",
+    "capacity":41733,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Polokwane",
+    "original_stadium_name":"Peter Mokaba Stadium",
+    "location":[
+      -23.9248058,
+      29.4679601
+    ],
+    "lat":-23.9248058,
+    "lon":29.4679601
+  },
+  {
+    "stadiums":"Estadio Gigante de Arroyito",
+    "capacity":41654,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Rosario",
+    "original_stadium_name":"Estadio Gigante de Arroyito",
+    "location":[
+      -32.914023,
+      -60.674499
+    ],
+    "lat":-32.914023,
+    "lon":-60.674499
+  },
+  {
+    "stadiums":"Estadio Cachamay",
+    "capacity":41600,
+    "region":"South America",
+    "country":"Venezuela",
+    "city":"Ciudad Guayana",
+    "original_stadium_name":"Estadio Cachamay",
+    "location":[
+      8.3126855,
+      -62.6963395
+    ],
+    "lat":8.3126855,
+    "lon":-62.6963395
+  },
+  {
+    "stadiums":"Estadio de Liga Deportiva Universitaria",
+    "capacity":41596,
+    "region":"South America",
+    "country":"Ecuador",
+    "city":"Quito",
+    "original_stadium_name":"Estadio de Liga Deportiva Universitaria",
+    "location":[
+      -0.1077231,
+      -78.4890768
+    ],
+    "lat":-0.1077231,
+    "lon":-78.4890768
+  },
+  {
+    "stadiums":"Allianz Stadium",
+    "capacity":41507,
+    "region":"Europe",
+    "country":"Italy",
+    "city":"Turin - Piedmont",
+    "original_stadium_name":"Allianz Stadium",
+    "location":[
+      45.1095758,
+      7.6421338
+    ],
+    "lat":45.1095758,
+    "lon":7.6421338
+  },
+  {
+    "stadiums":"Sapporo Dome",
+    "capacity":41484,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Sapporo",
+    "original_stadium_name":"Sapporo Dome",
+    "location":[
+      43.015828,
+      141.4125064
+    ],
+    "lat":43.015828,
+    "lon":141.4125064
+  },
+  {
+    "stadiums":"Stamford Bridge",
+    "capacity":41663,
+    "region":"Europe",
+    "country":"England",
+    "city":"London",
+    "original_stadium_name":"Stamford Bridge",
+    "location":[
+      51.4816869,
+      -0.1910336
+    ],
+    "lat":51.4816869,
+    "lon":-0.1910336
+  },
+  {
+    "stadiums":"Goyang Stadium",
+    "capacity":41311,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Goyang",
+    "original_stadium_name":"Goyang Stadium",
+    "location":[
+      37.6764849,
+      126.7431538
+    ],
+    "lat":37.6764849,
+    "lon":126.7431538
+  },
+  {
+    "stadiums":"Estadio Hernando Siles",
+    "capacity":41143,
+    "region":"South America",
+    "country":"Bolivia",
+    "city":"La Paz",
+    "original_stadium_name":"Estadio Hernando Siles",
+    "location":[
+      -16.4994503,
+      -68.1228532
+    ],
+    "lat":-16.4994503,
+    "lon":-68.1228532
+  },
+  {
+    "stadiums":"Bingu National Stadium",
+    "capacity":41100,
+    "region":"Africa",
+    "country":"Malawi",
+    "city":"Lilongwe",
+    "original_stadium_name":"Bingu National Stadium",
+    "location":[
+      -13.9438618,
+      33.7531969
+    ],
+    "lat":-13.9438618,
+    "lon":33.7531969
+  },
+  {
+    "stadiums":"Mbombela Stadium",
+    "capacity":40929,
+    "region":"Africa",
+    "country":"South Africa",
+    "city":"Nelspruit - Mpumalanga",
+    "original_stadium_name":"Mbombela Stadium",
+    "location":[
+      -25.4617294,
+      30.9296899
+    ],
+    "lat":-25.4617294,
+    "lon":30.9296899
+  },
+  {
+    "stadiums":"Estadio Jos\u00e9 Pachencho Romero",
+    "capacity":40800,
+    "region":"South America",
+    "country":"Venezuela",
+    "city":"Maracaibo",
+    "original_stadium_name":"Estadio Jos\u00e9 Pachencho Romero",
+    "location":[
+      10.6740483,
+      -71.644999
+    ],
+    "lat":10.6740483,
+    "lon":-71.644999
+  },
+  {
+    "stadiums":"Stade Nelson Mandela",
+    "capacity":40784,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Algiers",
+    "original_stadium_name":"Stade Nelson Mandela",
+    "location":[
+      36.6939428,
+      3.1220307
+    ],
+    "lat":36.6939428,
+    "lon":3.1220307
+  },
+  {
+    "stadiums":"Kashima Football Stadium",
+    "capacity":40728,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"Kashima - Ibaraki",
+    "original_stadium_name":"Kashima Football Stadium",
+    "location":[
+      35.9920049,
+      140.6403679
+    ],
+    "lat":35.9920049,
+    "lon":140.6403679
+  },
+  {
+    "stadiums":"Baba Yara Stadium",
+    "capacity":40528,
+    "region":"Africa",
+    "country":"Ghana",
+    "city":"Kumasi",
+    "original_stadium_name":"Baba Yara Stadium",
+    "location":[
+      6.68217,
+      -1.6050642
+    ],
+    "lat":6.68217,
+    "lon":-1.6050642
+  },
+  {
+    "stadiums":"Est\u00e1dio Major Ant\u00f4nio Couto Pereira",
+    "capacity":40502,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"Curitiba - Paran\u00e1",
+    "original_stadium_name":"Est\u00e1dio Major Ant\u00f4nio Couto Pereira",
+    "location":[
+      -25.4214376,
+      -49.2597567
+    ],
+    "lat":-25.4214376,
+    "lon":-49.2597567
+  },
+  {
+    "stadiums":"Stage Front Stadium",
+    "capacity":40500,
+    "region":"Europe",
+    "country":"Spain",
+    "city":"Barcelona",
+    "original_stadium_name":"Stage Front Stadium",
+    "location":[
+      41.3478566,
+      2.0764584
+    ],
+    "lat":41.3478566,
+    "lon":2.0764584
+  },
+  {
+    "stadiums":"Estadio Metropolitano de f\u00fatbol de Lara",
+    "capacity":40312,
+    "region":"South America",
+    "country":"Venezuela",
+    "city":"Barquisimeto",
+    "original_stadium_name":"Estadio Metropolitano de f\u00fatbol de Lara",
+    "location":[
+      10.0774374,
+      -69.3222293
+    ],
+    "lat":10.0774374,
+    "lon":-69.3222293
+  },
+  {
+    "stadiums":"Estadio Malvinas Argentinas",
+    "capacity":40268,
+    "region":"South America",
+    "country":"Argentina",
+    "city":"Mendoza",
+    "original_stadium_name":"Estadio Malvinas Argentinas",
+    "location":[
+      -32.8896213,
+      -68.8799005
+    ],
+    "lat":-32.8896213,
+    "lon":-68.8799005
+  },
+  {
+    "stadiums":"Stadion Lukas Enembe",
+    "capacity":40263,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Nolokla",
+    "original_stadium_name":"Stadion Lukas Enembe",
+    "location":[
+      -2.5789948,
+      140.5734834
+    ],
+    "lat":-2.5789948,
+    "lon":140.5734834
+  },
+  {
+    "stadiums":"Gwangju World Cup Stadium",
+    "capacity":40245,
+    "region":"East Asia",
+    "country":"South Korea",
+    "city":"Gwangju",
+    "original_stadium_name":"Gwangju World Cup Stadium",
+    "location":[
+      35.1337706,
+      126.8750042
+    ],
+    "lat":35.1337706,
+    "lon":126.8750042
+  },
+  {
+    "stadiums":"S\u00e2n v\u1eadn \u0111\u1ed9ng Qu\u1ed1c gia M\u1ef9 \u0110\u00ecnh",
+    "capacity":40192,
+    "region":"Southeast Asia",
+    "country":"Vietnam",
+    "city":"Hanoi",
+    "original_stadium_name":"S\u00e2n v\u1eadn \u0111\u1ed9ng Qu\u1ed1c gia M\u1ef9 \u0110\u00ecnh",
+    "location":[
+      21.0205027,
+      105.7639271
+    ],
+    "lat":21.0205027,
+    "lon":105.7639271
+  },
+  {
+    "stadiums":"Goodison Park",
+    "capacity":40157,
+    "region":"Europe",
+    "country":"England",
+    "city":"Liverpool - North West",
+    "original_stadium_name":"Goodison Park",
+    "location":[
+      53.4386898,
+      -2.9664193
+    ],
+    "lat":53.4386898,
+    "lon":-2.9664193
+  },
+  {
+    "stadiums":"Est\u00e1dio Governador Jo\u00e3o Castelo",
+    "capacity":40149,
+    "region":"South America",
+    "country":"Brazil",
+    "city":"S\u00e3o Lu\u00eds - Maranh\u00e3o",
+    "original_stadium_name":"Est\u00e1dio Governador Jo\u00e3o Castelo",
+    "location":[
+      -2.548757,
+      -44.2609513
+    ],
+    "lat":-2.548757,
+    "lon":-44.2609513
+  },
+  {
+    "stadiums":"Miloud Hadefi Stadium",
+    "capacity":40143,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Oran",
+    "original_stadium_name":"Miloud Hadefi Stadium",
+    "location":[
+      35.7285311,
+      -0.5494978
+    ],
+    "lat":35.7285311,
+    "lon":-0.5494978
+  },
+  {
+    "stadiums":"Estadio Campe\u00f3n del Siglo",
+    "capacity":40005,
+    "region":"South America",
+    "country":"Uruguay",
+    "city":"Montevideo",
+    "original_stadium_name":"Estadio Campe\u00f3n del Siglo",
+    "location":[
+      -34.7979283,
+      -56.0662552
+    ],
+    "lat":-34.7979283,
+    "lon":-56.0662552
+  },
+  {
+    "stadiums":"Metalist Stadium",
+    "capacity":40003,
+    "region":"Europe",
+    "country":"Ukraine",
+    "city":"Kharkiv",
+    "original_stadium_name":"Metalist Stadium",
+    "location":[
+      49.980863,
+      36.261576
+    ],
+    "lat":49.980863,
+    "lon":36.261576
+  },
+  {
+    "stadiums":"Al-Janoub Stadium",
+    "capacity":40000,
+    "region":"West Asia",
+    "country":"Qatar",
+    "city":"Al-Wakrah",
+    "original_stadium_name":"Al-Janoub Stadium",
+    "location":[
+      25.1597079,
+      51.5742271
+    ],
+    "lat":25.1597079,
+    "lon":51.5742271
+  },
+  {
+    "stadiums":"Al-Thumama Stadium",
+    "capacity":40000,
+    "region":"West Asia",
+    "country":"Qatar",
+    "city":"Al-Thumama",
+    "original_stadium_name":"Al-Thumama Stadium",
+    "location":[
+      25.2353106,
+      51.5329152
+    ],
+    "lat":25.2353106,
+    "lon":51.5329152
+  },
+  {
+    "stadiums":"Ahmed Zabana Stadium",
+    "capacity":40000,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Oran",
+    "original_stadium_name":"Ahmed Zabana Stadium",
+    "location":[
+      35.683357,
+      -0.6365156
+    ],
+    "lat":35.683357,
+    "lon":-0.6365156
+  },
+  {
+    "stadiums":"Stadion Batakan",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Balikpapan - East Kalimantan",
+    "original_stadium_name":"Stadion Batakan",
+    "location":[
+      -1.2331501,
+      116.9433188
+    ],
+    "lat":-1.2331501,
+    "lon":116.9433188
+  },
+  {
+    "stadiums":"Ali La Pointe Stadium",
+    "capacity":40000,
+    "region":"Africa",
+    "country":"Algeria",
+    "city":"Algiers",
+    "original_stadium_name":"Ali La Pointe Stadium",
+    "location":[
+      36.7729333,
+      3.0588445
+    ],
+    "lat":36.7729333,
+    "lon":3.0588445
+  },
+  {
+    "stadiums":"Stadion Gelora Joko Samudro",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Indonesia",
+    "city":"Gresik - East Java",
+    "original_stadium_name":"Stadion Gelora Joko Samudro",
+    "location":[
+      -7.1855067,
+      112.6506165
+    ],
+    "lat":-7.1855067,
+    "lon":112.6506165
+  },
+  {
+    "stadiums":"Fisht Olympic Stadium",
+    "capacity":40000,
+    "region":"Europe",
+    "country":"Russia",
+    "city":"Sochi",
+    "original_stadium_name":"Fisht Olympic Stadium",
+    "location":[
+      43.5854823,
+      39.723109
+    ],
+    "lat":43.5854823,
+    "lon":39.723109
+  },
+  {
+    "stadiums":"Rentschler Field",
+    "capacity":40000,
+    "region":"North America",
+    "country":"United States",
+    "city":"East Hartford - Connecticut",
+    "original_stadium_name":"Rentschler Field",
+    "location":[
+      41.7596149,
+      -72.6188369
+    ],
+    "lat":41.7596149,
+    "lon":-72.6188369
+  },
+  {
+    "stadiums":"Jawaharlal Nehru Stadium",
+    "capacity":40000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"Kochi",
+    "original_stadium_name":"Jawaharlal Nehru Stadium",
+    "location":[
+      28.583377,
+      77.2335404
+    ],
+    "lat":28.583377,
+    "lon":77.2335404
+  },
+  {
+    "stadiums":"Hang Jebat Stadium",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Malacca",
+    "original_stadium_name":"Hang Jebat Stadium",
+    "location":[
+      2.2885304,
+      102.2330317
+    ],
+    "lat":2.2885304,
+    "lon":102.2330317
+  },
+  {
+    "stadiums":"Hong Kong Stadium",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"Hong Kong",
+    "city":"So Kon Po",
+    "original_stadium_name":"Hong Kong Stadium",
+    "location":[
+      22.2743129,
+      114.1892295
+    ],
+    "lat":22.2743129,
+    "lon":114.1892295
+  },
+  {
+    "stadiums":"Stadium Negeri Pulau Pinang",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Batu Kawan",
+    "original_stadium_name":"Stadium Negeri Pulau Pinang",
+    "location":[
+      5.2614822,
+      100.4363541
+    ],
+    "lat":5.2614822,
+    "lon":100.4363541
+  },
+  {
+    "stadiums":"Accra Sports Stadium",
+    "capacity":40000,
+    "region":"Africa",
+    "country":"Ghana",
+    "city":"Accra",
+    "original_stadium_name":"Accra Sports Stadium",
+    "location":[
+      5.5515153,
+      -0.1923351
+    ],
+    "lat":5.5515153,
+    "lon":-0.1923351
+  },
+  {
+    "stadiums":"Sarawak Stadium",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Kuching",
+    "original_stadium_name":"Sarawak Stadium",
+    "location":[
+      1.5885233,
+      110.3593436
+    ],
+    "lat":1.5885233,
+    "lon":110.3593436
+  },
+  {
+    "stadiums":"Bogyoke Aung San Stadium",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Myanmar",
+    "city":"Yangon",
+    "original_stadium_name":"Bogyoke Aung San Stadium",
+    "location":[
+      16.7838408,
+      96.1606229
+    ],
+    "lat":16.7838408,
+    "lon":96.1606229
+  },
+  {
+    "stadiums":"Resonac Dome \u014cita",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"Japan",
+    "city":"\u014cita",
+    "original_stadium_name":"Resonac Dome \u014cita",
+    "location":[
+      33.2007823,
+      131.6574852
+    ],
+    "lat":33.2007823,
+    "lon":131.6574852
+  },
+  {
+    "stadiums":"Stadium Darul Makmur",
+    "capacity":40000,
+    "region":"Southeast Asia",
+    "country":"Malaysia",
+    "city":"Kuantan",
+    "original_stadium_name":"Stadium Darul Makmur",
+    "location":[
+      3.8153888,
+      103.3236608
+    ],
+    "lat":3.8153888,
+    "lon":103.3236608
+  },
+  {
+    "stadiums":"Khalifa International Stadium",
+    "capacity":40000,
+    "region":"West Asia",
+    "country":"Qatar",
+    "city":"Doha",
+    "original_stadium_name":"Khalifa International Stadium",
+    "location":[
+      25.263653,
+      51.4492245
+    ],
+    "lat":25.263653,
+    "lon":51.4492245
+  },
+  {
+    "stadiums":"Stade de l\u2019Amiti\u00e9 sino-gabonaise",
+    "capacity":40000,
+    "region":"Africa",
+    "country":"Gabon",
+    "city":"Libreville",
+    "original_stadium_name":"Stade de l\u2019Amiti\u00e9 sino-gabonaise",
+    "location":[
+      0.5218802,
+      9.3929359
+    ],
+    "lat":0.5218802,
+    "lon":9.3929359
+  },
+  {
+    "stadiums":"Peoples Football Stadium",
+    "capacity":40000,
+    "region":"South Asia",
+    "country":"Pakistan",
+    "city":"Karachi",
+    "original_stadium_name":"Peoples Football Stadium",
+    "location":[
+      24.8582424,
+      66.9875836
+    ],
+    "lat":24.8582424,
+    "lon":66.9875836
+  },
+  {
+    "stadiums":"JRD Tata Sports Complex Stadium",
+    "capacity":40000,
+    "region":"South Asia",
+    "country":"India",
+    "city":"Jamshedpur",
+    "original_stadium_name":"JRD Tata Sports Complex Stadium",
+    "location":[
+      22.8060299,
+      86.1935297
+    ],
+    "lat":22.8060299,
+    "lon":86.1935297
+  },
+  {
+    "stadiums":"Bao'an Stadium",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Shenzhen",
+    "original_stadium_name":"Bao'an Stadium",
+    "location":[
+      22.5609706,
+      113.8772183
+    ],
+    "lat":22.5609706,
+    "lon":113.8772183
+  },
+  {
+    "stadiums":"Kunming Tuodong Sports Centre Stadium",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Kunming",
+    "original_stadium_name":"Kunming Tuodong Sports Centre Stadium",
+    "location":[
+      25.0363006,
+      102.7086139
+    ],
+    "lat":25.0363006,
+    "lon":102.7086139
+  },
+  {
+    "stadiums":"Taizhou Sports Centre Stadium",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Taizhou",
+    "original_stadium_name":"Taizhou Sports Centre Stadium",
+    "location":[
+      28.6496194,
+      121.395379
+    ],
+    "lat":28.6496194,
+    "lon":121.395379
+  },
+  {
+    "stadiums":"Wuhu Olympic Stadium",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Wuhu",
+    "original_stadium_name":"Wuhu Olympic Stadium",
+    "location":[
+      31.1800568,
+      118.2141777
+    ],
+    "lat":31.1800568,
+    "lon":118.2141777
+  },
+  {
+    "stadiums":"Huizhou Olympic Stadium",
+    "capacity":40000,
+    "region":"East Asia",
+    "country":"China",
+    "city":"Huizhou",
+    "original_stadium_name":"Huizhou Olympic Stadium",
+    "location":[
+      23.035558,
+      114.4415201
+    ],
+    "lat":23.035558,
+    "lon":114.4415201
+  }
+]

@@ -1,0 +1,383 @@
+stadiums,capacity,region,country,city
+Rungrado 1st of May Stadium,"114,000",East Asia,North Korea,Pyongyang
+Michigan Stadium,"107,601",North America,United States,"Ann Arbor, Michigan"
+Ohio Stadium,"102,780",North America,United States,"Columbus, Ohio"
+Melbourne Cricket Ground,"100,024",Oceania,Australia,Melbourne
+Camp Nou,"99,354",Europe,Spain,"Barcelona, Catalonia"
+FNB Stadium,"94,736",Africa,South Africa,Johannesburg
+New Administrative Capital Stadium,"93,940",Africa,Egypt,New Administrative Capital
+Rose Bowl Stadium,"92,800",North America,United States,"Pasadena, California"
+Cotton Bowl Stadium,"92,100",North America,United States,Dallas
+Wembley Stadium,"90,000",Europe,England,"London, England"
+Lusail Stadium,"88,966",West Asia,Qatar,Lusail
+Estadio Azteca,"87,523",North America,Mexico,Mexico City
+Bukit Jalil National Stadium,"87,411",Southeast Asia,Malaysia,Kuala Lumpur
+Borg El-Arab Stadium,"86,000",Africa,Egypt,Alexandria
+Estadio Santiago Bernabéu,"85,000",Europe,Spain,Madrid
+Estadio Mâs Monumental,"84,567",South America,Argentina,Buenos Aires
+Stadium Australia,"83,500",Oceania,Australia,Sydney
+MetLife Stadium,"82,500",North America,United States,"East Rutherford, New Jersey"
+Croke Park,"82,300",Europe,Ireland,Dublin
+Jakarta International Stadium,"82,000",Southeast Asia,Indonesia,Jakarta
+Lambeau Field,"81,441",North America,United States,"Green Bay, Wisconsin"
+Signal Iduna Park,"81,365",Europe,Germany,Dortmund
+Stade de France,"81,338",Europe,France,Saint-Denis
+Grand Sports Arena of the Luzhniki Olympic Complex,"81,000",Europe,Russia,Moscow
+Shah Alam Stadium,"80,372",Southeast Asia,Malaysia,"Shah Alam, Selangor"
+Estadio Monumental,"80,093",South America,Peru,Lima
+Stadio Giuseppe Meazza,"80,018",Europe,Italy,"Milan, Lombardy"
+Guangdong Olympic Stadium,"80,012",East Asia,China,Guangzhou
+Hangzhou Olympic Sports Expo Centre Stadium,"80,000",East Asia,China,Hangzhou
+AT&T Stadium,"80,000",North America,United States,"Arlington, Texas"
+Stade des Martyrs,"80,000",Africa,DR Congo,Kinshasa
+Beijing National Stadium,"80,000",East Asia,China,Beijing
+Maracanã,"78,838",South America,Brazil,"Rio de Janeiro, Rio de Janeiro"
+Los Angeles Memorial Coliseum,"78,467",North America,United States,"Los Angeles, California"
+Azadi Stadium,"78,116",West Asia,Iran,Tehran
+Stadion Utama Gelora Bung Karno,"77,193",Southeast Asia,Indonesia,Jakarta
+Caesar's Superdome,"76,468",North America,United States,"New Orleans, Louisiana"
+Arrowhead Stadium,"76,412",North America,United States,"Kansas City, Missouri"
+Empower Field,"76,125",North America,United States,Denver
+Atatürk Olimpiyat Stadyumu,"76,092",Europe,Turkey,Istanbul
+Old Trafford,"76,000",Europe,England,Manchester
+Allianz Arena,"75,024",Europe,Germany,Munich
+Naghsh-e-Jahan Stadium,"75,000",West Asia,Iran,Isfahan
+Bank of America Stadium,"74,867",North America,United States,"Charlotte, North Carolina"
+Principality Stadium,"74,500",Europe,Wales,Cardiff
+Olympiastadion,"74,475",Europe,Germany,Berlin
+Cairo International Stadium,"74,100",Africa,Egypt,Cairo
+FirstEnergy Stadium,"73,200",North America,United States,Cleveland
+Estádio Nacional Mané Garrincha,"72,788",South America,Brazil,"Brasília, Distrito Federal"
+Stadio Olimpico,"72,698",Europe,Italy,"Rome, Lazio"
+Nissan Stadium,"72,327",East Asia,Japan,"Yokohama, Kanagawa"
+NRG Stadium,"72,220",North America,United States,"Houston, Texas"
+Shanghai Stadium,"72,000",East Asia,China,Shanghai
+M&T Bank Stadium,"71,008",North America,United States,Baltimore
+Mercedes-Benz Stadium,"71,000",North America,United States,"Atlanta, Georgia"
+Riyadh Air Metropolitano,"70,692",Europe,Spain,Madrid
+Olympic National Sports Complex Stadium,"70,000",Europe,Ukraine,Kyiv
+SoFi Stadium,"70,000",North America,United States,"Inglewood, California"
+Seoul Olympic Stadium,"69,950",East Asia,South Korea,Seoul
+Bakı Olimpiya stadionu,"69,870",West Asia,Azerbaijan,Baku
+Olympic Stadium,"69,618",Europe,Greece,Marousi
+Olympiastadion München,"69,250",Europe,Germany,Munich
+Lumen Field,"69,000",North America,United States,"Seattle, Washington"
+Estadio Olímpico Universitario,"68,954",North America,Mexico,Mexico City
+Gillette Stadium,"68,756",North America,United States,"Foxborough, Massachusetts"
+King Abdullah Sports City Stadium,"68,560",West Asia,Saudi Arabia,Jeddah
+Lincoln Financial Field,"68,532",North America,United States,Philadelphia
+Levi's Stadium,"68,500",North America,United States,"Santa Clara, California"
+Acrisure Stadium,"68,400",North America,United States,Pittsburgh
+Gazprom Arena,"68,134",Europe,Russia,Saint Petersburg
+Salt Lake Stadium,"68,000",South Asia,India,Kolkata
+National Stadium,"68,000",East Asia,Japan,Tokyo
+TIAA Bank Field,"67,814",North America,United States,"Jacksonville, Florida"
+Orange Vélodrome,"67,394",Europe,France,Marseille
+Puskás Aréna,"67,215",Europe,Hungary,Budapest
+Scottish Gas Murrayfield Stadium,"67,144",Europe,Scotland,Edinburgh
+Stade Mohammed V,"67,000",Africa,Morocco,Casablanca
+Lucas Oil Stadium,"67,000",North America,United States,"Indianapolis, Indiana"
+MorumBIS,"66,975",South America,Brazil,"São Paulo, São Paulo"
+The Dome,"66,965",North America,United States,St. Louis
+Yadegar-e-Emam Stadium,"66,833",West Asia,Iran,Tabriz
+Seoul World Cup Stadium,"66,704",East Asia,South Korea,Seoul
+US Bank Stadium,"66,655",North America,United States,Minneapolis
+Daegu Stadium,"66,422",East Asia,South Korea,Daegu
+Workers' Stadium,"66,161",East Asia,China,Beijing
+London Stadium,"66,000",Europe,England,London
+Raymond James Stadium,"65,847",North America,United States,"Tampa, Florida"
+Hard Rock Stadium,"65,326",North America,United States,"Miami Gardens, Florida"
+Olympic Stadium,"65,255",North America,Canada,"Montreal, Quebec"
+Basra International Stadium,"65,227",West Asia,Iraq,Basra
+Camping World Stadium,"65,000",North America,United States,"Orlando, Florida"
+Alamodome,"65,000",North America,United States,San Antonio
+Ford Field,"65,000",North America,United States,Detroit
+Stade Ibn Battuta,"65,000",Africa,Morocco,Tangier
+Estádio do Sport Lisboa e Benfica,"64,642",Europe,Portugal,Lisbon
+Stade du 5 Juillet,"64,200",Africa,Algeria,Algiers
+Castelão,"63,903",South America,Brazil,"Fortaleza, Ceará"
+Saitama Stadium 2002,"63,700",East Asia,Japan,Saitama
+Ellis Park Stadium,"62,567",Africa,South Africa,"Johannesburg, Gauteng"
+Tottenham Hotspur Stadium,"62,303",Europe,England,London
+VELTINS-Arena,"62,271",Europe,Germany,Gelsenkirchen
+Yizhong Sports Centre Stadium,"62,000",East Asia,China,Qingdao
+Estádio Governador Magalhães Pinto,"61,846",South America,Brazil,"Belo Horizonte, Minas Gerais"
+King Fahd International Stadium,"61,781",West Asia,Saudi Arabia,Riyadh
+Soldier Field,"61,500",North America,United States,Chicago
+Nanjing Olympic Sports Centre Stadium,"61,443",East Asia,China,Nanjing
+Anfield,"61,276",Europe,England,"Liverpool, England"
+Estadio Benito Villamarín,"60,720",Europe,Spain,Seville
+Abuja Stadium,"60,491",Africa,Nigeria,Abuja
+MHPArena,"60,469",Europe,Germany,Stuttgart
+Celtic Park,"60,411",Europe,Scotland,Glasgow
+Estadio de la UNSA,"60,370",South America,Peru,Arequipa
+Emirates Stadium,"60,338",Europe,England,London
+Shenzhen Universiade Sports Centre Stadium,"60,334",East Asia,China,Shenzhen
+Estadio Centenario,"60,235",South America,Uruguay,Montevideo
+Estádio José do Rego Maciel,"60,044",South America,Brazil,Recife
+Stade Léopold Sédar Senghor,"60,000",Africa,Senegal,Dakar
+Al-Bayt Stadium,"60,000",West Asia,Qatar,Al-Khor
+Benjamin Mkapa National Stadium,"60,000",Africa,Tanzania,Dar es-Salaam
+Hefei Olympic Sports Centre Stadium,"60,000",East Asia,China,Hefei
+Jaber al-Ahmad International Stadium,"60,000",West Asia,Kuwait,Kuwait City
+Hammadi Agrebi Stadium,"60,000",Africa,Tunisia,Tunis
+Jawaharlal Nehru Stadium,"60,000",South Asia,India,New Delhi
+Mogadishu Stadium,"60,000",Africa,Somalia,Mogadishu
+National Heroes Stadium,"60,000",Africa,Zambia,Lusaka
+Autzen Stadium,"60,000",North America,United States,"Eugene, Oregon"
+Odi Stadium,"60,000",Africa,South Africa,"Mabopane, Gauteng"
+Morodok Techo National Stadium,"60,000",Southeast Asia,Cambodia,Phnom Penh
+Shenyang Olympic Sports Centre Stadium,"60,000",East Asia,China,Shenyang
+Optus Stadium,"60,000",Oceania,Australia,"Perth, Western Australia"
+National Sports Stadium,"60,000",Africa,Zimbabwe,Harare
+Estadio Monumental Isidro Romero Carbo,"59,283",South America,Ecuador,Guayaquil
+Groupama Stadium,"59,186",Europe,France,Décines-Charpieu
+Chongqing Olympic Sports Centre Stadium,"58,680",East Asia,China,Chongqing
+Kazimierz Górski National Stadium,"58,580",Europe,Poland,Warsaw
+Stadio San Nicola,"58,270",Europe,Italy,"Bari, Apulia"
+Commanders Field,"58,000",North America,United States,"Landover, Maryland"
+Deutsche Bank Park,"58,000",Europe,Germany,Frankfurt
+Estadio La Cartuja de Sevilla,"57,619",Europe,Spain,Seville
+Carter–Finley Stadium,"57,583",North America,United States,"Raleigh, North Carolina"
+La Bombonera,"57,200",South America,Argentina,Buenos Aires
+Volksparkstadion,"57,030",Europe,Germany,Hamburg
+Estadio Mario Alberto Kempes,"57,000",South America,Argentina,Córdoba
+Jinan Olympic Sports Centre Stadium,"56,808",East Asia,China,Jinan
+Estadio Jalisco,"56,713",North America,Mexico,"Guadalajara, Jalisco"
+Commonwealth Stadium,"56,302",North America,Canada,"Edmonton, Alberta"
+Dodger Stadium,"56,000",North America,United States,Los Angeles
+19 May 1956 Stadium,"56,000",Africa,Algeria,Annaba
+Estadi Olímpic Lluís Companys,"55,926",Europe,Spain,"Barcelona, Catalonia"
+El Cilindro,"55,880",South America,Argentina,Avellaneda
+Arena do Grêmio,"55,662",South America,Brazil,"Porto Alegre, Rio Grande do Sul"
+Arena Națională,"55,634",Europe,Romania,Bucharest
+Stadion Rajko Mitić,"55,538",Europe,Serbia,Belgrade
+Stadion Śląski,"55,211",Europe,Poland,Chorzów
+Etihad Stadium,"55,097",Europe,England,"Manchester, North West England"
+Moi International Sports Centre,"55,000",Africa,Kenya,Nairobi
+Mestalla,"55,000",Europe,Spain,Valencia
+National Stadium,"55,000",Southeast Asia,Singapore,Singapore
+National Stadium,"55,000",East Asia,Taiwan,Kaohsiung
+He Long Stadium,"55,000",East Asia,China,Changsha
+Cape Town Stadium,"55,000",Africa,South Africa,"Cape Town, Western Cape"
+Plovdiv Stadium,"55,000",Europe,Bulgaria,Plovdiv
+Bobby Dodd Stadium,"55,000",North America,United States,Atlanta
+Johan Cruijff Arena,"54,990",Europe,Netherlands,Amsterdam
+Tianhe Stadium,"54,856",East Asia,China,Guangzhou
+Stadio Diego Armando Maradona,"54,726",Europe,Italy,Naples
+Tianjin Olympic Sports Centre Stadium,"54,696",East Asia,China,Tianjin
+MERKUR SPIEL-ARENA,"54,600",Europe,Germany,Düsseldorf
+Boris Paitchadze Dinamo Arena,"54,549",West Asia,Georgia,Tbilisi
+Wuhan Sports Centre Stadium,"54,357",East Asia,China,Wuhan
+BC Place Stadium,"54,320",North America,Canada,"Vancouver, British Columbia"
+Yankee Stadium,"54,251",North America,United States,New York City
+Hrazdan Stadium,"54,208",West Asia,Armenia,Yerevan
+BORUSSIA-PARK,"54,057",Europe,Germany,Mönchengladbach
+Moses Mabhida Stadium,"54,000",Africa,South Africa,"Durban, KwaZulu-Natal"
+RAMS Park,"53,978",Europe,Turkey,Istanbul
+Busan Asiad Main Stadium,"53,864",East Asia,South Korea,Busan
+Estádio Estadual Jornalista Edgar Augusto Proença,"53,645",South America,Brazil,Belém
+Estadio Único Diego Armando Maradona,"53,600",South America,Argentina,La Plata
+Adelaide Oval,"53,500",Oceania,Australia,"Adelaide, South Australia"
+Docklands Stadium,"53,359",Oceania,Australia,"Melbourne, Victoria"
+Estádio Municipal João Havelange,"53,350",South America,Brazil,"Uberlândia, Minas Gerais"
+San Mamés,"53,332",Europe,Spain,Bilbao
+Aleppo International Stadium,"53,200",West Asia,Syria,Aleppo
+Estadio Nacional,"53,086",South America,Peru,Lima
+Huanglong Stadium,"52,672",East Asia,China,Hangzhou
+Suncorp Stadium,"52,500",Oceania,Australia,"Brisbane, Queensland"
+St. James' Park,"52,405",Europe,England,"Newcastle upon Tyne, North East"
+Kings Park Stadium,"52,000",Africa,South Africa,"Durban, KwaZulu-Natal"
+Newlands Stadium,"51,900",Africa,South Africa,"Cape Town, Western Cape"
+Hampden Park,"51,866",Europe,Scotland,Glasgow
+Estadio Monumental de Maturín,"51,796",South America,Venezuela,Maturín
+Loftus Versfeld Stadium,"51,762",Africa,South Africa,"Pretoria, Gauteng"
+Aviva Stadium,"51,700",Europe,Ireland,Dublin
+Guiyang Olympic Sports Centre Stadium,"51,638",East Asia,China,Guiyang
+Hohhot City Stadium,"51,632",East Asia,China,Hohhot
+Rajamangala National Stadium,"51,552",Southeast Asia,Thailand,Bangkok
+Donbas Arena,"51,504",Europe,Ukraine,Donetsk
+İzmir Atatürk Stadyumu,"51,295",West Asia,Turkey,İzmir
+Stadion Feijenoord,"51,117",Europe,Netherlands,Rotterdam
+Estadio BBVA,"51,000",North America,Mexico,Monterrey
+Ghadir Stadium,"51,000",West Asia,Iran,Ahvaz
+Estádio José Pinheiro Borda,"50,942",South America,Brazil,Porto Alegre
+Ibrox Stadium,"50,817",Europe,Scotland,Glasgow
+Shizuoka Stadium,"50,889",East Asia,Japan,"Fukuroi, Shizuoka"
+Ernst-Happel-Stadion,"50,865",Europe,Austria,Vienna
+Huntington Bank Stadium,"50,805",North America,United States,Minneapolis
+Hocine Ait Ahmed Stadium,"50,766",Africa,Algeria,Tizi Ouzou
+Estadio Cuauhtémoc,"50,754",North America,Mexico,Puebla
+Strawberry Arena,"50,653",Europe,Sweden,Solna
+Ülker Stadyumu,"50,509",West Asia,Turkey,Istanbul
+Stanford Stadium,"50,424",North America,United States,"Palo Alto, California"
+Stade Pierre-Mauroy,"50,186",Europe,France,Villeneuve-d'Ascq
+Stade Roi Baudouin,"50,122",Europe,Belgium,Brussels
+Shaanxi Province Stadium,"50,100",East Asia,China,Xi'an
+Ajinomoto Stadium,"50,100",East Asia,Japan,"Chofu, Tokyo"
+Estádio José Alvalade,"50,095",Europe,Portugal,Lisbon
+Estádio do Dragão,"50,033",Europe,Portugal,Porto
+Casa de Apostas Arena Fonte Nova,"50,025",South America,Brazil,"Salvador, Bahia"
+Stade Tata Raphaël,"50,000",Africa,DR Congo,Kinshasa
+Stade Olympique de Sousse,"50,000",Africa,Tunisia,Sousse
+RheinEnergieSTADION,"50,000",Europe,Germany,Cologne
+Harbin Sports City Centre Stadium,"50,000",East Asia,China,Harbin
+Greenfield International Stadium,"50,000",South Asia,India,Trivandrum
+EMS Stadium,"50,000",South Asia,India,Kozhikode
+KD Singh Babu Stadium,"50,000",South Asia,India,Lucknow
+Eden Park,"50,000",Oceania,New Zealand,Auckland
+Estádio 11 de Novembro,"50,000",Africa,Angola,Luanda
+Henan Provincial Stadium,"50,000",East Asia,China,Zhengzhou
+Jiangxi Olympic Sports Center,"50,000",East Asia,China,Nanchang
+Max-Morlock-Stadion,"50,000",Europe,Germany,Nuremberg
+June 11 Stadium,"50,000",Africa,Libya,Tripoli
+Xinjiang Sports Centre Stadium,"50,000",East Asia,China,Urumqi
+Kim Il-sung Stadium,"50,000",East Asia,North Korea,Pyongyang
+EDION Stadium Hiroshima,"50,000",East Asia,Japan,Hiroshima
+Pars Shiraz Stadium,"50,000",West Asia,Iran,Shiraz
+Stade du 26 mars,"50,000",Africa,Mali,Bamako
+Stade Abdoulaye Wade,"50,000",Africa,Senegal,Dakar
+Sultan Mizan Zainal Abidin Stadium,"50,000",Southeast Asia,Malaysia,Kuala Terengganu
+Estadio Akron,"49,850",North America,Mexico,Guadalajara
+Levy Mwanawasa Stadium,"49,800",Africa,Zambia,Lusaka
+Fritz-Walter-Stadion,"49,780",Europe,Germany,Kaiserslautern
+Estadio José Amalfitani,"49,540",South America,Argentina,Buenos Aires
+Camille Chamoun Sports City Stadium,"49,500",West Asia,Lebanon,Beirut
+Miyagi Stadium,"49,133",East Asia,Japan,"Rifu, Miyagi"
+Incheon Munhak Stadium,"49,084",East Asia,South Korea,Incheon
+Heinz-von-Heiden-Arena,"49,000",Europe,Germany,Hanover
+Parc des Princes,"48,712",Europe,France,Paris
+Stadium of Light,"48,707",Europe,England,"Sunderland, Tyne and Wear"
+Estadio Nacional,"48,665",South America,Chile,Santiago
+Nelson Mandela Bay Stadium,"48,459",Africa,South Africa,"Port Elizabeth, Eastern Cape"
+Estadio Tomás Adolfo Ducó,"48,314",South America,Argentina,Buenos Aires
+Jinnah Sports Stadium,"48,200",South Asia,Pakistan,Islamabad
+Estadio Libertadores de América,"48,069",South America,Argentina,Avellaneda
+Free State Stadium,"48,000",Africa,South Africa,"Bloemfontein, Free State"
+Nagai Stadium,"47,816",East Asia,Japan,Osaka
+Neo Química Arena,"47,605",South America,Brazil,"São Paulo, São Paulo"
+Rogers Centre,"47,568",North America,Canada,"Toronto, Ontario"
+Estadio Monumental,"47,347",South America,Chile,Santiago
+Stadio Artemio Franchi,"47,282",Europe,Italy,Florence
+Estadio Ciudad de Lanús – Néstor Díaz Pérez,"47,027",South America,Argentina,Lanús
+Estadio Metropolitano Roberto Meléndez,"46,788",South America,Colombia,Barranquilla
+Estádio Olímpico Nilton Santos,"46,831",South America,Brazil,"Rio de Janeiro, Rio de Janeiro"
+Itaipava Arena Pernambuco,"46,154",South America,Brazil,São Lourenço da Mata
+Arena MRV,"46,000",South America,Brazil,Belo Horizonte
+Estádio Paulo Constantino,"45,954",South America,Brazil,"Presidente Prudente, São Paulo"
+Estadio Atanasio Girardot,"45,739",South America,Colombia,Medellín
+Estadio Ramón Sánchez Pizjuán,"45,500",Europe,Spain,Seville
+Adrar Stadium,"45,480",Africa,Morocco,Agadir
+Lukoil Arena,"45,360",Europe,Russia,Moscow
+Grand stade de Marrakech,"45,240",Africa,Morocco,Marrakesh
+Mandela National Stadium,"45,202",Africa,Uganda,Kampala
+Tarczyński Arena Wrocław,"45,105",Europe,Poland,Wrocław
+Kazan Arena,"45,105",Europe,Russia,Kazan
+Estadio Inca Garcilaso de la Vega,"45,056",South America,Peru,Cusco
+24 February 1956 Stadium,"45,000",Africa,Algeria,Sidi Bel Abbès
+Estádio da Machava,"45,000",Africa,Mozambique,Maputo
+Stadion Gelora Bung Tomo,"45,000",Southeast Asia,Indonesia,"Surabaya, East Java"
+Stadion Harapan Banga,"45,000",Southeast Asia,Indonesia,"Banda Aceh, Aceh"
+Estadio General Pablo Rojas,"45,000",South America,Paraguay,Asunción
+Latakia Sports City Stadium,"45,000",West Asia,Syria,Latakia
+Zibo Sports Centre Stadium,"45,000",East Asia,China,Zibo
+Weifang Sports Centre Stadium,"45,000",East Asia,China,Weifang
+Yantai Sports Park Stadium,"45,000",East Asia,China,Yantai
+Stadium Tuanku Abdul Rahman,"45,000",Southeast Asia,Malaysia,Seremban
+Stade du Complexe sportif de Fès,"45,000",Africa,Morocco,Fes
+Lagos National Stadium,"45,000",Africa,Nigeria,Lagos
+Egyptian Army Stadium,"45,000",Africa,Egypt,Suez
+Toyota Stadium,"45,000",East Asia,Japan,Toyota City
+Zayed Sports City Stadium,"45,000",West Asia,United Arab Emirates,Abu Dhabi
+Red Bull Arena,"44,345",Europe,Germany,Leipzig
+Estádio Governador Alberto Tavares Silva,"44,200",South America,Brazil,Teresina
+Estádio Universitário Pedro Pedrossian,"44,200",South America,Brazil,Campo Grande
+Ulsan Munsu Football Stadium,"44,102",East Asia,South Korea,Ulsan
+Arena Pantanal,"44,097",South America,Brazil,"Cuiabá, Mato Grosso"
+Arena da Amazônia,"44,000",South America,Brazil,"Manaus, Amazonas"
+Suwon World Cup Stadium,"43,959",East Asia,South Korea,Suwon
+Stadion Utama Riau,"43,923",Southeast Asia,Indonesia,Pekanbaru
+Allianz Parque,"43,713",South America,Brazil,"São Paulo, São Paulo"
+Shandong Provincial Stadium,"43,700",East Asia,China,Jinan
+Polsat Plus Arena Gdańsk,"43,615",Europe,Poland,Gdańsk
+Estadio Pedro Bidegain,"43,494",South America,Argentina,Buenos Aires
+Stadion Miejski w Poznaniu,"43,269",Europe,Poland,Poznań
+Vasil Levski National Stadium,"43,230",Europe,Bulgaria,Sofia
+Estadio Universidad San Marcos,"43,000",South America,Peru,Lima
+Ullevi,"43,000",Europe,Sweden,Gothenburg
+Jinzhou Binhai Sports Centre Stadium,"43,000",East Asia,China,Jinzhou
+Estadio General Santander,"42,901",South America,Colombia,Cúcuta
+Villa Park,"42,682",Europe,England,Birmingham
+Perak Stadium,"42,500",Southeast Asia,Malaysia,Perak
+Jeonju World Cup Stadium,"42,477",East Asia,South Korea,Jeonju
+Ligga Arena,"42,372",South America,Brazil,Curitiba
+Weserstadion,"42,358",Europe,Germany,Bremen
+Denka Big Swan Stadium,"42,300",East Asia,Japan,"Niigata, Niigata"
+Estadio Olimpico Metropolitano de Mérida,"42,200",South America,Venezuela,Mérida
+Daejeon World Cup Stadium,"42,176",East Asia,South Korea,Daejeon
+Matmut ATLANTIQUE,"42,115",Europe,France,Bordeaux
+Helsingin Olympiastadion,"42,062",Europe,Finland,Helsinki
+Estádio Serra Dourada,"42,000",South America,Brazil,Goiânia
+Estadio Deportivo Cali,"42,000",South America,Colombia,Cali
+Estadio Modelo Alberto Spencer,"42,000",South America,Ecuador,Guayaquil
+Estádio do Zimpeto,"42,000",Africa,Mozambique,Maputo
+Chengdu Sports Centre Stadium,"42,000",East Asia,China,Chengdu
+Royal Bafokeng Stadium,"42,000",Africa,South Africa,"Phokeng, North West"
+Estadio Universitario,"42,000",North America,Mexico,San Nicolás de los Garza
+Estadio Brigadier General Estanislao López,"42,000",South America,Argentina,Santa Fe
+Estadio Marcelo Bielsa,"42,000",South America,Argentina,Rosario
+Stade Geoffroy-Guichard,"41,965",Europe,France,Saint-Étienne
+Vodafone Park,"41,903",Europe,Turkey,Istanbul
+Peter Mokaba Stadium,"41,733",Africa,South Africa,Polokwane
+Estadio Gigante de Arroyito,"41,654",South America,Argentina,Rosario
+Estadio Cachamay,"41,600",South America,Venezuela,Ciudad Guayana
+Estadio de Liga Deportiva Universitaria,"41,596",South America,Ecuador,Quito
+Allianz Stadium,"41,507",Europe,Italy,"Turin, Piedmont"
+Sapporo Dome,"41,484",East Asia,Japan,Sapporo
+Stamford Bridge,"41,663",Europe,England,London
+Goyang Stadium,"41,311",East Asia,South Korea,Goyang
+Estadio Hernando Siles,"41,143",South America,Bolivia,La Paz
+Bingu National Stadium,"41,100",Africa,Malawi,Lilongwe
+Mbombela Stadium,"40,929",Africa,South Africa,"Nelspruit, Mpumalanga"
+Estadio José Pachencho Romero,"40,800",South America,Venezuela,Maracaibo
+Stade Nelson Mandela,"40,784",Africa,Algeria,Algiers
+Kashima Football Stadium,"40,728",East Asia,Japan,"Kashima, Ibaraki"
+Baba Yara Stadium,"40,528",Africa,Ghana,Kumasi
+Estádio Major Antônio Couto Pereira,"40,502",South America,Brazil,"Curitiba, Paraná"
+Stage Front Stadium,"40,500",Europe,Spain,Barcelona
+Estadio Metropolitano de fútbol de Lara,"40,312",South America,Venezuela,Barquisimeto
+Estadio Malvinas Argentinas,"40,268",South America,Argentina,Mendoza
+Stadion Lukas Enembe,"40,263",Southeast Asia,Indonesia,Nolokla
+Gwangju World Cup Stadium,"40,245",East Asia,South Korea,Gwangju
+Sân vận động Quốc gia Mỹ Đình,"40,192",Southeast Asia,Vietnam,Hanoi
+Goodison Park,"40,157",Europe,England,"Liverpool, North West"
+Estádio Governador João Castelo,"40,149",South America,Brazil,"São Luís, Maranhão"
+Miloud Hadefi Stadium,"40,143",Africa,Algeria,Oran
+Estadio Campeón del Siglo,"40,005",South America,Uruguay,Montevideo
+Metalist Stadium,"40,003",Europe,Ukraine,Kharkiv
+Al-Janoub Stadium,"40,000",West Asia,Qatar,Al-Wakrah
+Al-Thumama Stadium,"40,000",West Asia,Qatar,Al-Thumama
+Ahmed Zabana Stadium,"40,000",Africa,Algeria,Oran
+Stadion Batakan,"40,000",Southeast Asia,Indonesia,"Balikpapan, East Kalimantan"
+Ali La Pointe Stadium,"40,000",Africa,Algeria,Algiers
+Stadion Gelora Joko Samudro,"40,000",Southeast Asia,Indonesia,"Gresik, East Java"
+Fisht Olympic Stadium,"40,000",Europe,Russia,Sochi
+Rentschler Field,"40,000",North America,United States,"East Hartford, Connecticut"
+Jawaharlal Nehru Stadium,"40,000",South Asia,India,Kochi
+Hang Jebat Stadium,"40,000",Southeast Asia,Malaysia,Malacca
+Hong Kong Stadium,"40,000",East Asia,Hong Kong,So Kon Po
+Stadium Negeri Pulau Pinang,"40,000",Southeast Asia,Malaysia,Batu Kawan
+Accra Sports Stadium,"40,000",Africa,Ghana,Accra
+Sarawak Stadium,"40,000",Southeast Asia,Malaysia,Kuching
+Bogyoke Aung San Stadium,"40,000",Southeast Asia,Myanmar,Yangon
+Resonac Dome Ōita,"40,000",East Asia,Japan,Ōita
+Stadium Darul Makmur,"40,000",Southeast Asia,Malaysia,Kuantan
+Khalifa International Stadium,"40,000",West Asia,Qatar,Doha
+Stade de l’Amitié sino-gabonaise,"40,000",Africa,Gabon,Libreville
+Peoples Football Stadium,"40,000",South Asia,Pakistan,Karachi
+JRD Tata Sports Complex Stadium,"40,000",South Asia,India,Jamshedpur
+Bao'an Stadium,"40,000",East Asia,China,Shenzhen
+Kunming Tuodong Sports Centre Stadium,"40,000",East Asia,China,Kunming
+Taizhou Sports Centre Stadium,"40,000",East Asia,China,Taizhou
+Wuhu Olympic Stadium,"40,000",East Asia,China,Wuhu
+Huizhou Olympic Stadium,"40,000",East Asia,China,Huizhou
