@@ -133,7 +133,7 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
   * Regional mapping using coordinates
 
 ---
-## 📌 Visuals & Screenshots
+## 📌 Visuals 
 
 ### 📌 Airflow DAG
 
