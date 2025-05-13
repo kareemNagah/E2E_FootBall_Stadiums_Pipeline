@@ -4,6 +4,30 @@ An end-to-end data engineering pipeline that extracts, transforms, enriches, and
 
 ---
 
+## 📚 Table of Contents
+
+* [🚀 Project Architecture](#-project-architecture)
+* [📊 Workflow Diagram](#-workflow-diagram)
+* [⚙️ Technologies Used](#%ef%b8%8f-technologies-used)
+* [📂 Project Structure](#-project-structure)
+* [🔧 Setup Instructions](#-setup-instructions)
+
+  * [🔹 Prerequisites](#-prerequisites)
+  * [🔹 Local Airflow Setup (Docker-Based)](#-local-airflow-setup-docker-based)
+  * [🔹 Configure Azure Blob Storage](#-configure-azure-blob-storage)
+  * [🔹 Azure Data Factory](#-azure-data-factory)
+  * [🔹 Azure Synapse Setup](#-azure-synapse-setup)
+  * [🔹 Power BI Dashboard](#-power-bi-dashboard)
+* [📊 Dashboard Example](#-dashboard-example)
+* [📌 Visuals](#-visuals)
+
+  * [📌 Airflow DAG](#-airflow-dag)
+  * [📌 Azure Data Factory](#-azure-data-factory)
+  * [📌 Synapse SQL Query](#-synapse-sql-query)
+* [🤝 Credits](#-credits)
+* [📄 License](#-license)
+  
+---
 ## 🚀 Project Architecture
 
 ![Cloud Architecture](images/Architecture.png)
