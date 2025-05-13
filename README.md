@@ -137,17 +137,33 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
 
 ### 📌 Airflow DAG
 
-![Airflow DAG Screenshot](images/airflow_dag.png)
+<p align = "center" >
+  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Airflow_DAG.jpeg?raw=true" /> 
+</p>
+
+
 *Figure: Airflow DAG orchestrating the extract, transform, and load tasks.*
 
-### 📌 Azure Data Factory Pipeline
-![Azure Data Factory Pipeline](images/adf_pipeline.png)
-*Figure: Azure Data Factory pipeline successfully copying data from Azure Data Lake to Synapse.*
+### 📌 Azure Data Factory 
 
-### 📌 Azure Data Factory Pipeline
+<p align = "center" >
+  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/ADF.jpeg" /> 
+</p>
 
-![Azure Data Factory Pipeline](images/adf_pipeline.png)
-*Figure: Azure Data Factory pipeline successfully copying data from Azure Data Lake to Synapse.*
+### 📌 Synapse SQL Query
+
+<p align = "center" >
+  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Screenshot_8-5-2025_124135_web.azuresynapse.net.jpeg" /> 
+</p>
+
+<p align = "center" >
+  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Screenshot_8-5-2025_13337_web.azuresynapse.net.jpeg" /> 
+</p>
+
+- [Synapse SQL scripts](https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/script/SQL%20script%201.sql)
+
+*Figure: Querying stadiums data directly from Azure Synapse.* 
+
 ---
 
 ## 🤝 Credits
