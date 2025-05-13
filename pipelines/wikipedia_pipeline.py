@@ -32,7 +32,7 @@ def extract_wikipedia_data(**kwargs):
         url = kwargs['url']
         print(f"Starting extraction from {url}")
         
-        # Get the Wikipedia page content
+       
         content = get_wikipedia_page(url)
         if not content:
             raise ValueError(f"Failed to retrieve content from {url}")
@@ -44,10 +44,10 @@ def extract_wikipedia_data(**kwargs):
         if len(tables) < 2:
             raise ValueError(f"Expected at least 2 wikitables, but found {len(tables)}")
             
-        table = tables[1]  # Get the second table
+        table = tables[1]  
         
-        # Extract data row by row
-        rows = table.xpath('.//tr')[1:]  # Skip header row
+      
+        rows = table.xpath('.//tr')[1:]  
         if not rows:
             raise ValueError("No data rows found in the table")
             
@@ -63,7 +63,7 @@ def extract_wikipedia_data(**kwargs):
         
         for i, row in enumerate(rows):
             try:
-                # Extract each column value, using None if not found
+                
                 stadium = row.xpath('./td[1]//a/text()')
                 stadium_name = stadium[0] if stadium else None
                 
@@ -95,7 +95,7 @@ def extract_wikipedia_data(**kwargs):
             
         print(f"Successfully extracted data for {len(data['stadiums'])} stadiums")
         
-        # Create DataFrame and save data
+        
         df = pd.DataFrame(data)
         
         # Clean data - remove rows with missing essential data
@@ -124,10 +124,13 @@ def extract_wikipedia_data(**kwargs):
         print(f"Error in extract_wikipedia_data: {e}")
         raise
 
-
+# Use the geocoding module 
 def get_stadium_lat_long(country, stadium_name, city=None):
-    # Use the geocoding module with fallback functionality
+    
     return get_stadium_location(country, stadium_name, city)
+
+
+
 
 def transform_wikipedia_data(**kwargs):
     try:
@@ -150,7 +153,9 @@ def transform_wikipedia_data(**kwargs):
         # Get locations for all stadiums with improved geocoding
         print("Starting primary geocoding process...")
         locations = []
-        for _, row in df.iterrows():
+
+    
+        for _ , row in df.iterrows():
             try:
                 location = get_stadium_lat_long(row['country'], row['stadiums'], row['city'])
                 locations.append(location)
@@ -196,11 +201,13 @@ def transform_wikipedia_data(**kwargs):
         missing_count = df['location'].isna().sum()
         df['location'] = df['location'].fillna('Location not found')
         
-        # Log statistics
+        # for Log 
         print(f"Geocoding complete: {len(df) - missing_count}/{len(df)} locations found ({(len(df) - missing_count) / len(df) * 100:.1f}%)")
         
-        # push to xcom - ensure we're passing a properly formatted JSON string
+        # push to xcom 
         # Using orient='records' to create a list of dictionaries that pandas can parse back
+
+
         json_data = df.to_json(orient='records')
         kwargs['ti'].xcom_push(key='transformed_data', value=json_data)
         
@@ -254,13 +261,14 @@ def write_wikipedia_data(**kwargs):
         csv_buffer = StringIO()  
         df.to_csv(csv_buffer, index=False)
         csv_data = csv_buffer.getvalue()
-        sas_key = os.environ["AZURE_SAS_KEY"]
+        
+        sas_key = os.getenv("AZURE_SAS_KEY")
         sas_url= f'https://footballstorage.blob.core.windows.net/footballde/Data/cleaned_stadiums_data_{current_time}.csv' + sas_key
     
         blob_client = BlobClient.from_blob_url(sas_url)
         blob_client.upload_blob(csv_data, overwrite=True)
         
-        print(f"Successfully saved data to {csv_path} and {json_path}")
+        #print(f"Successfully saved data to {csv_path} and {json_path}")
         print(f"Total stadiums processed: {len(df)}")
         print(f"Stadiums with locations found: {df['location'].notna().sum()}")
         
