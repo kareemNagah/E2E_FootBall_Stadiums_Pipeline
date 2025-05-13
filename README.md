@@ -160,9 +160,9 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
   <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Screenshot_8-5-2025_13337_web.azuresynapse.net.jpeg" /> 
 </p>
 
-- [Synapse SQL scripts](https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/script/SQL%20script%201.sql)
+*Figure: Querying stadiums data directly from Azure Synapse.*
 
-*Figure: Querying stadiums data directly from Azure Synapse.* 
+- [Synapse SQL scripts](https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/script/SQL%20script%201.sql)
 
 ---
 
