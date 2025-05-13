@@ -262,7 +262,7 @@ def write_wikipedia_data(**kwargs):
         df.to_csv(csv_buffer, index=False)
         csv_data = csv_buffer.getvalue()
         
-        sas_key = os.getenv("AZURE_SAS_KEY")
+        sas_key = str(os.getenv("AZURE_SAS_KEY"))
         sas_url= f'https://footballstorage.blob.core.windows.net/footballde/Data/cleaned_stadiums_data_{current_time}.csv' + sas_key
     
         blob_client = BlobClient.from_blob_url(sas_url)
