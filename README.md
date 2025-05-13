@@ -76,20 +76,20 @@ This pipeline is orchestrated using Apache Airflow and includes the following st
 
 ### 🔹 Local Airflow Setup (Docker-Based)
 
-### 1. Clone the repo
+#### 1. Clone the repo
 
 ```bash
 git clone https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline.git
 cd E2E_FootBall_Stadiums_Pipeline
 ```
 
-### 2. Run Airflow using Docker
+#### 2. Run Airflow using Docker
 
 ```bash
 docker-compose up -d --build
 ```
 
-### 3. Access Airflow UI
+#### 3. Access Airflow UI
 
 Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`.
 
@@ -108,7 +108,7 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
 
 1. Create a new pipeline with a Copy Data activity.
 2. Source: Configure the dataset to point to your Azure Data Lake file.
-3. USink: Configure Azure Synapse Analytics as destination.
+3. Sink: Configure Azure Synapse Analytics as destination.
 
 ### 🔹 Azure Synapse Setup
 
@@ -132,6 +132,22 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
   * Capacity-based insights
   * Regional mapping using coordinates
 
+---
+## 📌 Visuals & Screenshots
+
+### 📌 Airflow DAG
+
+![Airflow DAG Screenshot](images/airflow_dag.png)
+*Figure: Airflow DAG orchestrating the extract, transform, and load tasks.*
+
+### 📌 Azure Data Factory Pipeline
+![Azure Data Factory Pipeline](images/adf_pipeline.png)
+*Figure: Azure Data Factory pipeline successfully copying data from Azure Data Lake to Synapse.*
+
+### 📌 Azure Data Factory Pipeline
+
+![Azure Data Factory Pipeline](images/adf_pipeline.png)
+*Figure: Azure Data Factory pipeline successfully copying data from Azure Data Lake to Synapse.*
 ---
 
 ## 🤝 Credits
