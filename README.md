@@ -26,14 +26,15 @@ This pipeline is orchestrated using Apache Airflow and includes the following st
 
 ---
 
-## 🛠️ Tools & Technologies
+## ⚙️ Technologies Used
 
 * **Airflow** – Orchestration and scheduling
 * **Docker** – Containerized pipeline deployment
+* **LXML + XPath** - HTML parsing
 * **Python** – Data extraction and transformation (Pandas, Requests, LXML)
 * **PostgreSQL** – Metadata and logging support
 * **Geocoding API** – Enrichment with coordinates
-* **Azure Blob Storage** – Intermediate and final storage
+* **Azure Blob Storage / Azure Data Lake Gen2** - data storage
 * **Azure Data Factory** – ETL pipeline automation
 * **Azure Synapse Analytics** – Data warehousing and processing
 * **Power BI** – Dashboard and reporting
@@ -60,21 +61,20 @@ This pipeline is orchestrated using Apache Airflow and includes the following st
 ├── postgres_data 
 └── requirements.txt
 ```
+--- 
 
----
+## 🔧 Setup Instructions
 
-## 📊 Dashboard Example
+### 🔹 Prerequisites
 
-* Cleaned and geocoded data are aggregated and visualized in Power BI.
-* Dashboards may include:
+* Azure Subscription
+* Azure Storage Account with Data Lake Gen2 enabled
+* Azure Synapse Workspace
+* Azure Data Factory
+* Power BI Desktop
+* Docker + Docker Compose (for Airflow)
 
-  * Stadium distribution by country
-  * Capacity-based insights
-  * Regional mapping using coordinates
-
----
-
-## 🧪 How to Run
+### 🔹 Local Airflow Setup (Docker-Based)
 
 ### 1. Clone the repo
 
@@ -92,6 +92,45 @@ docker-compose up -d --build
 ### 3. Access Airflow UI
 
 Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`.
+
+
+### 🔹 Configure Azure Blob Storage
+
+1. Create a Storage Account with Hierarchical namespace enabled.
+
+2. Create a Container (e.g., stadiums-data).
+
+3. Generate a SAS token or use Azure credentials for access.
+
+4. Update environment variables or Airflow connections for access.
+
+### 🔹 Azure Data Factory
+
+1. Create a new pipeline with a Copy Data activity.
+2. Source: Configure the dataset to point to your Azure Data Lake file.
+3. USink: Configure Azure Synapse Analytics as destination.
+
+### 🔹 Azure Synapse Setup
+
+1. Create a serverless SQL pool
+2. Create a table schema matching the stadiums CSV
+3. Connect Power BI to Synapse for querying and visualization
+
+### 🔹 Power BI Dashboard
+
+* Use **Azure Blob Storage endpoint** as data source
+* Create visualisations 
+
+---
+
+## 📊 Dashboard Example
+
+* Cleaned and geocoded data are aggregated and visualized in Power BI.
+* Dashboards may include:
+
+  * Stadium distribution by country
+  * Capacity-based insights
+  * Regional mapping using coordinates
 
 ---
 
