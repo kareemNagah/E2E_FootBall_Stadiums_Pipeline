@@ -18,9 +18,8 @@ An end-to-end data engineering pipeline that extracts, transforms, enriches, and
   * [🔹 Azure Data Factory](#-azure-data-factory)
   * [🔹 Azure Synapse Setup](#-azure-synapse-setup)
   * [🔹 Power BI Dashboard](#-power-bi-dashboard)
-* [📊 Dashboard Example](#-dashboard-example)
+* [📊 Simple Dashboard](#-simple-dashboard)
 * [📌 Visuals](#-visuals)
-
   * [📌 Airflow DAG](#-airflow-dag)
   * [📌 Azure Data Factory](#-azure-data-factory)
   * [📌 Synapse SQL Query](#-synapse-sql-query)
@@ -147,14 +146,18 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
 
 ---
 
-## 📊 Dashboard Example
+## 📊 Simple Dashboard 
 
-* Cleaned and geocoded data are aggregated and visualized in Power BI.
-* Dashboards may include:
 
-  * Stadium distribution by country
-  * Capacity-based insights
-  * Regional mapping using coordinates
+<p align = "center" >
+  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Football_dashboard.png" /> 
+</p>
+
+* Filter to Africa Stadiums
+  
+<p align = "center" >
+  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/FootBall_dashboard_2.png" /> 
+</p>
 
 ---
 ## 📌 Visuals 
