@@ -2,6 +2,12 @@
 
 An end-to-end data engineering pipeline that extracts, transforms, enriches, and analyzes football stadium data from Wikipedia. This project utilizes web scraping, data transformation, geocoding, cloud storage, and data warehousing to enable robust analytics and reporting using Azure Synapse and Power BI.
 
+## Pipeline walkthrough
+
+[![Architecture → Airflow DAG → cloud copy → stadium dashboard](docs/media/pipeline-tour.gif)](docs/media/pipeline-tour.mp4)
+
+[Watch the video](docs/media/pipeline-tour.mp4) · [View the static architecture diagram](images/Architecture.png)
+
 ---
 
 ## 📚 Table of Contents
@@ -150,13 +156,13 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
 
 
 <p align = "center" >
-  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Football_dashboard.png" /> 
+  <img src="images/Football_dashboard.png" alt="Power BI stadium capacity report with a map and regional breakdown" /> 
 </p>
 
 * Filter to Africa Stadiums
   
 <p align = "center" >
-  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/FootBall_dashboard_2.png" /> 
+  <img src="images/FootBall_dashboard_2.png" alt="Power BI detail view of stadium locations and regions" /> 
 </p>
 
 ---
@@ -165,7 +171,7 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
 ### 📌 Airflow DAG
 
 <p align = "center" >
-  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Airflow_DAG.jpeg?raw=true" /> 
+  <img src="images/Airflow_DAG.jpeg" alt="Airflow graph showing extraction, transformation and upload tasks" /> 
 </p>
 
 
@@ -174,17 +180,17 @@ Go to `http://localhost:8080` and trigger the DAG: `wikipedia_stadiums_pipeline`
 ### 📌 Azure Data Factory 
 
 <p align = "center" >
-  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/ADF.jpeg" /> 
+  <img src="images/ADF.jpeg" alt="Azure Data Factory stadium copy activity" /> 
 </p>
 
 ### 📌 Synapse SQL Query
 
 <p align = "center" >
-  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Screenshot_8-5-2025_124135_web.azuresynapse.net.jpeg" /> 
+  <img src="images/Screenshot_8-5-2025_124135_web.azuresynapse.net.jpeg" alt="Stadium data query in Azure Synapse Studio" /> 
 </p>
 
 <p align = "center" >
-  <img src= "https://github.com/kareemNagah/E2E_FootBall_Stadiums_Pipeline/blob/main/images/Screenshot_8-5-2025_13337_web.azuresynapse.net.jpeg" /> 
+  <img src="images/Screenshot_8-5-2025_13337_web.azuresynapse.net.jpeg" alt="Second view of stadium data analysis in Synapse Studio" /> 
 </p>
 
 *Figure: Querying stadiums data directly from Azure Synapse.*
